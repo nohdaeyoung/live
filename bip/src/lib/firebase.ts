@@ -25,14 +25,6 @@ const app = hasCoreFirebaseConfig
     : getApp()
   : null;
 
-// expose init status for debug in browser
-try {
-  if (typeof window !== 'undefined') {
-    (window as any).__liveChatDebug = (window as any).__liveChatDebug || { lastError: null, firebaseInit: null };
-    (window as any).__liveChatDebug.firebaseInit = !!app;
-  }
-} catch {}
-
 export const db: any = app ? getFirestore(app) : null;
 export const rtdb: any =
   app && firebaseConfig.databaseURL

@@ -1,6 +1,5 @@
 "use client";
 
-import { useEffect, useState } from "react";
 import { RPGDialogue } from "@/components/home/rpg-dialogue";
 import { OrgChart } from "@/components/home/org-chart";
 import { ProjectBoard } from "@/components/home/project-board";
@@ -26,9 +25,6 @@ export default function HomePage() {
           ))}
         </div>
       </section>
-
-      {/* Debug / Recovery panel (temporary) */}
-      <DebugPanel />
 
       {/* 2. 지금 뭐하고 있는지 — 실시간 대화 */}
       <RPGDialogue />
@@ -64,89 +60,5 @@ export default function HomePage() {
         </div>
       </footer>
     </main>
-  );
-}
-
-function DebugPanel() {
-  const [dbg, setDbg] = useState<any>(null);
-  const [recent, setRecent] = useState<any[]>([]);
-
-  useEffect(() => {
-    try {
-      const w = (window as any).__liveChatDebug || { lastError: null, firebaseInit: null };
-      setDbg(w);
-
-      // try to read Firestore client if available
-      // eslint-disable-next-line @typescript-eslint/no-var-requires
-      const fb = require("@/lib/firebase");
-      const attemptWithDb = async (dbInstance: any) => {
-        try {
-          const { collection, query, orderBy, limit, getDocs, addDoc } = await import('firebase/firestore');
-          const q = query(collection(dbInstance, 'chat_logs'), orderBy('timestamp', 'desc'), limit(5));
-          getDocs(q).then((snap: any) => {
-            const rows: any[] = [];
-            snap.forEach((d: any) => rows.push({ id: d.id, ...d.data() }));
-            setRecent(rows.reverse());
-          }).catch(() => {});
-
-          // send one-time debug report
-          try {
-            const payload = {
-              ts: new Date().toISOString(),
-              payload: JSON.stringify(w).slice(0, 2000),
-            };
-            if (!(window as any).__debug_report_sent) {
-              await addDoc(collection(dbInstance, 'debug_reports'), payload);
-              (window as any).__debug_report_sent = true;
-              console.log('[debug] debug_reports written');
-            }
-          } catch (e) {
-            console.log('[debug] debug report failed', e);
-          }
-        } catch (e) {
-          // ignore
-        }
-      };
-
-      if (fb && fb.db) {
-        attemptWithDb(fb.db);
-      } else {
-        // fallback: try to initialize client-side firebase with exported firebaseConfig
-        import('@/lib/firebase').then(({ firebaseConfig }) => {
-          if (firebaseConfig && firebaseConfig.apiKey) {
-            Promise.all([import('firebase/app'), import('firebase/firestore')])
-              .then(([appMod, fsMod]) => {
-                try {
-                  const app = appMod.initializeApp(firebaseConfig);
-                  const dbInstance = fsMod.getFirestore(app);
-                  attemptWithDb(dbInstance);
-                } catch (e) {
-                  console.log('[debug] client init failed', e);
-                }
-              })
-              .catch(() => {});
-          }
-        }).catch(() => {});
-      }
-    } catch (e) {
-      // ignore
-    }
-  }, []);
-
-  return (
-    <div className="w-full max-w-2xl mx-auto px-4 py-4">
-      <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-3 text-sm">
-        <div className="font-bold text-sm text-yellow-800 mb-1">디버그 패널 (임시)</div>
-        <div className="text-xs text-yellow-900">Firebase Init: {String(dbg?.firebaseInit ?? 'unknown')}</div>
-        <div className="text-xs text-yellow-900">Last Error: {dbg?.lastError ? String(dbg.lastError) : 'none'}</div>
-        <div className="mt-2 text-xs text-gray-700">최근 메시지 (클라이언트에서 읽을 수 있으면 표시됩니다):</div>
-        <ul className="mt-1 text-xs">
-          {recent.length === 0 ? <li className="text-gray-500">(없음)</li> : recent.map((r, i) => (
-            <li key={i} className="border rounded px-2 py-1 mt-1 bg-white">{r.content?.slice?.(0,120) ?? JSON.stringify(r)}</li>
-          ))}
-        </ul>
-        <div className="mt-2 text-[11px] text-gray-600">주의: 민감 정보는 표시되지 않습니다.</div>
-      </div>
-    </div>
   );
 }

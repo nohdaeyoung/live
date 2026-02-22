@@ -43,12 +43,6 @@ function docToLog(doc: QueryDocumentSnapshot<DocumentData>): ChatLog {
 }
 
 export function useLiveChat(initialLimit = PAGE_SIZE) {
-  // Debug helpers: expose last error and firebase init status to window for remote inspection.
-  try {
-    (window as any).__liveChatDebug = (window as any).__liveChatDebug || { lastError: null, firebaseInit: null };
-  } catch {
-    // ignore (SSR)
-  }
   // messages는 시간순: [0]=오래된, [n]=최신 (렌더링용)
   const [messages, setMessages] = useState<ChatLog[]>([]);
   const [loading, setLoading] = useState(true);
