@@ -1,7 +1,8 @@
 "use client";
 
 import { useLiveChat } from "@/hooks/use-live-chat";
-import Image from "next/image";
+// use native <img> for static-export compatibility (avoid next/image optimization issues)
+
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
@@ -119,12 +120,11 @@ export function RPGDialogue() {
                 transition={{ duration: 0.3 }}
                 className="relative w-full h-full"
               >
-                <Image
+                <img
                   src={profile.image}
                   alt="Character"
-                  fill
-                  className="object-cover"
-                  priority
+                  className="absolute inset-0 w-full h-full object-cover"
+                  onError={(e) => { (e.target as HTMLImageElement).src = '/profile-home.jpeg'; }}
                 />
               </motion.div>
             </AnimatePresence>
