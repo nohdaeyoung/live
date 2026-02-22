@@ -79,42 +79,56 @@ function DebugPanel() {
       // try to read Firestore client if available
       // eslint-disable-next-line @typescript-eslint/no-var-requires
       const fb = require("@/lib/firebase");
-      if (fb && fb.db) {
-        const db = fb.db;
-        // Read recent chat logs
-        import("firebase/firestore").then(({ collection, query, orderBy, limit, getDocs, addDoc }) => {
+      const attemptWithDb = async (dbInstance: any) => {
+        try {
+          const { collection, query, orderBy, limit, getDocs, addDoc } = await import('firebase/firestore');
+          const q = query(collection(dbInstance, 'chat_logs'), orderBy('timestamp', 'desc'), limit(5));
+          getDocs(q).then((snap: any) => {
+            const rows: any[] = [];
+            snap.forEach((d: any) => rows.push({ id: d.id, ...d.data() }));
+            setRecent(rows.reverse());
+          }).catch(() => {});
+
+          // send one-time debug report
           try {
-            const q = query(collection(db, 'chat_logs'), orderBy('timestamp', 'desc'), limit(5));
-            getDocs(q).then((snap: any) => {
-              const rows: any[] = [];
-              snap.forEach((d: any) => rows.push({ id: d.id, ...d.data() }));
-              setRecent(rows.reverse());
-            }).catch(() => {});
-
-            // Also send one-time debug report to debug_reports collection for automated capture
-            const reporter = async () => {
-              try {
-                const payload = {
-                  ts: new Date().toISOString(),
-                  payload: JSON.stringify(w).slice(0, 2000),
-                };
-                // avoid duplicate sends within a session
-                if (!(window as any).__debug_report_sent) {
-                  await addDoc(collection(db, 'debug_reports'), payload);
-                  (window as any).__debug_report_sent = true;
-                  console.log('[debug] debug_reports written');
-                }
-              } catch (e) {
-                // ignore write failures
-                console.log('[debug] debug report failed', e);
-              }
+            const payload = {
+              ts: new Date().toISOString(),
+              payload: JSON.stringify(w).slice(0, 2000),
             };
-            reporter();
-
+            if (!(window as any).__debug_report_sent) {
+              await addDoc(collection(dbInstance, 'debug_reports'), payload);
+              (window as any).__debug_report_sent = true;
+              console.log('[debug] debug_reports written');
+            }
           } catch (e) {
-            // ignore
+            console.log('[debug] debug report failed', e);
           }
-        }).catch(() => {});
+        } catch (e) {
+          // ignore
+        }
+      };
+
+      if (fb && fb.db) {
+        attemptWithDb(fb.db);
+      } else {
+        // fallback: try to initialize client-side firebase with exported firebaseConfig
+        try {
+          const { firebaseConfig } = await import('@/lib/firebase');
+          if (firebaseConfig && firebaseConfig.apiKey) {
+            const { initializeApp } = await import('firebase/app');
+            const { getFirestore } = await import('firebase/firestore');
+            try {
+              const app = initializeApp(firebaseConfig);
+              const dbInstance = getFirestore(app);
+              attemptWithDb(dbInstance);
+            } catch (e) {
+              // ignore client init failures
+              console.log('[debug] client init failed', e);
+            }
+          }
+        } catch (e) {
+          // ignore import errors
+        }
       }
     } catch (e) {
       // ignore
