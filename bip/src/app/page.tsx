@@ -112,23 +112,21 @@ function DebugPanel() {
         attemptWithDb(fb.db);
       } else {
         // fallback: try to initialize client-side firebase with exported firebaseConfig
-        try {
-          const { firebaseConfig } = await import('@/lib/firebase');
+        import('@/lib/firebase').then(({ firebaseConfig }) => {
           if (firebaseConfig && firebaseConfig.apiKey) {
-            const { initializeApp } = await import('firebase/app');
-            const { getFirestore } = await import('firebase/firestore');
-            try {
-              const app = initializeApp(firebaseConfig);
-              const dbInstance = getFirestore(app);
-              attemptWithDb(dbInstance);
-            } catch (e) {
-              // ignore client init failures
-              console.log('[debug] client init failed', e);
-            }
+            Promise.all([import('firebase/app'), import('firebase/firestore')])
+              .then(([appMod, fsMod]) => {
+                try {
+                  const app = appMod.initializeApp(firebaseConfig);
+                  const dbInstance = fsMod.getFirestore(app);
+                  attemptWithDb(dbInstance);
+                } catch (e) {
+                  console.log('[debug] client init failed', e);
+                }
+              })
+              .catch(() => {});
           }
-        } catch (e) {
-          // ignore import errors
-        }
+        }).catch(() => {});
       }
     } catch (e) {
       // ignore
