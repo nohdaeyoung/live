@@ -3,7 +3,7 @@ import "./globals.css";
 import { ReactionBar } from "@/components/ui/reaction-bar";
 
 export const metadata: Metadata = {
-  title: "대영 마스터 — 바이브 코딩, 전 과정 실시간 공개",
+  title: "대영 마스터 — AI 에이전트와의 대화, 전 과정 실시간 공개",
   description: "기획부터 배포까지, AI와 나누는 모든 대화를 실시간으로 공개합니다.",
   icons: {
     icon: "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👸</text></svg>",
