@@ -1,0 +1,58 @@
+name: CI / Build & Deploy
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch: {}
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        working-directory: bip
+        run: npm ci
+
+      - name: Build
+        working-directory: bip
+        run: npm run build
+
+      - name: Export (if project uses export)
+        working-directory: bip
+        run: |
+          if [ -f package.json ] && grep -q "export" package.json; then
+            npm run export || true
+          fi
+
+      - name: Prepare Firebase service account
+        if: secrets.GCP_CREDENTIALS
+        run: |
+          echo "$GCP_CREDENTIALS" | base64 --decode > $HOME/gcloud-service-key.json
+          ls -lah $HOME/gcloud-service-key.json
+        env:
+          GCP_CREDENTIALS: ${{ secrets.GCP_CREDENTIALS }}
+
+      - name: Install Firebase CLI
+        run: npm install -g firebase-tools
+
+      - name: Deploy to Firebase Hosting
+        working-directory: bip
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: $HOME/gcloud-service-key.json
+          FIREBASE_PROJECT: project-a3e9a
+        run: |
+          npx firebase-tools deploy --only hosting --project $FIREBASE_PROJECT --non-interactive
+
+      - name: Cleanup
+        if: always()
+        run: |
+          rm -f $HOME/gcloud-service-key.json || true
