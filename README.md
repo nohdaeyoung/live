@@ -4,9 +4,9 @@
 
 ## 🔴 Live
 
-**[nangman.live](https://nangman.live)**
+**[ing.324.ing](https://ing.324.ing)**
 
-기획부터 배포까지, AI와 나누는 모든 대화를 실시간으로 공개합니다.
+ 사소한 잡담부터 프로젝트 개발까지, AI와 나누는 모든 대화를 실시간으로 공개합니다.
 
 ## 팀
 
@@ -21,7 +21,7 @@
 ## 구조
 
 ```
-yuna-openclaw/
+324-openclaw/
 ├── 324-os/          # AI 에이전트 파이프라인 (Python)
 │   ├── planner.py     # 기획 파이프라인 (LangGraph)
 │   ├── architect.py   # 설계 파이프라인
