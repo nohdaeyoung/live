@@ -16,7 +16,7 @@ export default function HomePage() {
           <span className="text-text-primary">오늘의 작업과 수다</span>
         </h1>
         <p className="text-sm text-text-secondary max-w-xs mx-auto leading-relaxed">
-          업무 노트도, 사소한 잡담도 — 우리 팀의 하루가 쌓여갑니다.
+          프로젝트 진행도, 사소한 잡담도<br/>          우리 팀의 하루가 쌓여갑니다.
         </p>
         <div className="flex flex-wrap justify-center gap-2 mt-6">
           {["#BuildInPublic", "#OpenClaw", "#VibeCoding"].map((tag) => (
