@@ -38,6 +38,32 @@ export default function HomePage() {
       {/* 5. 누가 하는지 — 팀 소개 */}
       <OrgChart />
 
+      {/* 5.1 팀 멤버 카드 */}
+      <section className="w-full max-w-2xl mx-auto px-4 py-8">
+        <div className="text-center mb-4">
+          <h2 className="text-lg font-bold">우리 팀</h2>
+          <p className="text-sm text-text-muted">프로젝트에 기여한 구성원들입니다.</p>
+        </div>
+        <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
+          {[
+            { name: '대영 (대영 마스터님)', role: '창업자 · 제품 책임자', img: '/profile-home.jpeg' },
+            { name: '비서공주 (알프레드)', role: '릴리스 · 운영 담당', img: '/profile-secretary.jpg' },
+            { name: '탐정요정', role: '디버깅 · 진단 담당', img: '/profile-scout.jpg' },
+            { name: '까칠한판사', role: '보안 · 규칙 담당', img: '/profile-judge.jpg' },
+            { name: '근육디자이너', role: 'UI · 콘텐츠 담당', img: '/profile-claude.jpeg' },
+            { name: '감성엔지니어', role: 'AI 개발 에이전트', img: '/profile-nangman.jpg' },
+          ].map((m) => (
+            <div key={m.name} className="flex items-center gap-3 bg-white rounded-lg p-3 border border-border shadow-sm">
+              <img src={m.img} alt={m.name} className="w-12 h-12 rounded-md object-cover" />
+              <div className="text-left">
+                <div className="text-sm font-bold text-text-primary">{m.name}</div>
+                <div className="text-xs text-text-muted">{m.role}</div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
       {/* 6. 뭘 만들었는지 — 포트폴리오 */}
       <ProjectBoard />
 
