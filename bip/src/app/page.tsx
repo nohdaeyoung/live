@@ -12,12 +12,10 @@ export default function HomePage() {
       {/* 1. Hero */}
       <section className="pt-24 pb-12 text-center px-4">
         <h1 className="text-3xl md:text-4xl font-bold leading-tight mb-5 tracking-tight">
-          <span className="text-text-primary">바이브 코딩,</span><br/>
-          <span className="text-primary">전 과정 실시간 공개.</span>
+          <span className="text-text-primary">오늘의 작업과 수다</span>
         </h1>
         <p className="text-sm text-text-secondary max-w-xs mx-auto leading-relaxed">
-          기획부터 삽질까지, <span className="text-text-primary font-semibold">아무것도 숨기지 않아요.</span><br/>
-          AI와 나누는 모든 대화가 여기에 있습니다.
+          업무 노트도, 사소한 잡담도 — 우리 팀의 하루가 쌓여갑니다.
         </p>
         <div className="flex flex-wrap justify-center gap-2 mt-6">
           {["#BuildInPublic", "#OpenClaw", "#VibeCoding"].map((tag) => (
