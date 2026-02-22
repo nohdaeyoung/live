@@ -44,3 +44,7 @@ export const rtdb: any =
         }
       })()
     : null;
+
+// export firebaseConfig so client components can attempt client init if needed
+export { firebaseConfig };
+
