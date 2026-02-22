@@ -1,0 +1,71 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Metadata (CRITICAL: Do not commit to Sanctuary)
+AGENTS.md
+BOOTSTRAP.md
+HEARTBEAT.md
+IDENTITY.md
+SOUL.md
+TOOLS.md
+USER.md
+MEMORY.md
+memory/
+*.txt
+
+# OpenClaw Internal
+.openclaw/
+workspace/
+
+# Testing
+coverage/
+
+# Next.js
+.next/
+out/
+
+# Production
+build/
+
+# Misc
+.DS_Store
+*.pem
+
+# Env
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Flutter
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.firebase-service-account.json
+session_log_watcher.offsets.json
+__pycache__/
+
+# Temp/generated files
+audio.*
+audio_*
+response.json
+audit_followers.js
+check_inactive.*
+# bip build output & dependencies
+bip/out/
+bip/node_modules/
+bip/.next/
+bip/.env.local
+bip/.firebase/

@@ -1,0 +1,61 @@
+import type { Config } from "tailwindcss";
+
+const config: Config = {
+  content: [
+    "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
+    "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
+    "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        // Design System Colors (Warm Cream Tone)
+        background: "#F8FAFC", // Sleek Pearl Gray
+        panel: "#FFFFFF",      // Pure White
+        overlay: "rgba(248, 250, 252, 0.8)", 
+        
+        primary: {
+          DEFAULT: "#4F46E5", // Royal Indigo (대영 시그니처)
+          glow: "rgba(79, 70, 229, 0.3)",
+        },
+        
+        text: {
+          primary: "#2C3E50",   // Dark Navy (본문)
+          secondary: "#4A5568", // Slate (보조) — 진하게
+          muted: "#6B7280",     // Gray (비활성) — 진하게
+        },
+        
+        status: {
+          live: "#E74C3C",    // Red
+          success: "#27AE60", // Green
+        },
+        
+        reaction: {
+          heart: "#E91E63", // Pink
+          lol: "#F1C40F",   // Yellow
+        },
+        
+        border: {
+          DEFAULT: "#E5E7EB",   // Light Gray
+          highlight: "#D7DBDD", // Darker Gray
+        }
+      },
+      fontFamily: {
+        sans: ["Pretendard", "sans-serif"],
+        mono: ["JetBrains Mono", "monospace"],
+      },
+      animation: {
+        "pulse-fast": "pulse 1.5s cubic-bezier(0.4, 0, 0.6, 1) infinite",
+        "float": "float 3s ease-in-out infinite",
+      },
+      keyframes: {
+        float: {
+          "0%, 100%": { transform: "translateY(0)" },
+          "50%": { transform: "translateY(-5px)" },
+        }
+      }
+    },
+  },
+  plugins: [require("@tailwindcss/typography")],
+};
+export default config;
