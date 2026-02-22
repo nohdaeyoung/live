@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <linearGradient id="g3" x1="0" x2="1">
+      <stop offset="0" stop-color="#F0F5FA"/>
+      <stop offset="1" stop-color="#E7EEF8"/>
+    </linearGradient>
+    <style>
+      .face{fill:#F0D9C3;stroke:#b07a5a;stroke-width:6px}
+      .hair{fill:#3b2f2f}
+      .eye{fill:#1f2b2b}
+      .label{font-family: 'Georgia', serif; font-size:44px; fill:#2b3b4b}
+    </style>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#g3)"/>
+  <g transform="translate(300,220)">
+    <ellipse cx="300" cy="420" rx="230" ry="290" class="face"/>
+    <path d="M70 190 C 150 30, 450 30, 530 190 L530 210 C450 100, 150 100, 70 210 Z" class="hair"/>
+    <circle cx="240" cy="420" r="16" class="eye"/>
+    <circle cx="360" cy="420" r="16" class="eye"/>
+    <path d="M260 520 Q300 550 340 520" stroke="#b07a5a" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <rect x="420" y="360" width="80" height="40" rx="6" fill="#fff" stroke="#c3cbd6"/>
+  </g>
+  <text x="600" y="1100" text-anchor="middle" class="label">탐정요정</text>
+</svg>

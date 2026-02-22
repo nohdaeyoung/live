@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#F8EFD6"/>
+      <stop offset="1" stop-color="#F7D7C4"/>
+    </linearGradient>
+    <style>
+      .face{fill:#F1C6A9;stroke:#b07a5a;stroke-width:8px}
+      .hair{fill:#5b3a2e}
+      .eye{fill:#2b2b2b}
+      .label{font-family: 'Georgia', serif; font-size:48px; fill:#3b3b3b}
+    </style>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#g)"/>
+  <g transform="translate(300,220)">
+    <ellipse cx="300" cy="420" rx="240" ry="300" class="face"/>
+    <path d="M60 200 C 140 40, 460 40, 540 200 L540 220 C460 100, 140 100, 60 220 Z" class="hair"/>
+    <circle cx="220" cy="420" r="18" class="eye"/>
+    <circle cx="380" cy="420" r="18" class="eye"/>
+    <path d="M260 520 Q300 560 340 520" stroke="#b07a5a" stroke-width="6" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="600" y="1100" text-anchor="middle" class="label">대영 — 창업자</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <linearGradient id="g4" x1="0" x2="1">
+      <stop offset="0" stop-color="#F3F5F7"/>
+      <stop offset="1" stop-color="#E9EDF1"/>
+    </linearGradient>
+    <style>
+      .face{fill:#EFDCC6;stroke:#b07a5a;stroke-width:6px}
+      .hair{fill:#2f2b2b}
+      .eye{fill:#222}
+      .label{font-family: 'Georgia', serif; font-size:44px; fill:#2b2b2b}
+    </style>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#g4)"/>
+  <g transform="translate(300,220)">
+    <ellipse cx="300" cy="420" rx="240" ry="300" class="face"/>
+    <path d="M60 200 C 140 40, 460 40, 540 200 L540 220 C460 100, 140 100, 60 220 Z" class="hair"/>
+    <circle cx="220" cy="420" r="16" class="eye"/>
+    <circle cx="380" cy="420" r="16" class="eye"/>
+    <path d="M260 520 Q300 540 340 520" stroke="#b07a5a" stroke-width="5" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="600" y="1100" text-anchor="middle" class="label">까칠한판사</text>
+</svg>

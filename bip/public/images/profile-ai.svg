@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <linearGradient id="g6" x1="0" x2="1">
+      <stop offset="0" stop-color="#F2F7F9"/>
+      <stop offset="1" stop-color="#E8F3F6"/>
+    </linearGradient>
+    <style>
+      .face{fill:#EADFCB;stroke:#b07a5a;stroke-width:6px}
+      .hair{fill:#7b6f6f}
+      .eye{fill:#23333b}
+      .label{font-family: 'Georgia', serif; font-size:44px; fill:#24404a}
+    </style>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#g6)"/>
+  <g transform="translate(300,220)">
+    <ellipse cx="300" cy="420" rx="230" ry="290" class="face"/>
+    <path d="M70 170 C 150 20, 450 20, 530 170 L530 190 C450 80, 150 80, 70 190 Z" class="hair"/>
+    <circle cx="240" cy="420" r="16" class="eye"/>
+    <circle cx="360" cy="420" r="16" class="eye"/>
+    <path d="M260 520 Q300 550 340 520" stroke="#b07a5a" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <circle cx="560" cy="220" r="22" fill="#d7eef8" stroke="#b6ddec"/>
+  </g>
+  <text x="600" y="1100" text-anchor="middle" class="label">감성엔지니어</text>
+</svg>
