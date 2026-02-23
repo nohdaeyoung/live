@@ -1,15 +1,40 @@
-# QA · 검증
+# 🔎 QA · 검증
 
-목적
-- 릴리스 전 품질 검증과 규정 준수를 확인합니다.
+> 담당: QA & 까칠한판사 🧑‍⚖️
 
-책임자
-- QA & 까칠한판사
+## 목적
+릴리스 전 보안·품질 검증과 배포 정합성을 확인합니다.
 
-핵심 작업
-- 자동화 테스트 실행 및 리포트
-- 크로스브라우저·기기 검증
-- 보안 및 규정 검토
+## 핵심 태스크
+- **Firestore 규칙 · IAM 보안 검토**: 데이터 접근 규칙의 최소 권한 원칙 준수 검증
+- **배포 불일치 · 캐시 헤더 검증**: CDN 캐시와 실제 배포 콘텐츠 정합성 확인
+- **임시 규칙 만료 · 롤백 관리**: 디버그용 임시 규칙 적용 시 기간 명시 및 자동 롤백
 
-참고
-- 관련 노션 문서가 생성되면 링크로 연결 예정입니다.
+## 실제 수행 기록
+
+### 2026-02-23: Firestore 보안 규칙 검증 및 강화
+- `chat_logs`: read-only (write 차단) ✅
+- `reactions`: create만 허용, 정확히 3개 필드(`type`, `timestamp`, `sessionId`), type은 `heart`만 허용 ✅
+- `counters`: create 시 `heart=1`만, update 시 `+1` 증분만 허용 ✅
+- `projects` / `projects/{id}/works`: read-only (admin SDK만 쓰기) ✅
+
+### 2026-02-23: 임시 디버그 규칙 관리
+- `debug_reports` 컬렉션에 unauthenticated create 임시 허용
+  - 스키마 제한: `{ ts: string, payload: string }`, payload 길이 ≤ 2000
+- 진단 완료 후 규칙 롤백 완료 (현재 `firestore.rules`에 `debug_reports` 없음) ✅
+- 컬렉션 데이터 삭제 권고
+
+### 2026-02-23: 캐시 헤더 검증
+- `firebase.json`에 Cache-Control 헤더 설정 확인:
+  - `/` 및 `/index.html`: `no-cache, no-store, must-revalidate` ✅
+- CDN 에지 캐시 문제 완화 확인
+
+### 2026-02-23: DebugPanel 제거 검증
+- `page.tsx`: DebugPanel 컴포넌트 완전 제거 확인 ✅
+- `use-live-chat.ts`: `window.__liveChatDebug` 노출 코드 제거 확인 ✅
+- `firebase.ts`: 디버깅 코드 정리 확인 ✅
+
+## 보안 원칙
+- 임시 규칙은 반드시 기간을 명시하고, 까칠한판사 승인 필요
+- 진단 종료 시 즉시 롤백 + 관련 컬렉션 데이터 삭제
+- 서비스 계정 키는 GitHub Secrets에만 저장 (로컬 저장 금지)
