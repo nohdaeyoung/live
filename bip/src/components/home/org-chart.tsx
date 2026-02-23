@@ -39,7 +39,7 @@ const TEAM = [
 export function OrgChart() {
   return (
     <div className="w-full max-w-2xl mx-auto px-4 py-16 border-t border-dashed border-border">
-      {/* 헤드 카피 */}
+      {/* 헤드 카피 (숨김)
       <div className="text-center mb-12">
         <motion.p
           initial={{ opacity: 0, y: 10 }}
@@ -59,6 +59,7 @@ export function OrgChart() {
           사미사프로젝트의 어벤저스 팀입니다.
         </motion.p>
       </div>
+      */}
 
       {/* 팀원 카드 */}
       <div className="grid grid-cols-5 gap-4 max-w-2xl mx-auto">
