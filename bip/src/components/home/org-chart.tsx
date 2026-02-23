@@ -61,7 +61,7 @@ export function OrgChart() {
       </div>
       */}
 
-      {/* 팀원 카드 */}
+      {/* 팀원 카드 (숨김)
       <div className="grid grid-cols-5 gap-4 max-w-2xl mx-auto">
         {TEAM.map((member, i) => (
           <motion.div
@@ -80,6 +80,7 @@ export function OrgChart() {
           </motion.div>
         ))}
       </div>
+      */}
     </div>
   );
 }
