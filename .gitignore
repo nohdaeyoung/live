@@ -1,4 +1,18 @@
+# Environment
 .env*
+!.env.example
+
+# Dependencies
 node_modules/
-*.json
+
+# Build outputs
+.next/
+out/
+build/
+
+# Firebase
+.firebase/
+
+# OS
 .DS_Store
+Thumbs.db
