@@ -9,32 +9,59 @@ import { HowWeWork } from "@/components/home/how-we-work";
 export default function HomePage() {
   return (
     <main className="min-h-screen bg-background pb-20">
-      {/* 1. Hero (Minimal - content-first) */}
-      <section className="pt-16 pb-6 px-4">
-        <div className="max-w-3xl mx-auto text-center">
-          <h1 className="text-3xl font-semibold">오늘의 작업과 수다</h1>
-          <p className="mt-2 text-sm text-text-muted">실시간 로그와 프로젝트를 한눈에 — 가볍고 빠른 정보 전달.</p>
+      {/* Dashboard — summary cards */}
+      <section className="pt-12 pb-6 px-4">
+        <div className="max-w-6xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+            <div className="bg-white p-4 rounded-lg shadow">
+              <div className="text-sm text-text-muted">빌드 상태</div>
+              <div className="mt-2 text-lg font-bold text-green-600">정상</div>
+              <div className="text-[11px] text-text-muted mt-1">마지막 빌드: 2분 전</div>
+            </div>
+            <div className="bg-white p-4 rounded-lg shadow">
+              <div className="text-sm text-text-muted">최근 배포</div>
+              <div className="mt-2 text-lg font-bold">324-company-bip</div>
+              <div className="text-[11px] text-text-muted mt-1">https://324-company-bip.web.app</div>
+            </div>
+            <div className="bg-white p-4 rounded-lg shadow">
+              <div className="text-sm text-text-muted">새로운 로그</div>
+              <div className="mt-2 text-lg font-bold">3</div>
+              <div className="text-[11px] text-text-muted mt-1">실시간 대화에서 수집됨</div>
+            </div>
+            <div className="bg-white p-4 rounded-lg shadow">
+              <div className="text-sm text-text-muted">활성 사용자</div>
+              <div className="mt-2 text-lg font-bold">1</div>
+              <div className="text-[11px] text-text-muted mt-1">최근 5분</div>
+            </div>
+          </div>
         </div>
       </section>
 
-      {/* 실시간 대화 우선 노출 */}
-      <section id="live" className="max-w-3xl mx-auto px-4 py-4">
-        <RPGDialogue />
-      </section>
+      {/* Detailed widgets */}
+      <section className="max-w-6xl mx-auto px-4 py-4 grid grid-cols-1 lg:grid-cols-3 gap-4">
+        <div className="col-span-2">
+          <div className="bg-white p-4 rounded-lg shadow mb-4">
+            <h3 className="font-bold">실시간 대화</h3>
+            <RPGDialogue />
+          </div>
 
-      {/* 프로젝트 보드 우선 노출 */}
-      <section id="projects" className="max-w-3xl mx-auto px-4 py-4">
-        <ProjectBoard />
-      </section>
-
-      {/* 간단한 팀 섹션 */}
-      <section id="team" className="max-w-3xl mx-auto px-4 py-6">
-        <div className="flex items-center justify-center gap-3 flex-wrap text-sm text-text-muted">
-          {["대영 마스터 (CEO)", "비서공주 (Ops)", "탐정요정 (SRE)", "까칠한판사 (Sec)", "감성디자이너 (Design)", "감성엔지니어 (AI)"]
-            .map((t) => (
-              <span key={t} className="px-3 py-1 border border-border rounded-full">{t}</span>
-            ))}
+          <div className="bg-white p-4 rounded-lg shadow">
+            <h3 className="font-bold">프로젝트 진행</h3>
+            <ProjectBoard />
+          </div>
         </div>
+
+        <aside className="col-span-1 space-y-4">
+          <div className="bg-white p-4 rounded-lg shadow">
+            <h4 className="font-bold">최근 배포</h4>
+            <p className="text-sm text-text-muted">324-company-bip · 성공</p>
+          </div>
+
+          <div className="bg-white p-4 rounded-lg shadow">
+            <h4 className="font-bold">시스템 요약</h4>
+            <p className="text-sm text-text-muted">Firestore: read-only chat_logs, Hosting: Firebase</p>
+          </div>
+        </aside>
       </section>
 
       {/* 2. 지금 뭐하고 있는지 — 실시간 대화 */}
