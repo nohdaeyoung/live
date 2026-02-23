@@ -118,6 +118,24 @@ export function HowWeWork() {
                   </div>
                 ))}
               </div>
+
+              {/* 문서 버튼 (노션 링크가 없으면 비활성화) */}
+              <div className="mt-3">
+                {track.docLink ? (
+                  <a
+                    href={track.docLink}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="inline-block text-xs font-bold text-white bg-primary px-3 py-1 rounded-full shadow-sm"
+                  >
+                    문서 보기
+                  </a>
+                ) : (
+                  <span className="inline-block text-xs font-bold text-white bg-gray-300 px-3 py-1 rounded-full opacity-70 cursor-not-allowed">
+                    문서 없음
+                  </span>
+                )}
+              </div>
             </div>
           </motion.div>
         ))}
