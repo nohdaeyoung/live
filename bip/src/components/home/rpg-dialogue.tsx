@@ -57,7 +57,13 @@ function timeAgo(timestamp: string): string {
 
 export function RPGDialogue() {
   const { messages, loading } = useLiveChat(3);
-  const lastMessage = messages[messages.length - 1];
+  // Filter to only show conversations involving 비서공주 (agent: 'main') and 대영 마스터 (user without agent)
+  const filtered = messages.filter((m) => {
+    const agent = m.agent || "main";
+    // include messages where agent is main (비서공주), or user messages that have no agent (대영 마스터)
+    return agent === "main" || (m.role === "user" && !m.agent);
+  });
+  const lastMessage = (filtered.length > 0 ? filtered[filtered.length - 1] : messages[messages.length - 1]);
   
   const rawContent = loading 
     ? "통신 연결 중입니다... 잠시만 기다려주세요." 
