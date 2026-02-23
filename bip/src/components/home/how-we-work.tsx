@@ -14,6 +14,7 @@ const TRACKS = [
       arrow: "text-purple-300",
     },
     docLink: "https://github.com/nohdaeyoung/live/blob/main/docs/how-we-work/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EC%88%98%EC%A7%91.md",
+    docButtonClass: "bg-purple-700",
   },
   {
     trigger: { icon: "🎨", label: "디자인" },
@@ -26,6 +27,7 @@ const TRACKS = [
       arrow: "text-rose-300",
     },
     docLink: "https://github.com/nohdaeyoung/live/blob/main/docs/how-we-work/%EB%94%94%EC%9E%90%EC%9D%B8.md",
+    docButtonClass: "bg-rose-700",
   },
 
   {
@@ -39,6 +41,7 @@ const TRACKS = [
       arrow: "text-green-300",
     },
     docLink: "https://github.com/nohdaeyoung/live/blob/main/docs/how-we-work/%EA%B0%9C%EB%B0%9C.md",
+    docButtonClass: "bg-green-700",
   },
   {
     trigger: { icon: "🔎", label: "QA · 검증" },
@@ -51,6 +54,7 @@ const TRACKS = [
       arrow: "text-yellow-300",
     },
     docLink: "https://github.com/nohdaeyoung/live/blob/main/docs/how-we-work/QA-%EA%B2%80%EC%A6%9D.md",
+    docButtonClass: "bg-yellow-600 text-black",
   },
   {
     trigger: { icon: "🚀", label: "배포" },
@@ -62,6 +66,8 @@ const TRACKS = [
       dot: "bg-gray-300",
       arrow: "text-gray-300",
     },
+    docLink: "https://github.com/nohdaeyoung/live/blob/main/docs/how-we-work/%EB%B0%B0%ED%8F%AC.md",
+    docButtonClass: "bg-gray-700",
   },
 ];
 
@@ -131,9 +137,9 @@ export function HowWeWork() {
                     href={track.docLink}
                     target="_blank"
                     rel="noreferrer"
-                    className="inline-block text-xs font-bold text-white bg-primary px-3 py-1 rounded-full shadow-sm"
+                    className={`inline-block text-xs font-bold text-white px-3 py-1 rounded-full shadow-sm ${track.docButtonClass || 'bg-primary'}`}
                   >
-                    문서 보기
+                    문서
                   </a>
                 ) : (
                   <span className="inline-block text-xs font-bold text-white bg-gray-300 px-3 py-1 rounded-full opacity-70 cursor-not-allowed">
