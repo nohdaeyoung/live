@@ -34,7 +34,7 @@ const AGENT_PROFILES: Record<string, AgentProfile> = {
     bgColor: "bg-gray-200",
     bubbleBg: "bg-[#4A5D23]/10",
     bubbleBorder: "border-[#4A5D23]/20",
-    avatar: "/profile-nangman.jpg",
+    avatar: "/images/profile-daeyoung.png",
   },
   main: {
     name: "비서공주 AI",
@@ -44,7 +44,7 @@ const AGENT_PROFILES: Record<string, AgentProfile> = {
     bgColor: "bg-orange-50",
     bubbleBg: "bg-orange-50/40",
     bubbleBorder: "border-orange-100",
-    avatar: "/profile-secretary.jpg",
+    avatar: "/images/profile-secretary.png",
   },
   home: {
     name: "홈 AI",
@@ -54,7 +54,7 @@ const AGENT_PROFILES: Record<string, AgentProfile> = {
     bgColor: "bg-emerald-50",
     bubbleBg: "bg-emerald-50/40",
     bubbleBorder: "border-emerald-100",
-    avatar: "/profile-home.jpeg",
+    avatar: "/images/profile-daeyoung.png",
   },
   // 서브에이전트 user = 비서공주가 명령
   commander: {
@@ -65,7 +65,7 @@ const AGENT_PROFILES: Record<string, AgentProfile> = {
     bgColor: "bg-emerald-50",
     bubbleBg: "bg-emerald-50/50",
     bubbleBorder: "border-emerald-200/50",
-    avatar: "/profile-secretary.jpg",
+    avatar: "/images/profile-secretary.png",
   },
 };
 
