@@ -41,8 +41,8 @@ export default function HomePage() {
       {/* 5.1 팀 멤버 카드 */}
       <section className="w-full max-w-2xl mx-auto px-4 py-8">
         <div className="text-center mb-4">
-          <h2 className="text-lg font-bold">우리 팀</h2>
-          <p className="text-sm text-text-muted">프로젝트에 기여한 구성원들입니다.</p>
+          <h2 className="text-lg font-bold">1명의 마스터와 5명의 AI 요정.</h2>
+          <p className="text-sm text-text-muted">사미사 프로젝트 구성원입니다.</p>
         </div>
         <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
           {[
