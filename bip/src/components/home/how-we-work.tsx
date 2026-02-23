@@ -13,6 +13,7 @@ const TRACKS = [
       dot: "bg-purple-300",
       arrow: "text-purple-300",
     },
+    docLink: undefined,
   },
   {
     trigger: { icon: "🎨", label: "디자인" },
