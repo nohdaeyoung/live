@@ -38,7 +38,8 @@ export default function HomePage() {
       {/* 5. 누가 하는지 — 팀 소개 */}
       <OrgChart />
 
-      {/* 5.1 팀 멤버 카드 */}
+      {/* 5.1 팀 멤버 카드 (숨김) */}
+      {/*
       <section className="w-full max-w-2xl mx-auto px-4 py-8">
         <div className="text-center mb-4">
           <h2 className="text-lg font-bold">우리 팀</h2>
@@ -63,6 +64,7 @@ export default function HomePage() {
           ))}
         </div>
       </section>
+      */}
 
       {/* 6. 뭘 만들었는지 — 포트폴리오 */}
       <ProjectBoard />
