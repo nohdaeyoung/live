@@ -81,9 +81,9 @@ export function RPGDialogue() {
   const isHome = lastMessage?.role === "home" || (agent && agent.startsWith("claude:"));
 
   const PROFILES: Record<string, { image: string; name: string }> = {
-    human: { image: "/profile-nangman.jpg", name: "대영 마스터" },
-    main: { image: "/profile-secretary.jpg", name: "비서공주 AI" },
-    home: { image: "/profile-home.jpeg", name: "홈 AI" },
+    human: { image: "/images/profile-daeyoung.png", name: "대영 마스터" },
+    main: { image: "/images/profile-secretary.png", name: "비서공주 AI" },
+    home: { image: "/images/profile-daeyoung.png", name: "홈 AI" },
   };
 
   const profileKey = isUser ? "human" : isHome ? "home" : "main";
@@ -124,7 +124,7 @@ export function RPGDialogue() {
                   src={profile.image}
                   alt="Character"
                   className="absolute inset-0 w-full h-full object-cover"
-                  onError={(e) => { (e.target as HTMLImageElement).src = '/profile-home.jpeg'; }}
+                  onError={(e) => { (e.target as HTMLImageElement).src = '/images/profile-daeyoung.png'; }}
                 />
               </motion.div>
             </AnimatePresence>
