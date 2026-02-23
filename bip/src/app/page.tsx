@@ -82,8 +82,7 @@ export default function HomePage() {
         </a>
         <div className="flex items-center justify-center gap-3 text-[10px] text-text-muted/60">
           <div className="flex flex-col items-center">
-            <span className="text-[10px]">source by 낭만코딩</span>
-            <a href="https://github.com/yuna-studio/yuna-openclaw" target="_blank" rel="noreferrer" className="text-[10px] text-primary hover:underline">https://github.com/yuna-studio/yuna-openclaw</a>
+            <a href="https://github.com/yuna-studio/yuna-openclaw" target="_blank" rel="noreferrer" className="text-[10px] text-primary hover:underline">source by 낭만코딩</a>
           </div>
           <span>·</span>
           <span>Built with OpenClaw</span>
