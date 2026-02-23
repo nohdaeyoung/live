@@ -130,7 +130,7 @@ export function HowWeWork() {
           transition={{ delay: 0.1 }}
           className="text-lg font-bold text-text-muted/50 leading-snug"
         >
-          4명의 AI 요정이 분업하여 완성합니다.
+          5명의 AI 요정이 분업하여 완성합니다.
         </motion.p>
       </div>
 
