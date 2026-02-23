@@ -13,7 +13,7 @@ const TRACKS = [
       dot: "bg-purple-300",
       arrow: "text-purple-300",
     },
-    docLink: undefined,
+    docLink: "https://github.com/nohdaeyoung/live/blob/main/docs/how-we-work/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EC%88%98%EC%A7%91.md",
   },
   {
     trigger: { icon: "🎨", label: "디자인" },
@@ -25,7 +25,9 @@ const TRACKS = [
       dot: "bg-rose-300",
       arrow: "text-rose-300",
     },
+    docLink: "https://github.com/nohdaeyoung/live/blob/main/docs/how-we-work/%EB%94%94%EC%9E%90%EC%9D%B8.md",
   },
+
   {
     trigger: { icon: "🛠️", label: "개발" },
     ai: { icon: "👨‍💻 🤖", name: "개발팀 & 감성엔지니어" },
@@ -36,6 +38,7 @@ const TRACKS = [
       dot: "bg-green-300",
       arrow: "text-green-300",
     },
+    docLink: "https://github.com/nohdaeyoung/live/blob/main/docs/how-we-work/%EA%B0%9C%EB%B0%9C.md",
   },
   {
     trigger: { icon: "🔎", label: "QA · 검증" },
@@ -47,6 +50,7 @@ const TRACKS = [
       dot: "bg-yellow-300",
       arrow: "text-yellow-300",
     },
+    docLink: "https://github.com/nohdaeyoung/live/blob/main/docs/how-we-work/QA-%EA%B2%80%EC%A6%9D.md",
   },
   {
     trigger: { icon: "🚀", label: "배포" },
