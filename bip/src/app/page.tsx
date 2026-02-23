@@ -9,20 +9,35 @@ import { HowWeWork } from "@/components/home/how-we-work";
 export default function HomePage() {
   return (
     <main className="min-h-screen bg-background pb-20">
-      {/* 1. Hero */}
-      <section className="pt-24 pb-12 text-center px-4">
-        <h1 className="text-3xl md:text-4xl font-bold leading-tight mb-5 tracking-tight">
-          <span className="text-text-primary">오늘의 작업과 수다</span>
-        </h1>
-        <p className="text-sm text-text-secondary max-w-xs mx-auto leading-relaxed">
-          프로젝트 진행도, 사소한 잡담도<br/>          우리 팀의 하루가 쌓여갑니다.
-        </p>
-        <div className="flex flex-wrap justify-center gap-2 mt-6">
-          {["#BuildInPublic", "#OpenClaw", "#VibeCoding"].map((tag) => (
-            <span key={tag} className="text-[11px] font-mono text-text-muted bg-white/80 border border-border px-2 py-0.5 rounded-full">
-              {tag}
-            </span>
-          ))}
+      {/* 1. Hero (Warm‑Illustration) */}
+      <section className="pt-16 pb-12 px-4">
+        <div className="max-w-5xl mx-auto flex flex-col md:flex-row items-center gap-8">
+          {/* Illustration */}
+          <div className="w-full md:w-1/2 flex justify-center">
+            <img src="/images/og-image.jpg" alt="일러스트" className="w-80 h-80 object-cover rounded-lg shadow-lg" />
+          </div>
+
+          {/* Text */}
+          <div className="w-full md:w-1/2 text-center md:text-left">
+            <h1 className="text-4xl md:text-5xl font-extrabold leading-tight text-amber-800">오늘의 작업과 수다</h1>
+            <p className="mt-4 text-lg text-amber-700/90 max-w-xl">
+              프로젝트 진행도, 사소한 잡담도<br />
+              우리 팀의 하루가 따뜻하게 쌓여갑니다.
+            </p>
+
+            <div className="mt-6 flex flex-wrap gap-3 items-center">
+              <a href="#live" className="bg-amber-500 text-white px-4 py-2 rounded-full shadow">지금 보기</a>
+              <a href="#team" className="border border-amber-200 px-4 py-2 rounded-full">팀 소개</a>
+            </div>
+
+            <div className="mt-6 flex flex-wrap gap-2">
+              {["#BuildInPublic", "#OpenClaw", "#VibeCoding"].map((tag) => (
+                <span key={tag} className="text-[11px] font-mono text-amber-700 bg-amber-50 border border-amber-100 px-2 py-0.5 rounded-full">
+                  {tag}
+                </span>
+              ))}
+            </div>
+          </div>
         </div>
       </section>
 
