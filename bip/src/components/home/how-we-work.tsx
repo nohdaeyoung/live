@@ -71,6 +71,45 @@ const TRACKS = [
   },
 ];
 
+function TrackCard({ track, delay }: { track: typeof TRACKS[number]; delay: number }) {
+  return (
+    <motion.div
+      initial={{ opacity: 0, y: 20 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true }}
+      transition={{ delay }}
+      className={`border rounded-2xl overflow-hidden ${track.color.card}`}
+    >
+      <div className={`${track.color.trigger} px-4 py-3 text-center`}>
+        <span className="text-2xl block mb-1">{track.trigger.icon}</span>
+        <p className="text-[11px] font-bold tracking-wide">{track.trigger.label}</p>
+      </div>
+      <div className={`text-center py-1.5 text-lg ${track.color.arrow}`}>↓</div>
+      <div className="px-4 pb-4 text-center">
+        <div className="mb-3">
+          <span className="text-2xl block mb-1">{track.ai.icon}</span>
+          <p className="text-sm font-bold text-text-primary">{track.ai.name}</p>
+        </div>
+        <div className="flex flex-col gap-1.5">
+          {track.tasks.map((task) => (
+            <div key={task} className="flex items-center justify-center gap-1.5">
+              <span className={`w-1 h-1 rounded-full flex-shrink-0 ${track.color.dot}`} />
+              <p className="text-[11px] text-text-muted">{task}</p>
+            </div>
+          ))}
+        </div>
+        <div className="mt-3">
+          {track.docLink ? (
+            <a href={track.docLink} target="_blank" rel="noreferrer" className={`inline-block text-xs font-bold text-white px-3 py-1 rounded-full shadow-sm ${track.docButtonClass || 'bg-primary'}`}>문서</a>
+          ) : (
+            <span className="inline-block text-xs font-bold text-white bg-gray-300 px-3 py-1 rounded-full opacity-70 cursor-not-allowed">문서 없음</span>
+          )}
+        </div>
+      </div>
+    </motion.div>
+  );
+}
+
 export function HowWeWork() {
   return (
     <div className="w-full max-w-2xl mx-auto px-4 py-16 border-t border-dashed border-border">
@@ -95,61 +134,35 @@ export function HowWeWork() {
         </motion.p>
       </div>
 
-      {/* 2트랙 카드 */}
-      <div className="grid grid-cols-2 gap-4 mb-8">
-        {TRACKS.map((track, i) => (
-          <motion.div
-            key={track.ai.name}
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ delay: i * 0.1 }}
-            className={`border rounded-2xl overflow-hidden ${track.color.card}`}
-          >
-            {/* 트리거 영역 */}
-            <div className={`${track.color.trigger} px-4 py-3 text-center`}>
-              <span className="text-2xl block mb-1">{track.trigger.icon}</span>
-              <p className="text-[11px] font-bold tracking-wide">{track.trigger.label}</p>
-            </div>
+      {/* 프로세스 카드 */}
+      <div className="space-y-4 mb-8">
+        {/* Row 1: 아이디어·기획 (1열) */}
+        <div className="grid grid-cols-1 gap-4">
+          {[TRACKS[0]].map((track, i) => (
+            <TrackCard key={track.ai.name} track={track} delay={0} />
+          ))}
+        </div>
 
-            {/* 화살표 */}
-            <div className={`text-center py-1.5 text-lg ${track.color.arrow}`}>↓</div>
+        {/* Row 2: 디자인 + 개발 (2열) */}
+        <div className="grid grid-cols-2 gap-4">
+          {[TRACKS[1], TRACKS[2]].map((track, i) => (
+            <TrackCard key={track.ai.name} track={track} delay={(i + 1) * 0.1} />
+          ))}
+        </div>
 
-            {/* AI + 업무 영역 */}
-            <div className="px-4 pb-4 text-center">
-              <div className="mb-3">
-                <span className="text-2xl block mb-1">{track.ai.icon}</span>
-                <p className="text-sm font-bold text-text-primary">{track.ai.name}</p>
-              </div>
-              <div className="flex flex-col gap-1.5">
-                {track.tasks.map((task) => (
-                  <div key={task} className="flex items-center justify-center gap-1.5">
-                    <span className={`w-1 h-1 rounded-full flex-shrink-0 ${track.color.dot}`} />
-                    <p className="text-[11px] text-text-muted">{task}</p>
-                  </div>
-                ))}
-              </div>
+        {/* Row 3: QA·검증 (1열) */}
+        <div className="grid grid-cols-1 gap-4">
+          {[TRACKS[3]].map((track, i) => (
+            <TrackCard key={track.ai.name} track={track} delay={0.3} />
+          ))}
+        </div>
 
-              {/* 문서 버튼 (노션 링크가 없으면 비활성화) */}
-              <div className="mt-3">
-                {track.docLink ? (
-                  <a
-                    href={track.docLink}
-                    target="_blank"
-                    rel="noreferrer"
-                    className={`inline-block text-xs font-bold text-white px-3 py-1 rounded-full shadow-sm ${track.docButtonClass || 'bg-primary'}`}
-                  >
-                    문서
-                  </a>
-                ) : (
-                  <span className="inline-block text-xs font-bold text-white bg-gray-300 px-3 py-1 rounded-full opacity-70 cursor-not-allowed">
-                    문서 없음
-                  </span>
-                )}
-              </div>
-            </div>
-          </motion.div>
-        ))}
+        {/* Row 4: 배포 (1열) */}
+        <div className="grid grid-cols-1 gap-4">
+          {[TRACKS[4]].map((track, i) => (
+            <TrackCard key={track.ai.name} track={track} delay={0.4} />
+          ))}
+        </div>
       </div>
 
       {/* 수렴 — 배포 */}
