@@ -9,20 +9,31 @@ import { HowWeWork } from "@/components/home/how-we-work";
 export default function HomePage() {
   return (
     <main className="min-h-screen bg-background pb-20">
-      {/* 1. Hero */}
-      <section className="pt-24 pb-12 text-center px-4">
-        <h1 className="text-3xl md:text-4xl font-bold leading-tight mb-5 tracking-tight">
-          <span className="text-text-primary">오늘의 작업과 수다</span>
-        </h1>
-        <p className="text-sm text-text-secondary max-w-xs mx-auto leading-relaxed">
-          프로젝트 진행도, 사소한 잡담도<br/>          우리 팀의 하루가 쌓여갑니다.
-        </p>
-        <div className="flex flex-wrap justify-center gap-2 mt-6">
-          {["#BuildInPublic", "#OpenClaw", "#VibeCoding"].map((tag) => (
-            <span key={tag} className="text-[11px] font-mono text-text-muted bg-white/80 border border-border px-2 py-0.5 rounded-full">
-              {tag}
-            </span>
-          ))}
+      {/* 1. Hero (Minimal - content-first) */}
+      <section className="pt-16 pb-6 px-4">
+        <div className="max-w-3xl mx-auto text-center">
+          <h1 className="text-3xl font-semibold">오늘의 작업과 수다</h1>
+          <p className="mt-2 text-sm text-text-muted">실시간 로그와 프로젝트를 한눈에 — 가볍고 빠른 정보 전달.</p>
+        </div>
+      </section>
+
+      {/* 실시간 대화 우선 노출 */}
+      <section id="live" className="max-w-3xl mx-auto px-4 py-4">
+        <RPGDialogue />
+      </section>
+
+      {/* 프로젝트 보드 우선 노출 */}
+      <section id="projects" className="max-w-3xl mx-auto px-4 py-4">
+        <ProjectBoard />
+      </section>
+
+      {/* 간단한 팀 섹션 */}
+      <section id="team" className="max-w-3xl mx-auto px-4 py-6">
+        <div className="flex items-center justify-center gap-3 flex-wrap text-sm text-text-muted">
+          {["대영 마스터 (CEO)", "비서공주 (Ops)", "탐정요정 (SRE)", "까칠한판사 (Sec)", "감성디자이너 (Design)", "감성엔지니어 (AI)"]
+            .map((t) => (
+              <span key={t} className="px-3 py-1 border border-border rounded-full">{t}</span>
+            ))}
         </div>
       </section>
 
