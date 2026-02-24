@@ -76,8 +76,8 @@ const DEFAULT_PROJECTS: Product[] = [
     id: "stock",
     title: "사미사 Stock 포트폴리오",
     desc: "한국·미국 ETF/주식 실시간 시세 대시보드 (탭 메뉴, 국기 표시)",
-    status: "dev",
-    link: "https://stock-ticker-eosin.vercel.app/",
+    status: "shipped",
+    link: "https://stock.324.ing/",
     order: 3,
     works: [
       { id: "s1", title: "종목 선정 · 기획", type: "기획", order: 1 },
