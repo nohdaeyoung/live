@@ -41,13 +41,41 @@ export function ProjectChat({ roomId = "general" }: { roomId?: string }) {
     e?.preventDefault();
     if (!input.trim()) return;
     setSending(true);
+    const userText = input.trim();
     try {
+      // save user message
       await addDoc(collection(db, "rooms", roomId, "messages"), {
         author,
-        text: input.trim(),
+        text: userText,
         createdAt: serverTimestamp(),
+        aiGenerated: false,
       });
       setInput("");
+
+      // request AI reply from prototype endpoint
+      try {
+        const resp = await fetch('/api/ai-reply', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ persona: '알프레드', prompt: userText })
+        });
+        if (resp.ok) {
+          const j = await resp.json();
+          const aiText = j.reply || j.output || '응답을 생성하지 못했습니다.';
+          // save AI message
+          await addDoc(collection(db, "rooms", roomId, "messages"), {
+            author: '알프레드',
+            text: aiText,
+            createdAt: serverTimestamp(),
+            aiGenerated: true,
+          });
+        } else {
+          console.warn('AI reply failed', resp.statusText);
+        }
+      } catch (err) {
+        console.error('AI call failed', err);
+      }
+
     } catch (err) {
       console.error('send message failed', err);
       alert('메시지 전송 실패');
