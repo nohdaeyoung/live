@@ -1,4 +1,4 @@
-"use client";
+22222222222222222222222222222222111111"use client";
 
 import { useEffect, useState } from "react";
 import { collection, query, orderBy, onSnapshot, getDocs } from "firebase/firestore";
@@ -73,6 +73,21 @@ const DEFAULT_PROJECTS: Product[] = [
     ],
   },
   {
+    id: "stock",
+    title: "사미사 Stock 포트폴리오",
+    desc: "한국·미국 ETF/주식 실시간 시세 대시보드 (탭 메뉴, 국기 표시)",
+    status: "shipped",
+    link: "https://stock.324.ing/",
+    order: 3,
+    works: [
+      { id: "s1", title: "종목 선정 · 기획", type: "기획", order: 1 },
+      { id: "s2", title: "Vercel Serverless API 설계", type: "설계", order: 2 },
+      { id: "s3", title: "네이버 금융 API 연동 개발 (한국)", url: "https://github.com/nohdaeyoung/stock-ticker/blob/main/api/quotes.js", type: "개발", order: 3 },
+      { id: "s4", title: "Vercel 배포", url: "https://stock-ticker-eosin.vercel.app/", type: "배포", order: 4 },
+      { id: "s5", title: "미국 주식 API 연동 · 탭 UI 개발", type: "개발", order: 5 },
+    ],
+  },
+   {
     id: "stock",
     title: "사미사 Stock 포트폴리오",
     desc: "한국·미국 ETF/주식 실시간 시세 대시보드 (탭 메뉴, 국기 표시)",
