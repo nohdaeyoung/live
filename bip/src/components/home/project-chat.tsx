@@ -15,6 +15,8 @@ export function ProjectChat({ roomId = "general" }: { roomId?: string }) {
   const [messages, setMessages] = useState<Message[]>([]);
   const [input, setInput] = useState("");
   const [sending, setSending] = useState(false);
+  const [typing, setTyping] = useState(false);
+  const [persona, setPersona] = useState<string>('알프레드');
   const bottomRef = useRef<HTMLDivElement | null>(null);
   const author = typeof window !== "undefined" ? (localStorage.getItem("pc_author") || `Guest-${Math.floor(Math.random()*9000)+1000}`) : "Guest";
 
@@ -95,14 +97,28 @@ export function ProjectChat({ roomId = "general" }: { roomId?: string }) {
         <div className="space-y-2">
           {messages.map((m)=> (
             <div key={m.id} className="flex flex-col">
-              <div className="text-[12px] text-text-muted">{m.author}</div>
+              <div className="text-[12px] text-text-muted">{m.author}{m.aiGenerated? ' · AI' : ''}</div>
               <div className="text-sm bg-gray-100 inline-block px-3 py-1 rounded-md max-w-[85%]">{m.text}</div>
             </div>
           ))}
+          {typing && (
+            <div className="flex flex-col">
+              <div className="text-[12px] text-text-muted">{persona} · AI</div>
+              <div className="text-sm bg-gray-100 inline-block px-3 py-1 rounded-md max-w-[85%]">타이핑 중...</div>
+            </div>
+          )}
           <div ref={bottomRef} />
         </div>
       </div>
       <form onSubmit={send} className="p-3 border-t border-border flex gap-2 items-center">
+        <select value={persona} onChange={(e)=>setPersona(e.target.value)} className="mr-2 px-2 py-1 border border-border rounded-md">
+          <option>알프레드</option>
+          <option>비서공주</option>
+          <option>탐정요정</option>
+          <option>까칠한판사</option>
+          <option>감성디자이너</option>
+          <option>감성엔지니어</option>
+        </select>
         <input className="flex-1 px-3 py-2 border border-border rounded-md" placeholder="메시지를 입력하세요. (익명 기본)" value={input} onChange={(e)=>setInput(e.target.value)} />
         <button type="submit" className="px-3 py-2 bg-primary text-white rounded-md" disabled={sending || !input.trim()}>{sending? '전송중...' : '전송'}</button>
       </form>
