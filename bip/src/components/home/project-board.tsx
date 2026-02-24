@@ -73,12 +73,26 @@ const DEFAULT_PROJECTS: Product[] = [
     ],
   },
   {
+    id: "stock",
+    title: "사미사 Stock 포트폴리오",
+    desc: "15개 ETF/주식 실시간 시세 대시보드 (현재가·등락·시가·고가·저가·PER·EPS·PBR)",
+    status: "shipped",
+    link: "https://stock-ticker-eosin.vercel.app/",
+    order: 3,
+    works: [
+      { id: "s1", title: "종목 선정 · 기획", type: "기획", order: 1 },
+      { id: "s2", title: "Vercel Serverless API 설계", type: "설계", order: 2 },
+      { id: "s3", title: "네이버 금융 API 연동 개발", url: "https://github.com/nohdaeyoung/stock-ticker/blob/main/api/quotes.js", type: "개발", order: 3 },
+      { id: "s4", title: "Vercel 배포", url: "https://stock-ticker-eosin.vercel.app/", type: "배포", order: 4 },
+    ],
+  },
+  {
     id: "planner",
     title: "PO 기획 에이전트 (Planner)",
     desc: "시장 조사 → 1-Pager 기획서 자동 생성 파이프라인",
     status: "dev",
     link: "https://github.com/nohdaeyoung/live/tree/main/324-os/planner",
-    order: 3,
+    order: 4,
     works: [
       { id: "p1", title: "Researcher 에이전트 (시장 조사)", type: "기획", order: 1 },
       { id: "p2", title: "Planner 에이전트 (5-Phase 기획)", type: "기획", order: 2 },
