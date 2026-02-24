@@ -46,7 +46,7 @@ export default function HomePage() {
         </div>
         <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
           {[
-            { name: '대영 마스터', role: '창업자 · 제품 책임자', img: '/images/profile-daeyoung.png' },
+            { name: '마스터 사미사', role: '창업자 · 제품 책임자', img: '/images/profile-daeyoung.png' },
             { name: '비서공주', role: '릴리스 · 운영 담당', img: '/images/profile-secretary.png' },
             { name: '탐정요정', role: '디버깅 · 진단 담당', img: '/images/profile-detective.png' },
             { name: '까칠한판사', role: '보안 · 규칙 담당', img: '/images/profile-judge.png' },
@@ -76,7 +76,7 @@ export default function HomePage() {
           className="inline-flex items-center gap-1.5 text-sm font-bold text-text-primary hover:text-primary transition-colors"
         >
           <svg viewBox="0 0 24 24" className="w-4 h-4 fill-current" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M12 2a10 10 0 100 20 10 10 0 000-20zm6.93 7h-3.02a15.9 15.9 0 00-1.07-3.01A8.03 8.03 0 0118.93 9zM12 4.07c.87 1.4 1.5 3.06 1.86 4.93H10.14C10.5 7.13 11.13 5.47 12 4.07zM4.07 12c0-.34.02-.67.05-1h3.27c-.03.33-.05.66-.05 1s.02.67.05 1H4.12c-.05-.33-.05-.66-.05-1zM5.07 9a8.03 8.03 0 01-1.16-1.99A15.9 15.9 0 018.09 9H5.07zM12 19.93c-.87-1.4-1.5-3.06-1.86-4.93h3.72c-.36 1.87-.99 3.53-1.86 4.93zM15.66 15.5H8.34a13.6 13.6 0 01-.9-3.5c0-1.24.32-2.42.9-3.5h7.32c.58 1.08.9 2.26.9 3.5 0 1.24-.32 2.42-.9 3.5zM18.93 15a8.03 8.03 0 01-1.16 1.99c.44-.8.8-1.66 1.02-1.99z"/></svg>
-          대영 마스터
+          마스터 사미사
         </a>
         <div className="flex items-center justify-center gap-3 text-[10px] text-text-muted/60">
           <div className="flex flex-col items-center">

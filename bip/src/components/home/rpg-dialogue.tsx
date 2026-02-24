@@ -81,7 +81,7 @@ export function RPGDialogue() {
   const isHome = lastMessage?.role === "home" || (agent && agent.startsWith("claude:"));
 
   const PROFILES: Record<string, { image: string; name: string }> = {
-    human: { image: "/images/profile-daeyoung.png", name: "대영 마스터" },
+    human: { image: "/images/profile-daeyoung.png", name: "마스터 사미사" },
     main: { image: "/images/profile-secretary.png", name: "비서공주 AI" },
     home: { image: "/images/profile-daeyoung.png", name: "홈 AI" },
   };

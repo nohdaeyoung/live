@@ -23,6 +23,6 @@ export const UI_TEXT = {
   
   // 사용자 구분
   AI_NAME: "비서공주 👸",
-  USER_NAME: "대영 마스터",
+  USER_NAME: "마스터 사미사",
   TYPING: "생각을 정리하는 중...",
 };

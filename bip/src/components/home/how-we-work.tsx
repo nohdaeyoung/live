@@ -183,7 +183,7 @@ export function HowWeWork() {
           <span className="text-lg">🚀</span>
           <p className="text-xs font-bold text-text-primary">노션 문서화 & 실시간 웹 배포</p>
         </div>
-        <p className="text-[11px] text-text-muted">대영 마스터님은 결재만 하세요. 나머지는 저희가 합니다.</p>
+        <p className="text-[11px] text-text-muted">마스터 사미사님은 결재만 하세요. 나머지는 저희가 합니다.</p>
       </motion.div>
     </div>
   );
