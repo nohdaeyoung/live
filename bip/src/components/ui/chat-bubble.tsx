@@ -72,7 +72,7 @@ const AGENT_PROFILES: Record<string, AgentProfile> = {
 function getProfile(message: ChatLog): { profile: AgentProfile; isLeft: boolean } {
   const agent = message.agent || "main";
   
-  // main의 user = 대표님 (대영 마스터) — claude: 접두사 세션도 포함
+  // main의 user = 대표님 (마스터 사미사) — claude: 접두사 세션도 포함
   if (message.role === "user" && (agent === "main" || !message.agent || agent.startsWith("claude:"))) {
     return { profile: AGENT_PROFILES.human, isLeft: true };
   }

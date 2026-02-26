@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 
 const TEAM = [
   {
-    name: "대영 마스터",
+    name: "마스터 사미사",
     role: "CEO",
     icon: "👨‍💻",
     color: "bg-gray-800 text-white border-gray-900",
