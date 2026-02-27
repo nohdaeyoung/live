@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 22222222222222222222222222222222111111"use client";
+=======
+"use client";
+>>>>>>> a88816d (docs(ui): add 2026-02-24 stock project log entry to project-board)
 
 import { useEffect, useState } from "react";
 import { collection, query, orderBy, onSnapshot, getDocs } from "firebase/firestore";
@@ -76,6 +80,7 @@ const DEFAULT_PROJECTS: Product[] = [
     id: "stock",
     title: "사미사 Stock 포트폴리오",
     desc: "한국·미국 ETF/주식 실시간 시세 대시보드 (탭 메뉴, 국기 표시)",
+<<<<<<< HEAD
     status: "shipped",
     link: "https://stock.324.ing/",
     order: 3,
@@ -93,6 +98,10 @@ const DEFAULT_PROJECTS: Product[] = [
     desc: "한국·미국 ETF/주식 실시간 시세 대시보드 (탭 메뉴, 국기 표시)",
     status: "shipped",
     link: "https://stock.324.ing/",
+=======
+    status: "dev",
+    link: "https://stock-ticker-eosin.vercel.app/",
+>>>>>>> a88816d (docs(ui): add 2026-02-24 stock project log entry to project-board)
     order: 3,
     works: [
       { id: "s1", title: "종목 선정 · 기획", type: "기획", order: 1 },
@@ -100,6 +109,10 @@ const DEFAULT_PROJECTS: Product[] = [
       { id: "s3", title: "네이버 금융 API 연동 개발 (한국)", url: "https://github.com/nohdaeyoung/stock-ticker/blob/main/api/quotes.js", type: "개발", order: 3 },
       { id: "s4", title: "Vercel 배포", url: "https://stock-ticker-eosin.vercel.app/", type: "배포", order: 4 },
       { id: "s5", title: "미국 주식 API 연동 · 탭 UI 개발", type: "개발", order: 5 },
+<<<<<<< HEAD
+=======
+      { id: "s6", title: "2026-02-24 작업 로그: Naver 우선 종가 도입·AV/Yahoo 폴백·배포 이슈(재배포 한도) 대응", url: "https://github.com/nohdaeyoung/stockmanager/blob/gh-pages/2026-02/2026-02-24-stock-portfolio-update.md", type: "개발", order: 6 },
+>>>>>>> a88816d (docs(ui): add 2026-02-24 stock project log entry to project-board)
     ],
   },
   {
