@@ -14,14 +14,14 @@ Project: 324-company-bip — 작업 분담 및 자동화/디버그 프롬프트
 작업별 담당 & 프롬프트
 
 1) UI 변경 — 히어로 문구 / 푸터 링크 및 아이콘
-- 담당: Frontend Engineer (대영)
+- 담당: Frontend Engineer (마스터 사미사)
 - 파일: bip/src/app/page.tsx
 - 할 일: 히어로 서브라인을 "프로젝트 진행도, 사소한 잡담도<br/>우리 팀의 하루가 쌓여갑니다."로 변경하고, 푸터 링크를 https://iloveyouicantforgetyou.neocities.org/ 로 변경, X 아이콘을 지구(글로브) 아이콘으로 교체.
 - 재현 프롬프트 (프론트엔드에게 전달할 텍스트):
   "page.tsx의 hero 서브라인을 정확히 '프로젝트 진행도, 사소한 잡담도<br/>우리 팀의 하루가 쌓여갑니다.'로 수정하고 줄바꿈을 유지하십시오. footer의 외부 링크를 https://iloveyouicantforgetyou.neocities.org/ 로 바꾸고 X 아이콘을 globe 아이콘(간단한 svg)으로 교체하세요. 변경 후 로컬 빌드와 배포로 동작 확인하세요."
 
 2) 임시 디버그 패널 제거
-- 담당: Frontend Engineer (대영)
+- 담당: Frontend Engineer (마스터 사미사)
 - 파일: bip/src/app/page.tsx, bip/src/hooks/use-live-chat.ts, bip/src/lib/firebase.ts
 - 할 일: DebugPanel 컴포넌트 및 window.__liveChatDebug 노출 코드를 제거(혹은 주석 처리)하여 프로덕션 노출 방지.
 - 재현 프롬프트:
@@ -42,14 +42,14 @@ Project: 324-company-bip — 작업 분담 및 자동화/디버그 프롬프트
   "긴급 패치가 필요하면 현재 배포된 index.html을 다운로드한 뒤 필요한 텍스트 수정(예: hero 문구 교체)을 적용하고 bip/out/index.html로 저장한 뒤 npx firebase-tools deploy --only hosting --project <PROJECT>로 배포하세요. 배포가 끝나면 소스에 동일한 수정을 반영하고 CI 파이프라인으로 재배포되도록 조치하세요."
 
 5) Firestore 임시 디버그 수집
-- 담당: Backend Engineer (대영 / 알프레드 협업)
+- 담당: Backend Engineer (마스터 사미사 / 알프레드 협업)
 - 파일: bip/firestore.rules
 - 할 일: debug_reports 컬렉션에 대해 한시적으로 엄격한 스키마(필드: ts, payload; payload 길이 <= 2000)로 unauthenticated create를 허용. 진단이 끝나면 즉시 규칙 롤백 및 컬렉션 삭제 권장.
 - 재현 프롬프트:
   "debug_reports 컬렉션에 대해 unauthenticated create를 한시적으로 허용하되, request.resource.data는 { ts: string, payload: string }를 만족하고 payload 길이는 0 < len <= 2000 이어야 합니다. 진단이 끝나면 규칙을 원래 상태로 되돌리고 컬렉션을 삭제하세요."
 
 6) 로컬 개발서버 및 디버그 재현
-- 담당: Developer (대영)
+- 담당: Developer (마스터 사미사)
 - 명령:
   - npm run dev (bip 디렉토리)
   - http://localhost:3000 로 접속해 변경 사항 확인
@@ -57,7 +57,7 @@ Project: 324-company-bip — 작업 분담 및 자동화/디버그 프롬프트
   "로컬 개발 환경에서 npm run dev를 실행하고 브라우저(시크릿 또는 캐시 무시)로 http://localhost:3000을 열어 변경된 히어로 문구와 푸터 링크가 반영되는지 확인하세요. 문제가 있으면 콘솔 오류를 캡처해 공유하세요."
 
 7) GitHub Actions 토큰/Secret 등록
-- 담당: Repository Admin (대영 또는 승인된 관리자)
+- 담당: Repository Admin (마스터 사미사 또는 승인된 관리자)
 - 절차:
   - 서비스 계정 키(JSON)를 base64로 인코딩
   - GitHub → Settings → Secrets and variables → Actions → New repository secret
@@ -107,7 +107,7 @@ Project: 324-company-bip — 작업 분담 및 자동화/디버그 프롬프트
   - 책임: 서버 로그 수집, Firestore 업로드, 모니터링
 
 운영 절차(권장)
-- 배포 승인: 대영 승인 → 비서공주(알프레드) 배포 실행 → 탐정요정 검증 → 완료 보고
+- 배포 승인: 마스터 사미사 승인 → 비서공주(알프레드) 배포 실행 → 탐정요정 검증 → 완료 보고
 - 보안 변경: 까칠한판사 승인 → 규칙 적용(기간 명시) → 검증 → 롤백
 - 자동화: 감성엔지니어(AI)는 관리자 승인 후 자동 PR/배포 가능
 

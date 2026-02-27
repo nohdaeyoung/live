@@ -19,5 +19,5 @@
     <circle cx="380" cy="420" r="18" class="eye"/>
     <path d="M260 520 Q300 560 340 520" stroke="#b07a5a" stroke-width="6" fill="none" stroke-linecap="round"/>
   </g>
-  <text x="600" y="1100" text-anchor="middle" class="label">대영 — 창업자</text>
+  <text x="600" y="1100" text-anchor="middle" class="label">마스터 사미사 — 창업자</text>
 </svg>
