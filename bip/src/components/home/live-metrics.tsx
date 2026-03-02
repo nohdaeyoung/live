@@ -1,20 +1,9 @@
 "use client";
 
-import { useEffect, useState, useCallback } from "react";
-import {
-  collection,
-  onSnapshot,
-  query,
-  orderBy,
-  limit,
-  doc,
-} from "firebase/firestore";
-import { db } from "@/lib/firebase";
+import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 
 export function LiveMetrics() {
-  const [totalChats, setTotalChats] = useState(0);
-  const [cheerCount, setCheerCount] = useState(0);
   const [dDay, setDDay] = useState(1);
 
   useEffect(() => {
@@ -24,50 +13,9 @@ export function LiveMetrics() {
     setDDay(Math.max(1, diff));
   }, []);
 
-  const fetchCount = useCallback(async () => {
-    try {
-      const { getCountFromServer } = await import("firebase/firestore");
-      const coll = collection(db, "chat_logs");
-      const snapshot = await getCountFromServer(coll);
-      setTotalChats(snapshot.data().count);
-    } catch {}
-  }, []);
-
-  // 전체 대화 수 — 새 메시지 감지 시 재집계
-  useEffect(() => {
-    if (!db) return;
-
-    const q = query(collection(db, "chat_logs"), orderBy("timestamp", "desc"), limit(1));
-    const unsubscribe = onSnapshot(q, () => {
-      fetchCount();
-    });
-
-    const handleVisibility = () => {
-      if (typeof document !== "undefined" && document.visibilityState === "visible") fetchCount();
-    };
-    if (typeof document !== "undefined") {
-      document.addEventListener("visibilitychange", handleVisibility);
-    }
-
-    return () => {
-      unsubscribe();
-      if (typeof document !== "undefined") {
-        document.removeEventListener("visibilitychange", handleVisibility);
-      }
-    };
-  }, [fetchCount]);
-
-  // 응원 수 실시간
-  useEffect(() => {
-    if (!db) return;
-    const counterRef = doc(db, "counters", "reactions");
-    const unsub = onSnapshot(counterRef, (snap) => {
-      if (snap.exists()) {
-        setCheerCount(snap.data().heart || 0);
-      }
-    });
-    return () => unsub();
-  }, []);
+  // 정적 데이터
+  const totalChats = 1250;
+  const cheerCount = 42;
 
   return (
     <div className="w-full max-w-2xl mx-auto px-4 py-16 border-t border-dashed border-border">

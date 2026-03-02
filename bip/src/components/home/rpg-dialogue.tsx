@@ -1,202 +1,67 @@
 "use client";
 
-import { useLiveChat } from "@/hooks/use-live-chat";
-// use native <img> for static-export compatibility (avoid next/image optimization issues)
-
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
-import { motion, AnimatePresence } from "framer-motion";
-import ReactMarkdown from "react-markdown";
-import { useState, useEffect, useRef } from "react";
+import { motion } from "framer-motion";
 
-// 타이핑 효과 훅
-function useTypewriter(text: string, speed = 20) {
-  const [displayed, setDisplayed] = useState("");
-  const [isTyping, setIsTyping] = useState(false);
-  const prevText = useRef("");
-
-  useEffect(() => {
-    if (text === prevText.current) return;
-    prevText.current = text;
-
-    setDisplayed("");
-    setIsTyping(true);
-
-    let i = 0;
-    const timer = setInterval(() => {
-      i++;
-      setDisplayed(text.slice(0, i));
-      if (i >= text.length) {
-        clearInterval(timer);
-        setIsTyping(false);
-      }
-    }, speed);
-
-    return () => clearInterval(timer);
-  }, [text, speed]);
-
-  return { displayed, isTyping };
-}
-
-// 상대 시간
-function timeAgo(timestamp: string): string {
-  try {
-    const now = Date.now();
-    const then = new Date(timestamp).getTime();
-    const diff = Math.floor((now - then) / 1000);
-
-    if (diff < 10) return "방금 전";
-    if (diff < 60) return `${diff}초 전`;
-    if (diff < 3600) return `${Math.floor(diff / 60)}분 전`;
-    if (diff < 86400) return `${Math.floor(diff / 3600)}시간 전`;
-    return `${Math.floor(diff / 86400)}일 전`;
-  } catch {
-    return "";
-  }
-}
+// 정적 예시 대화 데이터
+const SAMPLE_DIALOGUE = {
+  agent: "알프레드",
+  content: "오늘도 새로운 기능을 만들어볼까요? 팀 프로젝트 진행 상황을 확인하고 있습니다.",
+  timestamp: new Date().toISOString(),
+};
 
 export function RPGDialogue() {
-  const { messages, loading } = useLiveChat(3);
-  const lastMessage = messages[messages.length - 1];
-  
-  const rawContent = loading 
-    ? "통신 연결 중입니다... 잠시만 기다려주세요." 
-    : (lastMessage?.content || "현재 대화 내용이 없습니다.");
-
-  const truncated = rawContent.length > 200 ? rawContent.slice(0, 200) + "..." : rawContent;
-  const { displayed, isTyping } = useTypewriter(truncated, 15);
-
-  // 상대 시간
-  const [ago, setAgo] = useState("");
-  useEffect(() => {
-    if (!lastMessage?.timestamp) return;
-    setAgo(timeAgo(lastMessage.timestamp));
-    const timer = setInterval(() => setAgo(timeAgo(lastMessage.timestamp)), 5000);
-    return () => clearInterval(timer);
-  }, [lastMessage?.timestamp]);
-
-  // 에이전트별 프로필
-  const agent = lastMessage?.agent || "main";
-  const isUser = lastMessage?.role === "user" && (agent === "main" || !lastMessage?.agent);
-  const isHome = lastMessage?.role === "home" || (agent && agent.startsWith("claude:"));
-
-  const PROFILES: Record<string, { image: string; name: string }> = {
-    human: { image: "/images/profile-daeyoung.png", name: "마스터 사미사" },
-    main: { image: "/images/profile-secretary.png", name: "비서공주 AI" },
-    home: { image: "/images/profile-daeyoung.png", name: "홈 AI" },
-  };
-
-  const profileKey = isUser ? "human" : isHome ? "home" : "main";
-  const profile = PROFILES[profileKey] || PROFILES.main;
-  const modelName = isUser ? "인간의 두뇌" : (lastMessage?.model || "AI");
-
   return (
-    <div className="w-full max-w-2xl mx-auto px-4 pb-8 z-10 relative">
-      {/* 섹션 헤더 */}
-      <div className="flex items-center gap-2 mb-3">
-        <div className="flex items-center gap-1.5 bg-green-500/10 px-2.5 py-1 rounded-full">
-          <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
-          <span className="text-xs font-bold text-green-700">실시간 대화</span>
+    <div className="w-full max-w-2xl mx-auto px-4 py-16 border-t border-dashed border-border">
+      <div className="flex items-center justify-between mb-4">
+        <div>
+          <motion.p
+            initial={{ opacity: 0, y: 10 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            className="text-sm font-bold text-text-primary"
+          >
+            실시간 대화
+          </motion.p>
+          <p className="text-xs text-text-muted">지금 이 순간의 개발 로그</p>
         </div>
-        <span className="text-[10px] text-text-muted">지금 이 순간의 개발 로그</span>
+        <Link
+          href="/live"
+          className="flex items-center gap-1 text-xs text-primary hover:text-primary/80 transition-colors"
+        >
+          <span>전체 대화 보기</span>
+          <ArrowRight size={14} />
+        </Link>
       </div>
 
-      {/* 채팅 카드 */}
-      <motion.div 
-        initial={{ y: 20, opacity: 0 }}
-        animate={{ y: 0, opacity: 1 }}
-        className="bg-white rounded-2xl border border-gray-200 shadow-sm overflow-hidden"
+      {/* 대화 카드 */}
+      <motion.div
+        initial={{ opacity: 0, y: 10 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true }}
+        transition={{ delay: 0.1 }}
+        className="bg-white border border-border rounded-xl p-4"
       >
-        {/* 상단 — 프로필 + 이름 + 시간 */}
-        <div className="flex items-center gap-3 p-3 pb-0">
-          {/* Portrait — RPG 스타일 */}
-          <div className="relative w-14 h-14 flex-shrink-0 bg-background border-2 border-text-primary rounded-lg overflow-hidden shadow-[3px_3px_0px_#3D3529] transform -rotate-2">
-            <AnimatePresence mode="wait">
-              <motion.div
-                key={profile.image}
-                initial={{ opacity: 0, scale: 0.8 }}
-                animate={{ opacity: 1, scale: 1 }}
-                exit={{ opacity: 0, scale: 0.8 }}
-                transition={{ duration: 0.3 }}
-                className="relative w-full h-full"
-              >
-                <img
-                  src={profile.image}
-                  alt="Character"
-                  className="absolute inset-0 w-full h-full object-cover"
-                  onError={(e) => { (e.target as HTMLImageElement).src = '/images/profile-daeyoung.png'; }}
-                />
-              </motion.div>
-            </AnimatePresence>
-          </div>
-
-          {/* Name + Time + 더보기 */}
-          <div className="flex flex-col justify-center min-w-0 flex-1">
-            <div className="flex items-center justify-between">
-              <div className="flex items-center gap-1.5">
-                <AnimatePresence mode="wait">
-                  <motion.span
-                    key={profile.name}
-                    initial={{ opacity: 0, y: 6 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    exit={{ opacity: 0, y: -6 }}
-                    transition={{ duration: 0.2 }}
-                    className="font-bold text-sm text-text-primary"
-                  >
-                    {profile.name}
-                  </motion.span>
-                </AnimatePresence>
-                {ago && (
-                  <span className="text-[10px] text-text-muted">· {ago}</span>
-                )}
-              </div>
-            </div>
-            {/* 모델명 with 🧠 */}
-            <div className="flex items-center gap-1 mt-0.5">
-              <span className="text-[10px]">🧠</span>
-              <span className="text-[9px] text-text-muted/50 font-mono">
-                {modelName}
+        <div className="flex items-start gap-3">
+          <img
+            src="/images/profile-ai.png"
+            alt={SAMPLE_DIALOGUE.agent}
+            className="w-10 h-10 rounded-md object-cover flex-shrink-0"
+          />
+          <div className="flex-1 min-w-0">
+            <div className="flex items-center gap-2 mb-1">
+              <span className="text-sm font-bold text-text-primary">
+                {SAMPLE_DIALOGUE.agent}
               </span>
+              <span className="text-xs text-text-muted">· AI</span>
             </div>
-          </div>
-        </div>
-
-        {/* 대화 내용 — 말풍선 스타일 */}
-        <div className="mx-3 mt-2 mb-2 bg-gray-50 rounded-xl rounded-tl-sm p-3 relative">
-          {/* 말풍선 꼬리 */}
-          <div className="absolute -left-2 top-3 w-0 h-0 border-t-[6px] border-t-transparent border-b-[6px] border-b-transparent border-r-[8px] border-r-gray-50" />
-          {/* 메시지 유형 뱃지 */}
-          <div className="flex items-center gap-1.5 mb-1.5">
-            <span className={`text-[9px] font-bold px-1.5 py-0.5 rounded-full ${
-              lastMessage?.role === "user"
-                ? "bg-primary/15 text-primary" 
-                : "bg-blue-500/15 text-blue-600"
-            }`}>
-              {lastMessage?.role === "user" ? "💬 명령" : "💡 답변"}
-            </span>
-          </div>
-          <div className="relative h-[64px] overflow-hidden">
-            <div className="font-mono text-sm leading-relaxed text-text-primary">
-              <ReactMarkdown components={{ p: ({ children }) => <span>{children}</span> }}>{displayed}</ReactMarkdown>
-              <span className="inline-block w-0.5 h-4 bg-primary ml-0.5 align-middle animate-blink" />
-            </div>
-            {/* Fade */}
-            <div className="absolute bottom-0 left-0 w-full h-10 bg-gradient-to-t from-gray-50 to-transparent" />
+            <p className="text-sm text-text-secondary leading-relaxed">
+              {SAMPLE_DIALOGUE.content}
+            </p>
           </div>
         </div>
       </motion.div>
-
-      {/* CTA — 카드 밖 아래 */}
-      <div className="flex justify-center mt-3">
-        <Link 
-          href="/live"
-          className="group relative flex items-center gap-1 text-xs font-bold text-white bg-primary/80 hover:bg-primary px-4 py-1.5 rounded-full overflow-hidden transition-colors shadow-sm"
-        >
-          <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/25 to-transparent animate-shimmer" />
-          <span className="relative">전체 대화 보기</span>
-          <ArrowRight size={12} className="relative group-hover:translate-x-0.5 transition-transform" />
-        </Link>
-      </div>
     </div>
   );
 }

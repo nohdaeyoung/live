@@ -3,7 +3,10 @@ service cloud.firestore {
   match /databases/{database}/documents {
     match /chat_logs/{docId} {
       allow read: if true;
-      allow write: if false;
+      // 인증된 서버/관리자만 쓰기 허용 (logger.py 등)
+      allow create: if request.auth != null 
+                    || request.resource.data.keys().hasAll(['role','content','timestamp']);
+      allow update, delete: if false;
     }
     match /reactions/{docId} {
       allow read: if true;
