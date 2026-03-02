@@ -46,6 +46,7 @@ export default function RootLayout({
         className={`antialiased bg-background text-text-primary selection:bg-primary/20 font-sans`}
       >
         {children}
+        <ReactionBar />
       </body>
     </html>
   );
