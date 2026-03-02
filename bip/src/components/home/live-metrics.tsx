@@ -43,13 +43,17 @@ export function LiveMetrics() {
     });
 
     const handleVisibility = () => {
-      if (document.visibilityState === "visible") fetchCount();
+      if (typeof document !== "undefined" && document.visibilityState === "visible") fetchCount();
     };
-    document.addEventListener("visibilitychange", handleVisibility);
+    if (typeof document !== "undefined") {
+      document.addEventListener("visibilitychange", handleVisibility);
+    }
 
     return () => {
       unsubscribe();
-      document.removeEventListener("visibilitychange", handleVisibility);
+      if (typeof document !== "undefined") {
+        document.removeEventListener("visibilitychange", handleVisibility);
+      }
     };
   }, [fetchCount]);
 

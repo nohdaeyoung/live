@@ -1,0 +1,6919 @@
+[
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "PA"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "PD"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "PG1"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "PGXA"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "PI1"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "PI2"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "PK1"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "PK2"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "st7"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "PK4"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "PP1"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "PS"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "P1"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "P2"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "P3"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "P4"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "P5"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "P6"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "P7"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "P8"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "P9"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "PSL"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "PU"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "PUI"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "st22"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "PY"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "class": "st1"
+  },
+  {
+    "type": "text",
+    "x": 77.40625,
+    "y": -5.5,
+    "text": "250628 Not to scale",
+    "class": "T st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.10186767578125,
+    "y": -5.500052452087402,
+    "text": "Ganseok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.71915817260742,
+    "y": -5.500052452087402,
+    "text": "Gaehwasan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.14094924926758,
+    "y": -5.500052452087402,
+    "text": "Gubanpo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 49.12546920776367,
+    "y": -5.500052452087402,
+    "text": "Sinnonhyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 64.1959228515625,
+    "y": 5.299947738647461,
+    "text": "Seoul Nat'l Univ. \n\t\t\t\t\tof Education",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 38.5941162109375,
+    "y": -5.500052452087402,
+    "text": "Hoehyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 52.93800354003906,
+    "y": -5.500052452087402,
+    "text": "Myeong-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.414466857910156,
+    "y": -5.500052452087402,
+    "text": "Beotigogae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.06290054321289,
+    "y": -5.500052452087402,
+    "text": "Singeumho",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.60971450805664,
+    "y": -5.500052452087402,
+    "text": "Gangnam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 62.8365364074707,
+    "y": -5.500052452087402,
+    "text": "Seonjeongneung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 59.48494338989258,
+    "y": -5.500052452087402,
+    "text": "Dunchon Oryun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 64.3359375,
+    "y": -5.5,
+    "text": "Euljiro 3(sam)-ga",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 57.54742431640625,
+    "y": -5.500052452087402,
+    "text": "Jongno 5(o)-ga",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 57.28125,
+    "y": -5.5,
+    "text": "Euljiro 4(sa)-ga",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 82.1875,
+    "y": 5.30000114440918,
+    "text": "Dongdaemun History\n\t\t\t\t\t& Culture Park",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 50.48485565185547,
+    "y": -5.500052452087402,
+    "text": "Dongdaemun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 49.43797302246094,
+    "y": -5.500052452087402,
+    "text": "Sinseol-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 46.94575881958008,
+    "y": -5.500052452087402,
+    "text": "Seoul Forest",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 70.19598388671875,
+    "y": -5.500052452087402,
+    "text": "Mongchontoseong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 76.56990051269531,
+    "y": 5.299947738647461,
+    "text": "Yeongdeungpo-gu \n\t\t\t\t\tOffice",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 92.1727523803711,
+    "y": -5.500052452087402,
+    "text": "Boramae Medical Center",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 52.2036247253418,
+    "y": -5.500052452087402,
+    "text": "Boramae Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 81.89296817779541,
+    "y": 5.299947738647461,
+    "text": "Seoul Regional Office\n\t\t\t\t\tof Military Manpower",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 59.945884704589844,
+    "y": -5.500052452087402,
+    "text": "Jangseungbaegi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 77.77417755126953,
+    "y": -5.500052452087402,
+    "text": "Sindaebangsamgeori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.4144287109375,
+    "y": -5.500052452087402,
+    "text": "Samseong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 59.03181076049805,
+    "y": 5.299947738647461,
+    "text": "Yeongdeungpo\n\t\t\t\t\tMarket",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 58.141178131103516,
+    "y": -5.500052452087402,
+    "text": "Sangwangsimni",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 36.69566345214844,
+    "y": -5.500052452087402,
+    "text": "Sapyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.031612396240234,
+    "y": -5.500052452087402,
+    "text": "Cheonggu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.711666107177734,
+    "y": -5.500093460083008,
+    "text": "Sinyongsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.031612396240234,
+    "y": -5.500052452087402,
+    "text": "Eungbong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.98468017578125,
+    "y": -5.500052452087402,
+    "text": "Yongsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 54.06301498413086,
+    "y": 5.299947738647461,
+    "text": "Ewha\n\t\t\t\t\tWomans Univ.",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 55.87553405761719,
+    "y": 5.299947738647461,
+    "text": "Sinchon\n\t\t\t\t\t(Underground)",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 54.594268798828125,
+    "y": -5.500052452087402,
+    "text": "Hanyang Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.0628547668457,
+    "y": -5.500052452087402,
+    "text": "Ttukseom",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.46913528442383,
+    "y": -5.500052452087402,
+    "text": "Namyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.726837158203125,
+    "y": -5.500052452087402,
+    "text": "Ahyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.508216857910156,
+    "y": -5.500052452087402,
+    "text": "Heungseon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 39.5003776550293,
+    "y": -5.500052452087402,
+    "text": "Seongnam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 58.023990631103516,
+    "y": -5.500052452087402,
+    "text": "Gwanghwamun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 44.297298431396484,
+    "y": -5.500052452087402,
+    "text": "Seodaemun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 36.75816345214844,
+    "y": -5.500052452087402,
+    "text": "Bulgwang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 16.25078558921814,
+    "y": 5.299947738647461,
+    "text": "City\n\t\t\t\t\tHall",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 37.3909797668457,
+    "y": -5.500052452087402,
+    "text": "Hwajeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 46.46138000488281,
+    "y": -5.500052452087402,
+    "text": "Jeongbalsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.10186767578125,
+    "y": -5.500052452087402,
+    "text": "Ganseok",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.71915817260742,
+    "y": -5.500052452087402,
+    "text": "Gaehwasan",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.14094924926758,
+    "y": -5.500052452087402,
+    "text": "Gubanpo",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 49.12546920776367,
+    "y": -5.500052452087402,
+    "text": "Sinnonhyeon",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 64.1959228515625,
+    "y": 5.299947738647461,
+    "text": "Seoul Nat'l Univ. \n\t\t\t\t\tof Education",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 38.5941162109375,
+    "y": -5.500052452087402,
+    "text": "Hoehyeon",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 52.93800354003906,
+    "y": -5.500052452087402,
+    "text": "Myeong-dong",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.414466857910156,
+    "y": -5.500052452087402,
+    "text": "Beotigogae",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.06290054321289,
+    "y": -5.500052452087402,
+    "text": "Singeumho",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.60971450805664,
+    "y": -5.500052452087402,
+    "text": "Gangnam",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 62.8365364074707,
+    "y": -5.500052452087402,
+    "text": "Seonjeongneung",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 59.48494338989258,
+    "y": -5.500052452087402,
+    "text": "Dunchon Oryun",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 64.3359375,
+    "y": -5.5,
+    "text": "Euljiro 3(sam)-ga",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 57.54742431640625,
+    "y": -5.500052452087402,
+    "text": "Jongno 5(o)-ga",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 57.28125,
+    "y": -5.5,
+    "text": "Euljiro 4(sa)-ga",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 82.1875,
+    "y": 5.30000114440918,
+    "text": "Dongdaemun History\n\t\t\t\t\t& Culture Park",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 50.48485565185547,
+    "y": -5.500052452087402,
+    "text": "Dongdaemun",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 49.43797302246094,
+    "y": -5.500052452087402,
+    "text": "Sinseol-dong",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 46.94575881958008,
+    "y": -5.500052452087402,
+    "text": "Seoul Forest",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 70.19598388671875,
+    "y": -5.500052452087402,
+    "text": "Mongchontoseong",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 76.56990051269531,
+    "y": 5.299947738647461,
+    "text": "Yeongdeungpo-gu \n\t\t\t\t\tOffice",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 92.1727523803711,
+    "y": -5.500052452087402,
+    "text": "Boramae Medical Center",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 52.2036247253418,
+    "y": -5.500052452087402,
+    "text": "Boramae Park",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 81.89296817779541,
+    "y": 5.299947738647461,
+    "text": "Seoul Regional Office\n\t\t\t\t\tof Military Manpower",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 59.945884704589844,
+    "y": -5.500052452087402,
+    "text": "Jangseungbaegi",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 77.77417755126953,
+    "y": -5.500052452087402,
+    "text": "Sindaebangsamgeori",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.4144287109375,
+    "y": -5.500052452087402,
+    "text": "Samseong",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 59.03181076049805,
+    "y": 5.299947738647461,
+    "text": "Yeongdeungpo\n\t\t\t\t\tMarket",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 58.141178131103516,
+    "y": -5.500052452087402,
+    "text": "Sangwangsimni",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 36.69566345214844,
+    "y": -5.500052452087402,
+    "text": "Sapyeong",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.031612396240234,
+    "y": -5.500052452087402,
+    "text": "Cheonggu",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.711666107177734,
+    "y": -5.500093460083008,
+    "text": "Sinyongsan",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.031612396240234,
+    "y": -5.500052452087402,
+    "text": "Eungbong",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.98468017578125,
+    "y": -5.500052452087402,
+    "text": "Yongsan",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 54.06301498413086,
+    "y": 5.299947738647461,
+    "text": "Ewha\n\t\t\t\t\tWomans Univ.",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 55.87553405761719,
+    "y": 5.299947738647461,
+    "text": "Sinchon\n\t\t\t\t\t(Underground)",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 54.594268798828125,
+    "y": -5.500052452087402,
+    "text": "Hanyang Univ.",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.0628547668457,
+    "y": -5.500052452087402,
+    "text": "Ttukseom",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.46913528442383,
+    "y": -5.500052452087402,
+    "text": "Namyeong",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.726837158203125,
+    "y": -5.500052452087402,
+    "text": "Ahyeon",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.508216857910156,
+    "y": -5.500052452087402,
+    "text": "Heungseon",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 39.5003776550293,
+    "y": -5.500052452087402,
+    "text": "Seongnam",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 58.023990631103516,
+    "y": -5.500052452087402,
+    "text": "Gwanghwamun",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 44.297298431396484,
+    "y": -5.500052452087402,
+    "text": "Seodaemun",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 36.75816345214844,
+    "y": -5.500052452087402,
+    "text": "Bulgwang",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 16.25078558921814,
+    "y": 5.299947738647461,
+    "text": "City\n\t\t\t\t\tHall",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 37.3909797668457,
+    "y": -5.500052452087402,
+    "text": "Hwajeong",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 46.46138000488281,
+    "y": -5.500052452087402,
+    "text": "Jeongbalsan",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.10186767578125,
+    "y": -5.500052452087402,
+    "text": "Ganseok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.71915817260742,
+    "y": -5.500052452087402,
+    "text": "Gaehwasan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.14094924926758,
+    "y": -5.500052452087402,
+    "text": "Gubanpo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 49.12546920776367,
+    "y": -5.500052452087402,
+    "text": "Sinnonhyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 64.1959228515625,
+    "y": 5.299947738647461,
+    "text": "Seoul Nat'l Univ. \n\t\t\t\tof Education",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 38.5941162109375,
+    "y": -5.500052452087402,
+    "text": "Hoehyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 52.93800354003906,
+    "y": -5.500052452087402,
+    "text": "Myeong-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.414466857910156,
+    "y": -5.500052452087402,
+    "text": "Beotigogae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.06290054321289,
+    "y": -5.500052452087402,
+    "text": "Singeumho",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.60971450805664,
+    "y": -5.500052452087402,
+    "text": "Gangnam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 62.8365364074707,
+    "y": -5.500052452087402,
+    "text": "Seonjeongneung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 59.48494338989258,
+    "y": -5.500052452087402,
+    "text": "Dunchon Oryun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 64.3359375,
+    "y": -5.5,
+    "text": "Euljiro 3(sam)-ga",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 57.54742431640625,
+    "y": -5.500052452087402,
+    "text": "Jongno 5(o)-ga",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 57.28125,
+    "y": -5.5,
+    "text": "Euljiro 4(sa)-ga",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 82.1875,
+    "y": 5.30000114440918,
+    "text": "Dongdaemun History\n\t\t\t\t& Culture Park",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 50.48485565185547,
+    "y": -5.500052452087402,
+    "text": "Dongdaemun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 49.43797302246094,
+    "y": -5.500052452087402,
+    "text": "Sinseol-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 46.94575881958008,
+    "y": -5.500052452087402,
+    "text": "Seoul Forest",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 70.19598388671875,
+    "y": -5.500052452087402,
+    "text": "Mongchontoseong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 76.56990051269531,
+    "y": 5.299947738647461,
+    "text": "Yeongdeungpo-gu \n\t\t\t\tOffice",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 92.1727523803711,
+    "y": -5.500052452087402,
+    "text": "Boramae Medical Center",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 52.2036247253418,
+    "y": -5.500052452087402,
+    "text": "Boramae Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 81.89296817779541,
+    "y": 5.299947738647461,
+    "text": "Seoul Regional Office\n\t\t\t\tof Military Manpower",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 59.945884704589844,
+    "y": -5.500052452087402,
+    "text": "Jangseungbaegi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 77.77417755126953,
+    "y": -5.500052452087402,
+    "text": "Sindaebangsamgeori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.4144287109375,
+    "y": -5.500052452087402,
+    "text": "Samseong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 59.03181076049805,
+    "y": 5.299947738647461,
+    "text": "Yeongdeungpo\n\t\t\t\tMarket",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 58.141178131103516,
+    "y": -5.500052452087402,
+    "text": "Sangwangsimni",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 36.69566345214844,
+    "y": -5.500052452087402,
+    "text": "Sapyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.031612396240234,
+    "y": -5.500052452087402,
+    "text": "Cheonggu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.711666107177734,
+    "y": -5.500093460083008,
+    "text": "Sinyongsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.031612396240234,
+    "y": -5.500052452087402,
+    "text": "Eungbong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.98468017578125,
+    "y": -5.500052452087402,
+    "text": "Yongsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 54.06301498413086,
+    "y": 5.299947738647461,
+    "text": "Ewha\n\t\t\t\tWomans Univ.",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 55.87553405761719,
+    "y": 5.299947738647461,
+    "text": "Sinchon\n\t\t\t\t(Underground)",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 54.594268798828125,
+    "y": -5.500052452087402,
+    "text": "Hanyang Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.0628547668457,
+    "y": -5.500052452087402,
+    "text": "Ttukseom",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.46913528442383,
+    "y": -5.500052452087402,
+    "text": "Namyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.726837158203125,
+    "y": -5.500052452087402,
+    "text": "Ahyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.508216857910156,
+    "y": -5.500052452087402,
+    "text": "Heungseon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 39.5003776550293,
+    "y": -5.500052452087402,
+    "text": "Seongnam",
+    "class": "T st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 58.023990631103516,
+    "y": -5.500052452087402,
+    "text": "Gwanghwamun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 44.297298431396484,
+    "y": -5.500052452087402,
+    "text": "Seodaemun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 36.75816345214844,
+    "y": -5.500052452087402,
+    "text": "Bulgwang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 16.25078558921814,
+    "y": 5.299947738647461,
+    "text": "City\n\t\t\t\tHall",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 37.3909797668457,
+    "y": -5.500052452087402,
+    "text": "Hwajeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 46.46138000488281,
+    "y": -5.500052452087402,
+    "text": "Jeongbalsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 48.6015625,
+    "y": -8.5,
+    "text": "Transfer",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 90.078125,
+    "y": -8.5,
+    "text": "Gimpo Goldline",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 88.0078125,
+    "y": -8.5,
+    "text": "Ui-Sinseol Line",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 59.4453125,
+    "y": -8.5,
+    "text": "Sillim Line",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 135.984375,
+    "y": -8.5,
+    "text": "Uijeongbu LRT (U Line)",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 163.5078125,
+    "y": -8.5,
+    "text": "Shinbundang Line (DX Line)",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 206.640625,
+    "y": -8.5,
+    "text": "Great Train eXpress Line A (GTX-A)",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 90.9375,
+    "y": -8.5,
+    "text": "Yongin Everline",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 137.875,
+    "y": -8.5,
+    "text": "Airport Railroad (AREX)",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 86.4921875,
+    "y": -8.5,
+    "text": "Incheon Line 2",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 84.03125,
+    "y": -8.5,
+    "text": "Incheon Line 1",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 71.078125,
+    "y": -8.5,
+    "text": "Seohae Line",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 101.53125,
+    "y": -8.5,
+    "text": "Gyeonggang Line",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 111.6015625,
+    "y": -8.5,
+    "text": "Suin-Bundang Line",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 101.84375,
+    "y": -8.5,
+    "text": "Gyeongchun Line",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 137.71875,
+    "y": -8.5,
+    "text": "Gyeongui-Jungang Line",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 36.1953125,
+    "y": -8.5,
+    "text": "Line 9",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 36.484375,
+    "y": -8.5,
+    "text": "Line 8",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 35.296875,
+    "y": -8.5,
+    "text": "Line 7",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 36.1953125,
+    "y": -8.5,
+    "text": "Line 6",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 35.421875,
+    "y": -8.5,
+    "text": "Line 5",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 36.2109375,
+    "y": -8.5,
+    "text": "Line 4",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 35.9453125,
+    "y": -8.5,
+    "text": "Line 3",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 35.8984375,
+    "y": -8.5,
+    "text": "Line 2",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 33.4375,
+    "y": -8.5,
+    "text": "Line 1",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 542.6015625,
+    "y": -24,
+    "text": "Seoul Metropolitan Subway Map",
+    "class": "T st49 st55"
+  },
+  {
+    "type": "text",
+    "x": 70.90692901611328,
+    "y": -5.500052452087402,
+    "text": "Gyeonggi Gwangju",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 47.46139144897461,
+    "y": -5.500052452087402,
+    "text": "Byeongjeom",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 21.250202178955078,
+    "y": -5.500052452087402,
+    "text": "Seryu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 29.70340919494629,
+    "y": -5.500052452087402,
+    "text": "Hwaseo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 78.24293518066406,
+    "y": -5.500052452087402,
+    "text": "Sungkyunkwan Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 20.500194549560547,
+    "y": -5.500052452087402,
+    "text": "Sema",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 45.219181060791016,
+    "y": -5.500052452087402,
+    "text": "Seodongtan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.328433990478516,
+    "y": -5.500052452087402,
+    "text": "Dongtan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 48.883277893066406,
+    "y": -5.500052452087402,
+    "text": "Osan College",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 18.953306198120117,
+    "y": -5.500052452087402,
+    "text": "Osan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 19.25018310546875,
+    "y": -5.500052452087402,
+    "text": "Jinwi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.015920639038086,
+    "y": -5.500052452087402,
+    "text": "Songtan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 43.39884948730469,
+    "y": -5.500052452087402,
+    "text": "Seojeong-ri",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 56.64897918701172,
+    "y": -5.500052452087402,
+    "text": "PyeongtaekJije",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 44.266048431396484,
+    "y": -5.500052452087402,
+    "text": "Pyeongtaek",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 43.51604080200195,
+    "y": -5.500052452087402,
+    "text": "Seonghwan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 22.937719345092773,
+    "y": -5.500052452087402,
+    "text": "Jiksan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.33623695373535,
+    "y": -5.500052452087402,
+    "text": "Dujeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.14094161987305,
+    "y": -5.500052452087402,
+    "text": "Cheonan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 49.68016052246094,
+    "y": -5.500052452087402,
+    "text": "Bongmyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.39882278442383,
+    "y": -5.500052452087402,
+    "text": "Ssangyong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 18.242361068725586,
+    "y": -5.500052452087402,
+    "text": "Asan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.539371490478516,
+    "y": -5.500052452087402,
+    "text": "Baebang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 39.15662384033203,
+    "y": -5.500052452087402,
+    "text": "Tangjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 61.547462463378906,
+    "y": -5.500052452087402,
+    "text": "Onyangoncheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.89094924926758,
+    "y": -5.500052452087402,
+    "text": "Sinchang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 25.476804733276367,
+    "y": -5.500052452087402,
+    "text": "Suwon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.273696899414062,
+    "y": -5.500052452087402,
+    "text": "Gosaek",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 45.47699737548828,
+    "y": -5.500052452087402,
+    "text": "Omokcheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.74250030517578,
+    "y": -5.500052452087402,
+    "text": "Eocheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 25.578369140625,
+    "y": -5.500052452087402,
+    "text": "Yamok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 13.93763256072998,
+    "y": -5.500052452087402,
+    "text": "Sari",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 29.594032287597656,
+    "y": -5.500052452087402,
+    "text": "Maegyo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 59.20368957519531,
+    "y": -5.500052452087402,
+    "text": "Suwon City Hall",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 70.62567138671875,
+    "y": -5.500052452087402,
+    "text": "Maetan-gwonseon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.484664916992188,
+    "y": -5.500052452087402,
+    "text": "Mangpo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 41.09414291381836,
+    "y": -5.500052452087402,
+    "text": "Yeongtong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 58.85993576049805,
+    "y": -5.500052452087402,
+    "text": "Cheongmyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 29.086214065551758,
+    "y": -5.500052452087402,
+    "text": "Sanggal",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.49830627441406,
+    "y": 5.299947738647461,
+    "text": "Kangnam\n\t\t\t\tUniv.",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 23.172096252441406,
+    "y": -5.500052452087402,
+    "text": "Jiseok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.469039916992188,
+    "y": -5.500052452087402,
+    "text": "Eojeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.19561004638672,
+    "y": -5.500052452087402,
+    "text": "Giheung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.969112396240234,
+    "y": -5.500052452087402,
+    "text": "Dongbaek",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.27375411987305,
+    "y": -5.500052452087402,
+    "text": "Chodang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 24.80492401123047,
+    "y": -5.500052452087402,
+    "text": "Samga",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 81.68827819824219,
+    "y": -5.500052452087402,
+    "text": "City Hall·Yongin Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 51.93018341064453,
+    "y": -5.500052452087402,
+    "text": "Myongji Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 54.00832748413086,
+    "y": -5.500052452087402,
+    "text": "Gimnyangjang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.992549896240234,
+    "y": -5.500052452087402,
+    "text": "Bopyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 66.91470336914062,
+    "y": -5.500052452087402,
+    "text": "Jeondae·Everland",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 19.406435012817383,
+    "y": -5.500052452087402,
+    "text": "Gojin",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 62.32872009277344,
+    "y": 5.299947738647461,
+    "text": "Yongin Jungang \n\t\t\t\tMarket",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 31.601863861083984,
+    "y": -5.500052452087402,
+    "text": "Dunjeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 22.242399215698242,
+    "y": -5.500052452087402,
+    "text": "Singal",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.87531280517578,
+    "y": -5.500052452087402,
+    "text": "Guseong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.89884567260742,
+    "y": -5.500052452087402,
+    "text": "Geumjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 60.39120101928711,
+    "y": 5.299947738647461,
+    "text": "Geumcheon-gu\n\t\t\t\tOffice",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 18.38298797607422,
+    "y": -5.500052452087402,
+    "text": "Guro",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.48469543457031,
+    "y": -5.500052452087402,
+    "text": "Sindorim",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 19.476747512817383,
+    "y": -5.500052452087402,
+    "text": "Onsu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 51.78718566894531,
+    "y": 5.299947738647461,
+    "text": "Gasan Digital\n\t\t\t\tComplex",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 16.288029670715332,
+    "y": 5.299947738647461,
+    "text": "Seoul\n\t\t\t\tStation",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 43.28947448730469,
+    "y": -5.500052452087402,
+    "text": "Yeonsinnae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 55.047401428222656,
+    "y": -5.500052452087402,
+    "text": "Chungjeongno",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.953392028808594,
+    "y": -5.500052452087402,
+    "text": "Uiwang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 24.9924259185791,
+    "y": -5.500052452087402,
+    "text": "Gunpo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 43.53947830200195,
+    "y": -5.500052452087402,
+    "text": "Myeonghak",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.219018936157227,
+    "y": -5.500052452087402,
+    "text": "Anyang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 29.72684669494629,
+    "y": -5.500052452087402,
+    "text": "Gwanak",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 26.640878677368164,
+    "y": -5.500052452087402,
+    "text": "Seoksu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 14.547013282775879,
+    "y": -5.500052452087402,
+    "text": "Guil",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.09407424926758,
+    "y": -5.500052452087402,
+    "text": "Cheolsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 82.89923095703125,
+    "y": -5.500052452087402,
+    "text": "Gwangmyeongsageori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.51594543457031,
+    "y": -5.500052452087402,
+    "text": "Gaebong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 41.33633041381836,
+    "y": -5.500052452087402,
+    "text": "Oryu-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 44.10979461669922,
+    "y": -5.500052452087402,
+    "text": "Cheonwang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.07843017578125,
+    "y": -5.500052452087402,
+    "text": "Yeokgok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 17.320478439331055,
+    "y": -5.500052452087402,
+    "text": "Sosa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.03156661987305,
+    "y": -5.500052452087402,
+    "text": "Bucheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.703514099121094,
+    "y": -5.500052452087402,
+    "text": "Jung-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.281558990478516,
+    "y": -5.500052452087402,
+    "text": "Songnae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 23.33616065979004,
+    "y": -5.500052452087402,
+    "text": "Bugae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.523710250854492,
+    "y": -5.500052452087402,
+    "text": "Dongsu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 56.15678405761719,
+    "y": -5.500052452087402,
+    "text": "Ganseogogeori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 72.203125,
+    "y": -5.5,
+    "text": "Bupyeongsamgeori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.156518936157227,
+    "y": -5.500052452087402,
+    "text": "Baegun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.49248695373535,
+    "y": -5.500052452087402,
+    "text": "Dongam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.258121490478516,
+    "y": 5.299947738647461,
+    "text": "Incheon\n\t\t\t\tCity Hall",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 40.06288146972656,
+    "y": 5.299947738647461,
+    "text": "Bupyeong\n\t\t\t\tMarket",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 24.78148651123047,
+    "y": -5.500052452087402,
+    "text": "Galsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.42995834350586,
+    "y": -5.500052452087402,
+    "text": "Jakjeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 22.922094345092773,
+    "y": -5.500052452087402,
+    "text": "Imhak",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.328386306762695,
+    "y": -5.500052452087402,
+    "text": "Gyesan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.312808990478516,
+    "y": -5.500052452087402,
+    "text": "Bakchon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.12538146972656,
+    "y": -5.500052452087402,
+    "text": "Gyulhyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 43.052425384521484,
+    "y": 5.299947738647461,
+    "text": "Gyeongin Nat'l\n\t\t\t\tUniv. of Education",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 43.09416198730469,
+    "y": 5.299947738647461,
+    "text": "Curture & \n\t\t\t\tArts Center",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 49.01609420776367,
+    "y": 5.299947738647461,
+    "text": "Incheon\n\t\t\t\tBus Terminal",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 59.47713088989258,
+    "y": 5.299947738647461,
+    "text": "Munhak\n\t\t\t\tSports Complex",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 32.02374267578125,
+    "y": -5.500052452087402,
+    "text": "Seonhak",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.3597412109375,
+    "y": -5.500052452087402,
+    "text": "Sinyeonsu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.4847412109375,
+    "y": -5.500052452087402,
+    "text": "Dongchun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.79721450805664,
+    "y": -5.500052452087402,
+    "text": "Dongmak",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 53.438011169433594,
+    "y": -5.500052452087402,
+    "text": "Campus Town",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 44.445735931396484,
+    "y": -5.500052452087402,
+    "text": "Technopark",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.85969924926758,
+    "y": -5.500052452087402,
+    "text": "BIT Zone",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 71.32880401611328,
+    "y": -5.500052452087402,
+    "text": "Incheon Nat'l Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 45.79730987548828,
+    "y": -5.500052452087402,
+    "text": "Central Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 78.70387268066406,
+    "y": -5.500052452087402,
+    "text": "Int'l Business District",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 118.88394927978516,
+    "y": -5.500052452087402,
+    "text": "Songdo Moonlight Festival Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 26.828380584716797,
+    "y": -5.500052452087402,
+    "text": "Dowon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 49.8832893371582,
+    "y": -5.500052452087402,
+    "text": "Dongincheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.148725509643555,
+    "y": -5.500052452087402,
+    "text": "Incheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 17.632980346679688,
+    "y": -5.500052452087402,
+    "text": "Juan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 26.1330623626709,
+    "y": -5.500052452087402,
+    "text": "Dohwa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.03155517578125,
+    "y": -5.500052452087402,
+    "text": "Jemulpo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.75026512145996,
+    "y": -5.500052452087402,
+    "text": "Doksan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 55.96147155761719,
+    "y": -5.500052452087402,
+    "text": "Gwangmyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.95345687866211,
+    "y": -5.500052452087402,
+    "text": "Woninjae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.953487396240234,
+    "y": -5.500052452087402,
+    "text": "Bupyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 54.76490020751953,
+    "y": 5.299947738647461,
+    "text": "Bupyeong-gu\n\t\t\t\tOffice",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 32.484683990478516,
+    "y": -5.500052452087402,
+    "text": "Gyeyang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 12.703246116638184,
+    "y": -5.500052452087402,
+    "text": "Ara",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 76.24291229248047,
+    "y": -5.500052452087402,
+    "text": "Singeomdanjungang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 75.03977966308594,
+    "y": -5.500052452087402,
+    "text": "Geomdan Lake Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.68782043457031,
+    "y": -5.500052452087402,
+    "text": "Geomam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 71.24286651611328,
+    "y": -5.500052452087402,
+    "text": "Cheongna Int'l City",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.50819778442383,
+    "y": -5.500052452087402,
+    "text": "Yeongjong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 23.734601974487305,
+    "y": -5.500052452087402,
+    "text": "Unseo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 4.5995330810546875,
+    "y": 5.299947738647461,
+    "text": "Incheon Int'l\n\t\t\t\tAirport Cargo Terminal",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 25.142349243164062,
+    "y": 5.299947738647461,
+    "text": "Incheon Int'l \n\t\t\t\tAirport Terminal 1",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 25.142349243164062,
+    "y": 5.299947738647461,
+    "text": "Incheon Int'l \n\t\t\t\tAirport Terminal 2",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 34.375328063964844,
+    "y": -5.500052452087402,
+    "text": "Banghwa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 55.52396774291992,
+    "y": -5.500052452087402,
+    "text": "Airport Market",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 45.398868560791016,
+    "y": -5.500052452087402,
+    "text": "Sinbanghwa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 77.22730255126953,
+    "y": -5.500052452087402,
+    "text": "Yangchon Hyanggyo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.89870262145996,
+    "y": -5.500052452087402,
+    "text": "Gayang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.703428268432617,
+    "y": -5.500052452087402,
+    "text": "Jeungmi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.914405822753906,
+    "y": 5.299947738647461,
+    "text": "National\n\t\t\t\tAssembly",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 34.562828063964844,
+    "y": -5.500052452087402,
+    "text": "Saetgang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 36.91441345214844,
+    "y": -5.500052452087402,
+    "text": "Heukseok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 47.039512634277344,
+    "y": -5.500052452087402,
+    "text": "Magongnaru",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.03944396972656,
+    "y": -5.500052452087402,
+    "text": "Songjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 29.922161102294922,
+    "y": -5.500052452087402,
+    "text": "Gaehwa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 25.0158634185791,
+    "y": -5.500052452087402,
+    "text": "Magok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.98478317260742,
+    "y": -5.500052452087402,
+    "text": "Deungchon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 44.01604461669922,
+    "y": -5.500052452087402,
+    "text": "Yeomchang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 46.67232131958008,
+    "y": -5.500052452087402,
+    "text": "Sinmokdong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.46910858154297,
+    "y": -5.500052452087402,
+    "text": "Seonyudo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.00806999206543,
+    "y": -5.500052452087402,
+    "text": "Nodeul",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.078460693359375,
+    "y": -5.500052452087402,
+    "text": "Sinbanpo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 21.38301658630371,
+    "y": -5.500052452087402,
+    "text": "Eonju",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 24.359607696533203,
+    "y": -5.500052452087402,
+    "text": "Balsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.336265563964844,
+    "y": -5.500052452087402,
+    "text": "Ujangsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.281538009643555,
+    "y": -5.500052452087402,
+    "text": "Hwagok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.42223358154297,
+    "y": -5.500052452087402,
+    "text": "Kkachisan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.11749267578125,
+    "y": -5.500052452087402,
+    "text": "Sinjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.883182525634766,
+    "y": -5.500052452087402,
+    "text": "Mok-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.992530822753906,
+    "y": -5.500052452087402,
+    "text": "Omokgyo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 46.53169250488281,
+    "y": -5.500052452087402,
+    "text": "Yangpyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.265933990478516,
+    "y": -5.500052452087402,
+    "text": "Dangsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.875343322753906,
+    "y": -5.500052452087402,
+    "text": "Hapjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 60.43807601928711,
+    "y": -5.500052452087402,
+    "text": "Sinjeongnegeori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 58.814903259277344,
+    "y": 5.299947738647461,
+    "text": "Yangcheon-gu\n\t\t\t\tOffice",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 46.02387619018555,
+    "y": -5.500052452087402,
+    "text": "Dorimcheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 24.75804901123047,
+    "y": -5.500052452087402,
+    "text": "Mullae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.69564437866211,
+    "y": -5.500052452087402,
+    "text": "Namguro",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 46.77388381958008,
+    "y": 5.299947738647461,
+    "text": "Guro Digital\n\t\t\t\tComplex",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 43.57072830200195,
+    "y": -5.500052452087402,
+    "text": "Sindaebang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 19.92987823486328,
+    "y": -5.500052452087402,
+    "text": "Sillim",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.445716857910156,
+    "y": -5.500052452087402,
+    "text": "Bongcheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 50.59423065185547,
+    "y": -5.500052452087402,
+    "text": "Nakseongdae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.523841857910156,
+    "y": -5.500052452087402,
+    "text": "Gwanaksan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.008098602294922,
+    "y": -5.500052452087402,
+    "text": "Seowon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 64.1959228515625,
+    "y": 5.299947738647461,
+    "text": "Seoul Nat'l Univ. \n\t\t\t\tVenture Town",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 33.21125411987305,
+    "y": -5.500052452087402,
+    "text": "Danggok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.304948806762695,
+    "y": -5.500052452087402,
+    "text": "Sadang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.22686004638672,
+    "y": -5.500052452087402,
+    "text": "Dongjak",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 39.86756896972656,
+    "y": -5.500052452087402,
+    "text": "Namseong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.25812911987305,
+    "y": -5.500052452087402,
+    "text": "Naebang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.508075714111328,
+    "y": -5.500052452087402,
+    "text": "Seocho",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 45.383243560791016,
+    "y": 5.299947738647461,
+    "text": "Nambu Bus\n\t\t\t\tTerminal",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 32.539371490478516,
+    "y": -5.500052452087402,
+    "text": "Bangbae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.85964012145996,
+    "y": -5.500052452087402,
+    "text": "Sangdo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.44563293457031,
+    "y": 5.299947738647461,
+    "text": "Soongsil\n\t\t\t\tUniv.",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 10.836040496826172,
+    "y": -5.500052452087402,
+    "text": "Isu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 8.44281005859375,
+    "y": 5.30000114440918,
+    "text": "Express\n\t\t\t\tBus Terminal",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 3.0908470153808594,
+    "y": 5.299947738647461,
+    "text": "Seoul \n\t\t\t\tNat'l Univ.",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 33.30500411987305,
+    "y": -5.500052452087402,
+    "text": "Boramae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.445602416992188,
+    "y": -5.500052452087402,
+    "text": "Sinpung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 56.92241668701172,
+    "y": -5.500052452087402,
+    "text": "Yeongdeungpo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.11750411987305,
+    "y": -5.500052452087402,
+    "text": "Daebang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 26.96900749206543,
+    "y": -5.500052452087402,
+    "text": "Daerim",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 20.03925323486328,
+    "y": -5.500052452087402,
+    "text": "Singil",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 56.14115905761719,
+    "y": 5.299947738647461,
+    "text": "Sookmyung\n\t\t\t\tWomen's Univ.",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 44.0234375,
+    "y": -5.5,
+    "text": "Chungmuro",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 29.922161102294922,
+    "y": -5.500052452087402,
+    "text": "Sindang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.76603317260742,
+    "y": -5.500052452087402,
+    "text": "Hangangjin",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.398727416992188,
+    "y": -5.500052452087402,
+    "text": "Itaewon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 50.984859466552734,
+    "y": -5.500052452087402,
+    "text": "Noksapyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.36748695373535,
+    "y": -5.500052452087402,
+    "text": "Hannam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 39.6019401550293,
+    "y": -5.500052452087402,
+    "text": "Seobinggo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.812803268432617,
+    "y": -5.500052452087402,
+    "text": "Geumho",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.64884567260742,
+    "y": -5.500052452087402,
+    "text": "Haengdang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 20.828323364257812,
+    "y": -5.500052452087402,
+    "text": "Ichon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 22.04708480834961,
+    "y": -5.500052452087402,
+    "text": "Yaksu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.18781661987305,
+    "y": -5.500052452087402,
+    "text": "Samgakji",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 41.38320541381836,
+    "y": -5.500052452087402,
+    "text": "Noryangjin",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.820606231689453,
+    "y": -5.500052452087402,
+    "text": "Yeouido",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 18.953306198120117,
+    "y": -5.500052452087402,
+    "text": "Oksu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.914451599121094,
+    "y": -5.500052452087402,
+    "text": "Wangsimni",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.3753662109375,
+    "y": -5.500052452087402,
+    "text": "Gongdeok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.38319778442383,
+    "y": -5.500052452087402,
+    "text": "Apgujeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.35967445373535,
+    "y": -5.500052452087402,
+    "text": "Jamwon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 19.382997512817383,
+    "y": -5.500052452087402,
+    "text": "Sinsa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 59.48494338989258,
+    "y": 5.299947738647461,
+    "text": "Sinchon\n\t\t\t\t(Gyeongui Line)",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 48.094207763671875,
+    "y": -5.500052452087402,
+    "text": "Hongik Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 23.883039474487305,
+    "y": -5.500052452087402,
+    "text": "Anguk",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 50.922359466552734,
+    "y": -5.500052452087402,
+    "text": "Dongnimmun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 61.22714614868164,
+    "y": -5.500052452087402,
+    "text": "Gyeongbokgung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.17217254638672,
+    "y": -5.500052452087402,
+    "text": "Mukajae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.336198806762695,
+    "y": -5.500052452087402,
+    "text": "Hongje",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.12532424926758,
+    "y": -5.500052452087402,
+    "text": "Nokbeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.1019172668457,
+    "y": -5.500052452087402,
+    "text": "Yeokchon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.64875030517578,
+    "y": -5.500052452087402,
+    "text": "Dokbawi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 23.265846252441406,
+    "y": -5.500052452087402,
+    "text": "Gusan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.422164916992188,
+    "y": -5.500052452087402,
+    "text": "Eungam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 26.664316177368164,
+    "y": -5.500052452087402,
+    "text": "Saejeol",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.234710693359375,
+    "y": -5.500052452087402,
+    "text": "Jeungsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 39.86756896972656,
+    "y": 5.299947738647461,
+    "text": "Digital\n\t\t\t\tMedia City",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 26.078372955322266,
+    "y": -5.500052452087402,
+    "text": "Susaek",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 22.640840530395508,
+    "y": -5.500052452087402,
+    "text": "Gajwa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 29.617469787597656,
+    "y": 5.299947738647461,
+    "text": "Sogang\n\t\t\t\tUniv.",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 85.12580871582031,
+    "y": -5.500052452087402,
+    "text": "Korea Aerospace Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.72689437866211,
+    "y": -5.500052452087402,
+    "text": "Haengsin",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.281585693359375,
+    "y": -5.500052452087402,
+    "text": "Gangmae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.3753662109375,
+    "y": -5.500052452087402,
+    "text": "Neunggok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.601825714111328,
+    "y": -5.500052452087402,
+    "text": "Goksan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.85970687866211,
+    "y": -5.500052452087402,
+    "text": "Baengma",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.92218017578125,
+    "y": -5.500052452087402,
+    "text": "Pungsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 17.172039031982422,
+    "y": -5.500052452087402,
+    "text": "Ilsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 36.32847213745117,
+    "y": 5.299947738647461,
+    "text": "Mapo-gu\n\t\t\t\tOffice",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 41.805084228515625,
+    "y": 5.299947738647461,
+    "text": "World Cup\n\t\t\t\tStadium",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 37.0472297668457,
+    "y": -5.500052452087402,
+    "text": "Mangwon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.804981231689453,
+    "y": -5.500052452087402,
+    "text": "Gupabal",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 23.781476974487305,
+    "y": -5.500052452087402,
+    "text": "Jichuk",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.91438674926758,
+    "y": -5.500052452087402,
+    "text": "Samsong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.758201599121094,
+    "y": -5.500052452087402,
+    "text": "Wonheung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.070598602294922,
+    "y": -5.500052452087402,
+    "text": "Daehwa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.109634399414062,
+    "y": -5.500052452087402,
+    "text": "Juyeop",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 36.56284713745117,
+    "y": -5.500052452087402,
+    "text": "Tanhyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.41436195373535,
+    "y": -5.500052452087402,
+    "text": "Unjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.77370262145996,
+    "y": -5.500052452087402,
+    "text": "Yadang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 45.64105987548828,
+    "y": -5.500052452087402,
+    "text": "Geumneung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.680076599121094,
+    "y": -5.500052452087402,
+    "text": "Geumchon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.742481231689453,
+    "y": -5.500052452087402,
+    "text": "Wollong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 15.937651634216309,
+    "y": -5.500052452087402,
+    "text": "Paju",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 29.554969787597656,
+    "y": -5.500052452087402,
+    "text": "Munsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.68782043457031,
+    "y": -5.500052452087402,
+    "text": "Uncheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.711231231689453,
+    "y": -5.500052452087402,
+    "text": "Dorasan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 36.63316345214844,
+    "y": -5.500052452087402,
+    "text": "Imjingang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 21.078325271606445,
+    "y": -5.500052452087402,
+    "text": "Madu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.64877700805664,
+    "y": -5.500052452087402,
+    "text": "Baekseok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.250268936157227,
+    "y": -5.500052452087402,
+    "text": "Daegok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.820655822753906,
+    "y": -5.500052452087402,
+    "text": "Wondang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.039329528808594,
+    "y": -5.500052452087402,
+    "text": "Aeogae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.023723602294922,
+    "y": -5.500052452087402,
+    "text": "Yangjae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.80501174926758,
+    "y": -5.500052452087402,
+    "text": "Yeoksam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.98470687866211,
+    "y": -5.500052452087402,
+    "text": "Maebong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.1722297668457,
+    "y": -5.500052452087402,
+    "text": "Hak-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 68.82878112792969,
+    "y": -5.500052452087402,
+    "text": "Samseongjungang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 41.516021728515625,
+    "y": -5.500052452087402,
+    "text": "Bongeunsa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.898807525634766,
+    "y": -5.500052452087402,
+    "text": "Nonhyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 73.62570190429688,
+    "y": -5.500052452087402,
+    "text": "Gangnam-gu Office",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 62.50059509277344,
+    "y": -5.500052452087402,
+    "text": "Apgujeongrodeo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 45.00042724609375,
+    "y": -5.500052452087402,
+    "text": "Cheongdam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 59.47713088989258,
+    "y": -5.500052452087402,
+    "text": "Sports Complex",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 49.04734420776367,
+    "y": -5.500052452087402,
+    "text": "Jamsilsaenae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 47.109825134277344,
+    "y": -5.500052452087402,
+    "text": "Gaepo-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.08624267578125,
+    "y": -5.500052452087402,
+    "text": "Guryong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 39.4222526550293,
+    "y": -5.500052452087402,
+    "text": "Daemosan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 25.508056640625,
+    "y": -5.500052452087402,
+    "text": "Daechi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 20.273630142211914,
+    "y": -5.500052452087402,
+    "text": "Hanti",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 36.56284713745117,
+    "y": -5.500052452087402,
+    "text": "Seolleung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 44.89886474609375,
+    "y": -5.500052452087402,
+    "text": "Hangnyeoul",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 21.711145401000977,
+    "y": -5.500052452087402,
+    "text": "Irwon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 22.336151123046875,
+    "y": -5.500052452087402,
+    "text": "Suseo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 50.37548065185547,
+    "y": -5.500052452087402,
+    "text": "Garak Market",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.1722297668457,
+    "y": -5.500052452087402,
+    "text": "Jamsillaru",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.85964012145996,
+    "y": -5.500052452087402,
+    "text": "Songpa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.17218017578125,
+    "y": -5.500052452087402,
+    "text": "Samjeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 39.889610290527344,
+    "y": 5.299947738647461,
+    "text": "Hanseong \n\t\t\t\tBaekje",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 74.81321716308594,
+    "y": -5.500052452087402,
+    "text": "VHS Medical Center",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 39.00037384033203,
+    "y": 5.299947738647461,
+    "text": "Seokchon \n\t\t\t\tGobun",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 44.80511474609375,
+    "y": -5.500052452087402,
+    "text": "Songpanaru",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 36.63316345214844,
+    "y": -5.500052452087402,
+    "text": "Seokchon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 24.047103881835938,
+    "y": -5.500052452087402,
+    "text": "Banpo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.13321304321289,
+    "y": -5.500052452087402,
+    "text": "Daecheong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 26.656503677368164,
+    "y": -5.500052452087402,
+    "text": "Sangsu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 71.68037414550781,
+    "y": -5.500052452087402,
+    "text": "Gwangheungchang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.055049896240234,
+    "y": -5.500052452087402,
+    "text": "Daeheung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.062862396240234,
+    "y": -5.500052452087402,
+    "text": "Yeouinaru",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 21.117389678955078,
+    "y": -5.500052452087402,
+    "text": "Mapo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 56.53960037231445,
+    "y": -5.500052452087402,
+    "text": "Hyochang Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.1796875,
+    "y": -5.5,
+    "text": "Jonggak",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 55.297401428222656,
+    "y": -5.500052452087402,
+    "text": "Dongguk Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 51.6015625,
+    "y": -5.5,
+    "text": "Euljiro 1(il)-ga",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 68.27408599853516,
+    "y": -5.500052452087402,
+    "text": "Jongno 3(sam)-ga",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 36.39097213745117,
+    "y": -5.500052452087402,
+    "text": "Dongmyo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.328414916992188,
+    "y": -5.500052452087402,
+    "text": "Hyehwa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 54.516143798828125,
+    "y": -5.500052452087402,
+    "text": "Hansung Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 56.14115905761719,
+    "y": 5.299947738647461,
+    "text": "Sungshin\n\t\t\t\tWomen's Univ.",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 27.336198806762695,
+    "y": -5.500052452087402,
+    "text": "Gireum",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.39101028442383,
+    "y": -5.500052452087402,
+    "text": "Miasageori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.851837158203125,
+    "y": -5.500052452087402,
+    "text": "Yongdu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.16438674926758,
+    "y": -5.500052452087402,
+    "text": "Changsin",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 26.890880584716797,
+    "y": -5.500052452087402,
+    "text": "Bomun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 26.1330623626709,
+    "y": -5.500052452087402,
+    "text": "Dolgoji",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 45.297306060791016,
+    "y": -5.500052452087402,
+    "text": "Sangwolgok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.179956436157227,
+    "y": -5.500052452087402,
+    "text": "Wolgok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 43.47697830200195,
+    "y": -5.500052452087402,
+    "text": "Korea Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.851924896240234,
+    "y": -5.500052452087402,
+    "text": "Jegi-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.23469161987305,
+    "y": -5.500052452087402,
+    "text": "Yongdap",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.07056999206543,
+    "y": -5.500052452087402,
+    "text": "Majang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 25.453367233276367,
+    "y": -5.500052452087402,
+    "text": "Sindap",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.85970687866211,
+    "y": -5.500052452087402,
+    "text": "Dapsimni",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 59.14118957519531,
+    "y": -5.500052452087402,
+    "text": "Janghanpyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.35967445373535,
+    "y": -5.500052452087402,
+    "text": "Achasan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.68009567260742,
+    "y": -5.500052452087402,
+    "text": "Gwangnaru",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.68009567260742,
+    "y": -5.500052452087402,
+    "text": "Gangbyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 17.273601531982422,
+    "y": -5.500052452087402,
+    "text": "Guui",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 36.214431285858154,
+    "y": 5.299947738647461,
+    "text": "Children's\n\t\t\t\tGrand Park",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 25.922122955322266,
+    "y": -5.500052452087402,
+    "text": "Jayang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 49.8129768371582,
+    "y": -5.500052452087402,
+    "text": "Konkuk Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.711240768432617,
+    "y": -5.500052452087402,
+    "text": "Seongsu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 21.734582901000977,
+    "y": -5.500052452087402,
+    "text": "Anam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 62.18809127807617,
+    "y": 5.299947738647461,
+    "text": "Hankuk Univ. of\n\t\t\t\tForeign Studies",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 30.258100509643555,
+    "y": -5.500052452087402,
+    "text": "Sinimun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 36.38315963745117,
+    "y": -5.500052452087402,
+    "text": "Jungnang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.42219543457031,
+    "y": -5.500052452087402,
+    "text": "Junghwa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.98468017578125,
+    "y": -5.500052452087402,
+    "text": "Meokgol",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 46.94575881958008,
+    "y": -5.500052452087402,
+    "text": "Hwarangdae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 47.73482894897461,
+    "y": -5.500052452087402,
+    "text": "Bonghwasan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 43.33634948730469,
+    "y": -5.500052452087402,
+    "text": "Gongneung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 67.64127349853516,
+    "y": -5.500052452087402,
+    "text": "Kwangwoon Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.906517028808594,
+    "y": -5.500052452087402,
+    "text": "Wolgye",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 23.601787567138672,
+    "y": -5.500052452087402,
+    "text": "Hagye",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.41436195373535,
+    "y": -5.500052452087402,
+    "text": "Junggye",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.086299896240234,
+    "y": -5.500052452087402,
+    "text": "Nokcheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 13.453253746032715,
+    "y": -5.500052452087402,
+    "text": "Mia",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 18.40642547607422,
+    "y": -5.500052452087402,
+    "text": "Suyu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.703495025634766,
+    "y": -5.500052452087402,
+    "text": "Ssangmun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.28154754638672,
+    "y": -5.500052452087402,
+    "text": "Soyosan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 52.68800354003906,
+    "y": -5.500052452087402,
+    "text": "Dongducheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 22.87521743774414,
+    "y": -5.500052452087402,
+    "text": "Bosan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.11758804321289,
+    "y": -5.500052452087402,
+    "text": "Yeoncheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.578426361083984,
+    "y": -5.500052452087402,
+    "text": "Jeongok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 41.430084228515625,
+    "y": -5.500052452087402,
+    "text": "Cheongsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 82.48516082763672,
+    "y": -5.500052452087402,
+    "text": "Dongducheonjungang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.781524658203125,
+    "y": -5.500052452087402,
+    "text": "Jihaeng",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.16444396972656,
+    "y": -5.500052452087402,
+    "text": "Deokjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.65656280517578,
+    "y": -5.500052452087402,
+    "text": "Deokgye",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 26.047122955322266,
+    "y": -5.500052452087402,
+    "text": "Yangju",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.30500411987305,
+    "y": -5.500052452087402,
+    "text": "Nogyang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.39875411987305,
+    "y": -5.500052452087402,
+    "text": "Ganeung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.3050537109375,
+    "y": -5.500052452087402,
+    "text": "Uijeongbu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 36.93785095214844,
+    "y": -5.500052452087402,
+    "text": "Hoeryong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.992530822753906,
+    "y": -5.500052452087402,
+    "text": "Yongmun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.75032043457031,
+    "y": -5.500052452087402,
+    "text": "Jipyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.125259399414062,
+    "y": -5.500052452087402,
+    "text": "Yangsu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.570575714111328,
+    "y": -5.500052452087402,
+    "text": "Sinwon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 23.265846252441406,
+    "y": -5.500052452087402,
+    "text": "Guksu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 16.039215087890625,
+    "y": -5.500052452087402,
+    "text": "Asin",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 17.922046661376953,
+    "y": -5.500052452087402,
+    "text": "Obin",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 46.53169250488281,
+    "y": -5.500052452087402,
+    "text": "Yangpyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.805030822753906,
+    "y": -5.500052452087402,
+    "text": "Wondeok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.13311767578125,
+    "y": -5.500052452087402,
+    "text": "Ungilsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 29.687782287597656,
+    "y": -5.500052452087402,
+    "text": "Paldang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 23.648662567138672,
+    "y": -5.500052452087402,
+    "text": "Dosim",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.984642028808594,
+    "y": -5.500052452087402,
+    "text": "Deokso",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 39.95350646972656,
+    "y": -5.500052452087402,
+    "text": "Yangjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 29.648719787597656,
+    "y": -5.500052452087402,
+    "text": "Donong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 15.61733627319336,
+    "y": -5.500052452087402,
+    "text": "Guri",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.88314437866211,
+    "y": -5.500052452087402,
+    "text": "Yangwon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 25.547119140625,
+    "y": -5.500052452087402,
+    "text": "Mangu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.2347297668457,
+    "y": -5.500052452087402,
+    "text": "Sangbong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 41.94571304321289,
+    "y": -5.500052452087402,
+    "text": "Myeonmok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.2503662109375,
+    "y": -5.500052452087402,
+    "text": "Sagajeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 24.9689884185791,
+    "y": -5.500052452087402,
+    "text": "Sinnae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 43.45354080200195,
+    "y": -5.500052452087402,
+    "text": "Yongmasan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.687801361083984,
+    "y": -5.500052452087402,
+    "text": "Junggok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 58.26618194580078,
+    "y": -5.500052452087402,
+    "text": "Cheongnyangni",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 21.90645980834961,
+    "y": -5.500052452087402,
+    "text": "Hoegi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.46910858154297,
+    "y": -5.500052452087402,
+    "text": "Munjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 22.03145980834961,
+    "y": -5.500052452087402,
+    "text": "Jangji",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 36.008155822753906,
+    "y": -5.500052452087402,
+    "text": "Sanseong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.000362396240234,
+    "y": -5.500052452087402,
+    "text": "Namwirye",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 66.5553207397461,
+    "y": -5.500052452087402,
+    "text": "Namhansanseong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 52.3754997253418,
+    "y": -5.500052452087402,
+    "text": "Dandaeogeori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.85970687866211,
+    "y": -5.500052452087402,
+    "text": "Sinheung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 18.211111068725586,
+    "y": -5.500052452087402,
+    "text": "Sujin",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 50.0004768371582,
+    "y": -5.500052452087402,
+    "text": "Gachon Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.867576599121094,
+    "y": -5.500052452087402,
+    "text": "Taepyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 21.547080993652344,
+    "y": -5.500052452087402,
+    "text": "Yatap",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 18.297048568725586,
+    "y": -5.500052452087402,
+    "text": "Imae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 22.86740493774414,
+    "y": -5.500052452087402,
+    "text": "Sunae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.1175422668457,
+    "y": -5.500052452087402,
+    "text": "Seohyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 29.375280380249023,
+    "y": -5.500052452087402,
+    "text": "Jeongja",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.242475509643555,
+    "y": -5.500052452087402,
+    "text": "Migeum",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 11.312607765197754,
+    "y": -5.500052452087402,
+    "text": "Ori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.797168731689453,
+    "y": -5.500052452087402,
+    "text": "Bojeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 29.031526565551758,
+    "y": -5.500052452087402,
+    "text": "Jukjeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 43.01603698730469,
+    "y": -5.500052452087402,
+    "text": "Dongcheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 51.414554595947266,
+    "y": -5.500052452087402,
+    "text": "Suji-gu Office",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.2191047668457,
+    "y": -5.500052452087402,
+    "text": "Seongbok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 41.437896728515625,
+    "y": -5.500052452087402,
+    "text": "Sanghyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 39.5081901550293,
+    "y": -5.500052452087402,
+    "text": "Gwanggyo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 73.43038940429688,
+    "y": -5.500052452087402,
+    "text": "Gwanggyo Jungang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 56.89897918701172,
+    "y": -5.500052452087402,
+    "text": "Dunchon-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 49.64891052246094,
+    "y": -5.500052452087402,
+    "text": "Olympic Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 20.937700271606445,
+    "y": -5.500052452087402,
+    "text": "Bangi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.195571899414062,
+    "y": -5.500052452087402,
+    "text": "Ogeum",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 38.3988037109375,
+    "y": -5.500052452087402,
+    "text": "Gangdong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.69563293457031,
+    "y": -5.500052452087402,
+    "text": "Cheonho",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 21.570518493652344,
+    "y": -5.500052452087402,
+    "text": "Gunja",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.726865768432617,
+    "y": -5.500052452087402,
+    "text": "Gaerong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.633085250854492,
+    "y": -5.500052452087402,
+    "text": "Geoyeo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.398765563964844,
+    "y": -5.500052452087402,
+    "text": "Macheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 23.008031845092773,
+    "y": -5.500052452087402,
+    "text": "Jamsil",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 24.304920196533203,
+    "y": -5.500052452087402,
+    "text": "Dogok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 24.047103881835938,
+    "y": -5.500052452087402,
+    "text": "Moran",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.094085693359375,
+    "y": -5.500052452087402,
+    "text": "Bokjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 55.47709274291992,
+    "y": -5.500052452087402,
+    "text": "Namtaeryeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 36.35190963745117,
+    "y": -5.500052452087402,
+    "text": "Seonbawi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 62.12559127807617,
+    "y": 5.299947738647461,
+    "text": "Seoul\n\t\t\t\tRacecource Park",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 64.58655548095703,
+    "y": -5.500052452087402,
+    "text": "Seoul Grand Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 84.32112121582031,
+    "y": 5.299947738647461,
+    "text": "Government Complex\n\t\t\t\tGwacheon",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 42.17227554321289,
+    "y": -5.500052452087402,
+    "text": "Indeogwon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 46.48481750488281,
+    "y": -5.500052452087402,
+    "text": "Pyeongchon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.180023193359375,
+    "y": -5.500052452087402,
+    "text": "Beomgye",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 39.35193634033203,
+    "y": -5.500052452087402,
+    "text": "Gwacheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.258071899414062,
+    "y": -5.500052452087402,
+    "text": "Surisan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.437808990478516,
+    "y": -5.500052452087402,
+    "text": "Daeyami",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.73464012145996,
+    "y": -5.500052452087402,
+    "text": "Banwol",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.133081436157227,
+    "y": -5.500052452087402,
+    "text": "Sanbon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.57851028442383,
+    "y": -5.500052452087402,
+    "text": "Sangnoksu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 56.70366287231445,
+    "y": 5.299947738647461,
+    "text": "Hanyang Univ.\n\t\t\t\tat Ansan",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 31.554988861083984,
+    "y": -5.500052452087402,
+    "text": "Jungang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 21.609580993652344,
+    "y": -5.500052452087402,
+    "text": "Gojan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 18.836116790771484,
+    "y": -5.500052452087402,
+    "text": "Choji",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 23.070531845092773,
+    "y": -5.500052452087402,
+    "text": "Ansan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 55.016151428222656,
+    "y": -5.500052452087402,
+    "text": "Singil oncheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.594154357910156,
+    "y": -5.500052452087402,
+    "text": "Jeongwang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 17.906421661376953,
+    "y": -5.500052452087402,
+    "text": "Oido",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.74250030517578,
+    "y": -5.500052452087402,
+    "text": "Gil-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 43.75822830200195,
+    "y": -5.500052452087402,
+    "text": "Gubeundari",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.258140563964844,
+    "y": -5.500052452087402,
+    "text": "Myeongil",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 29.000276565551758,
+    "y": -5.500052452087402,
+    "text": "Godeok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 45.203556060791016,
+    "y": -5.500052452087402,
+    "text": "Sangil-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 23.39866065979004,
+    "y": -5.500052452087402,
+    "text": "Gangil",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 17.187664031982422,
+    "y": -5.500052452087402,
+    "text": "Misa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 60.828704833984375,
+    "y": -5.500052452087402,
+    "text": "Hanam Pungsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 77.89917755126953,
+    "y": -5.500052452087402,
+    "text": "Hanam Geomdansan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 60.27401351928711,
+    "y": -5.500052452087402,
+    "text": "Hanam City Hall",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 43.72869110107422,
+    "y": 5.299947738647461,
+    "text": "Gimpo Int'l\n\t\t\t\tAirport",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 20.64863395690918,
+    "y": -5.500052452087402,
+    "text": "Amsa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 69.09440612792969,
+    "y": -5.500052452087402,
+    "text": "Amsa History Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 63.08654022216797,
+    "y": -5.500052452087402,
+    "text": "Jangja Lake Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 51.18798828125,
+    "y": -5.500052452087402,
+    "text": "Donggureung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 22.89865493774414,
+    "y": -5.500052452087402,
+    "text": "Dasan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 53.41456985473633,
+    "y": 5.299947738647461,
+    "text": "Gangdong-gu\n\t\t\t\tOffice",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 26.96900749206543,
+    "y": -5.500052452087402,
+    "text": "Nowon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.70345687866211,
+    "y": -5.500052452087402,
+    "text": "Taereung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.34404945373535,
+    "y": -5.500052452087402,
+    "text": "Seokgye",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 46.33638000488281,
+    "y": -5.500052452087402,
+    "text": "Chang-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.242591857910156,
+    "y": -5.500052452087402,
+    "text": "Mangwolsa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.19562911987305,
+    "y": -5.500052452087402,
+    "text": "Beomgol",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 55.164588928222656,
+    "y": -5.500052452087402,
+    "text": "LRT Uijeongbu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.242591857910156,
+    "y": -5.500052452087402,
+    "text": "Mangwolsa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.672264099121094,
+    "y": 5.299947738647461,
+    "text": "Uijeongbu \n\t\t\t\tJung-ang",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 28.515897750854492,
+    "y": -5.500052452087402,
+    "text": "Dong-o",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.67997932434082,
+    "y": -5.500052452087402,
+    "text": "Sae-mal",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 76.680419921875,
+    "y": 16.09994888305664,
+    "text": "Gyeonggi Provincial \n\t\t\t\tGovernment \n\t\t\t\tNorthern Office",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 21.43770408630371,
+    "y": -5.500052452087402,
+    "text": "Hyoja",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 21.859582901000977,
+    "y": -5.500052452087402,
+    "text": "Gonje",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.37529945373535,
+    "y": -5.500052452087402,
+    "text": "Eoryong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.515926361083984,
+    "y": -5.500052452087402,
+    "text": "Songsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.69560432434082,
+    "y": -5.500052452087402,
+    "text": "Tapseok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.531654357910156,
+    "y": -5.500052452087402,
+    "text": "Dobongsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.804962158203125,
+    "y": -5.500052452087402,
+    "text": "Jangam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 25.218990325927734,
+    "y": -5.500052452087402,
+    "text": "Balgok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.66438293457031,
+    "y": -5.500052452087402,
+    "text": "Suraksan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.617450714111328,
+    "y": -5.500052452087402,
+    "text": "Madeul",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 29.73465919494629,
+    "y": -5.500052452087402,
+    "text": "Dobong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 32.258121490478516,
+    "y": -5.500052452087402,
+    "text": "Banghak",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.3206672668457,
+    "y": -5.500052452087402,
+    "text": "Buramsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 75.60228729248047,
+    "y": -5.500052452087402,
+    "text": "Byeollaebyeolgaram",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 22.445526123046875,
+    "y": -5.500052452087402,
+    "text": "Onam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 26.90650749206543,
+    "y": -5.500052452087402,
+    "text": "Jinjeop",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.633113861083984,
+    "y": -5.500052452087402,
+    "text": "Sanggye",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 58.227115631103516,
+    "y": 5.299947738647461,
+    "text": "National Police\n\t\t\t\tHospital",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 40.797264099121094,
+    "y": -5.500052452087402,
+    "text": "Dangjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.531654357910156,
+    "y": -5.500052452087402,
+    "text": "Chuncheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.851924896240234,
+    "y": -5.500052452087402,
+    "text": "Gapyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 44.383235931396484,
+    "y": -5.500052452087402,
+    "text": "Gulbongsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 45.367618560791016,
+    "y": -5.500052452087402,
+    "text": "Baegyang-ri",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.812862396240234,
+    "y": -5.500052452087402,
+    "text": "Gangchon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 44.78167724609375,
+    "y": -5.500052452087402,
+    "text": "Gimyujeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 58.91462326049805,
+    "y": -5.500052452087402,
+    "text": "Namchuncheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 41.14883041381836,
+    "y": -5.500052452087402,
+    "text": "Sangcheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 80.27420043945312,
+    "y": -5.500052452087402,
+    "text": "PyeongnaeHopyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.742462158203125,
+    "y": -5.500052452087402,
+    "text": "Maseok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 48.34421157836914,
+    "y": -5.500052452087402,
+    "text": "Cheonmasan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 45.84418869018555,
+    "y": -5.500052452087402,
+    "text": "Daeseong-ri",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 56.53960037231445,
+    "y": -5.500052452087402,
+    "text": "Cheongpyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.844093322753906,
+    "y": -5.500052452087402,
+    "text": "Geumgok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 43.75822830200195,
+    "y": -5.500052452087402,
+    "text": "Toegyewon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.953392028808594,
+    "y": -5.500052452087402,
+    "text": "Galmae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.734678268432617,
+    "y": -5.500052452087402,
+    "text": "Byeollae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.53154182434082,
+    "y": -5.500052452087402,
+    "text": "Sareung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.42998695373535,
+    "y": -5.500052452087402,
+    "text": "Kkachiul",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 66.2584457397461,
+    "y": -5.500052452087402,
+    "text": "Bucheon Stadium",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 26.35181427001953,
+    "y": -5.500052452087402,
+    "text": "Chunui",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 55.172401428222656,
+    "y": -5.500052452087402,
+    "text": "Shinjung-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 66.7584457397461,
+    "y": -5.500052452087402,
+    "text": "Bucheon City Hall",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.922264099121094,
+    "y": -5.500052452087402,
+    "text": "Sang-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 75.25852966308594,
+    "y": -5.500052452087402,
+    "text": "Samsan Gymnasium",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 45.203556060791016,
+    "y": -5.500052452087402,
+    "text": "Gulpocheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.258071899414062,
+    "y": -5.500052452087402,
+    "text": "Sangok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 26.695566177368164,
+    "y": -5.500052452087402,
+    "text": "Darwol",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.02369499206543,
+    "y": -5.500052452087402,
+    "text": "Wolgot",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 40.12538146972656,
+    "y": -5.500052452087402,
+    "text": "Soraepogu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 71.40692901611328,
+    "y": -5.500052452087402,
+    "text": "Incheon Nonhyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 29.84403419494629,
+    "y": -5.500052452087402,
+    "text": "Hogupo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 76.02416229248047,
+    "y": -5.500052452087402,
+    "text": "Namdong Induspark",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.625263214111328,
+    "y": -5.500052452087402,
+    "text": "Yeonsu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.42214584350586,
+    "y": -5.500052452087402,
+    "text": "Songdo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.633075714111328,
+    "y": -5.500052452087402,
+    "text": "Pangyo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 54.89896011352539,
+    "y": -5.500052452087402,
+    "text": "Cheonggyesan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 57.60211181640625,
+    "y": 5.299947738647461,
+    "text": "Yangjae\n\t\t\t\tCitizen's Forest",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 37.78160858154297,
+    "y": -5.500052452087402,
+    "text": "Inha Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 21.109577178955078,
+    "y": -5.500052452087402,
+    "text": "Sinpo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 25.484617233276367,
+    "y": -5.500052452087402,
+    "text": "Sungui",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 74.3678970336914,
+    "y": -5.500052452087402,
+    "text": "Namdong-gu Office",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 74.0866470336914,
+    "y": -5.500052452087402,
+    "text": "Incheon Grand Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 71.23505401611328,
+    "y": -5.500052452087402,
+    "text": "Seokcheon Sageori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 66.1646957397461,
+    "y": -5.500052452087402,
+    "text": "Moraenae Market",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 24.73461151123047,
+    "y": -5.500052452087402,
+    "text": "Mansu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 29.15652847290039,
+    "y": -5.500052452087402,
+    "text": "Unyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 56.92241668701172,
+    "y": -5.500052452087402,
+    "text": "Geomdan Oryu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 66.2975082397461,
+    "y": -5.500052452087402,
+    "text": "Geomdan Sageori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.570575714111328,
+    "y": -5.500052452087402,
+    "text": "Majeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.2191047668457,
+    "y": -5.500052452087402,
+    "text": "Wanjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.67221450805664,
+    "y": -5.500052452087402,
+    "text": "Dokjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 39.91444396972656,
+    "y": -5.500052452087402,
+    "text": "Geombawi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 53.594261169433594,
+    "y": -5.500052452087402,
+    "text": "Asiad Stadium",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 51.85987091064453,
+    "y": -5.500052452087402,
+    "text": "Seo-gu Office",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.65654182434082,
+    "y": -5.500052452087402,
+    "text": "Gajeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 88.79772186279297,
+    "y": -5.500052452087402,
+    "text": "Gajeong Central Market",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 39.5003776550293,
+    "y": -5.500052452087402,
+    "text": "Seongnam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 67.74754619598389,
+    "y": 5.299947738647461,
+    "text": "Western Women's \n\t\t\t\tCommunity Center",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 55.148963928222656,
+    "y": -5.500052452087402,
+    "text": "Incheon Gajwa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 18.03756332397461,
+    "y": 5.299947738647461,
+    "text": "Juan Nat'l \n\t\t\t\tIndustrial Park",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 44.64105224609375,
+    "y": -5.500052452087402,
+    "text": "Citizen Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 64.70374298095703,
+    "y": -5.500052452087402,
+    "text": "Seokbawi Market",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 27.539325714111328,
+    "y": -5.500052452087402,
+    "text": "Gajaeul",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 29.77372169494629,
+    "y": -5.500052452087402,
+    "text": "Wanggil",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 35.086273193359375,
+    "y": -5.500052452087402,
+    "text": "Samdong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.148706436157227,
+    "y": -5.500052452087402,
+    "text": "Chowol",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.875293731689453,
+    "y": -5.500052452087402,
+    "text": "Gonjiam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 62.9224739074707,
+    "y": -5.500052452087402,
+    "text": "Sindundoyechon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 25.328367233276367,
+    "y": -5.500052452087402,
+    "text": "Icheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 21.234577178955078,
+    "y": -5.500052452087402,
+    "text": "Bubal",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 82.39141082763672,
+    "y": -5.500052452087402,
+    "text": "Sejongdaewangneung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 21.117389678955078,
+    "y": -5.500052452087402,
+    "text": "Yeoju",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 45.93012619018555,
+    "y": -5.500052452087402,
+    "text": "Jeongneung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 108.62603759765625,
+    "y": -5.500052452087402,
+    "text": "April 19th National Cemetery",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 51.31298828125,
+    "y": -5.500052452087402,
+    "text": "Bukhansan Ui",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 42.578529357910156,
+    "y": -5.500052452087402,
+    "text": "Solbat Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 19.89862632751465,
+    "y": -5.500052452087402,
+    "text": "Gaori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 30.008098602294922,
+    "y": -5.500052452087402,
+    "text": "Hwagye",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.96126174926758,
+    "y": -5.500052452087402,
+    "text": "Samyang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 60.899017333984375,
+    "y": -5.500052452087402,
+    "text": "Samyangsageori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.078420639038086,
+    "y": -5.500052452087402,
+    "text": "Solsaem",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 88.97740936279297,
+    "y": -5.500052452087402,
+    "text": "Bukhansan Bogungmun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 11.343857765197754,
+    "y": -5.500052452087402,
+    "text": "Siu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.32839584350586,
+    "y": -5.500052452087402,
+    "text": "Seonbu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 21.40645408630371,
+    "y": -5.500052452087402,
+    "text": "Dalmi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 70.77410888671875,
+    "y": -5.500052452087402,
+    "text": "Siheung Neunggok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 63.758419036865234,
+    "y": -5.500052452087402,
+    "text": "Siheung City Hall",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.68001937866211,
+    "y": -5.500052452087402,
+    "text": "Sinhyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 55.57865524291992,
+    "y": -5.500052452087402,
+    "text": "Siheung Daeya",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 34.390953063964844,
+    "y": -5.500052452087402,
+    "text": "Sincheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.625272750854492,
+    "y": -5.500052452087402,
+    "text": "Sosaeul",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 23.078344345092773,
+    "y": -5.500052452087402,
+    "text": "Wonsi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.992464065551758,
+    "y": -5.500052452087402,
+    "text": "Gochon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 31.10967254638672,
+    "y": -5.500052452087402,
+    "text": "Pungmu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 13.547003746032715,
+    "y": -5.500052452087402,
+    "text": "Sau",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 66.81314086914062,
+    "y": -5.500052452087402,
+    "text": "Geolpo Bukbyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 28.656522750854492,
+    "y": -5.500052452087402,
+    "text": "Unyang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 24.023666381835938,
+    "y": -5.500052452087402,
+    "text": "Janggi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 24.21116828918457,
+    "y": -5.500052452087402,
+    "text": "Masan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 22.218961715698242,
+    "y": -5.500052452087402,
+    "text": "Gurae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 37.1175422668457,
+    "y": -5.500052452087402,
+    "text": "Yangchon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 33.51594543457031,
+    "y": -5.500052452087402,
+    "text": "Wonjong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 21.109577178955078,
+    "y": -5.500052452087402,
+    "text": "Hagik",
+    "class": "st56 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 23.968978881835938,
+    "y": -5.500052452087402,
+    "text": "Kintex",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 61.82871627807617,
+    "y": -5.500052452087402,
+    "text": "Unjeongjungang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#G1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#UI",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#SL",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#U",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#D",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#Y",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#A",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#I2",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#I1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#K4",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#K2",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#P1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#K3",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#K1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S9",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S8",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S7",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S6",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S5",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S4",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S3",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S2",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#U",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#D",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#D",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#Y",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#Y",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#A",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#A",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#I2",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#I2",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#I1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#I1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#K4",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#K4",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#K3",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#K3",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#K3",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#K2",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#K2",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#P1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#P1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#K1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#K1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S9",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S8",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S8",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S8",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S7",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S7",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S6",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S6",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S5",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S5",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S5",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S4",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S4",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S3",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S3",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S2",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S2",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S9",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#UI",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#UI",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#S",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#G1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#G1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#SL",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#GTX-A_2_",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#GTX-A_2_",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#GTX-A_2_",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#GTX-A_2_",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#GTX-A_2_",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": 0,
+    "y": 0,
+    "ref": "#환승역",
+    "class": null
+  }
+]

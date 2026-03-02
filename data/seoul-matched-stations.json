@@ -1,0 +1,1276 @@
+[
+  {
+    "id": "ahyeon",
+    "name": "Ahyeon",
+    "dist": 29,
+    "text_x": 28.726837158203125,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "city-hall",
+    "name": "City\n\t\t\t\t\tHall",
+    "dist": 17,
+    "text_x": 16.25078558921814,
+    "text_y": 5.299947738647461
+  },
+  {
+    "id": "seryu",
+    "name": "Seryu",
+    "dist": 22,
+    "text_x": 21.250202178955078,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sema",
+    "name": "Sema",
+    "dist": 21,
+    "text_x": 20.500194549560547,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "osan",
+    "name": "Osan",
+    "dist": 20,
+    "text_x": 18.953306198120117,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "jinwi",
+    "name": "Jinwi",
+    "dist": 20,
+    "text_x": 19.25018310546875,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "jiksan",
+    "name": "Jiksan",
+    "dist": 24,
+    "text_x": 22.937719345092773,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "asan",
+    "name": "Asan",
+    "dist": 19,
+    "text_x": 18.242361068725586,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "suwon",
+    "name": "Suwon",
+    "dist": 26,
+    "text_x": 25.476804733276367,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "gosaek",
+    "name": "Gosaek",
+    "dist": 28,
+    "text_x": 27.273696899414062,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "yamok",
+    "name": "Yamok",
+    "dist": 26,
+    "text_x": 25.578369140625,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sari",
+    "name": "Sari",
+    "dist": 15,
+    "text_x": 13.93763256072998,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sanggal",
+    "name": "Sanggal",
+    "dist": 30,
+    "text_x": 29.086214065551758,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "jiseok",
+    "name": "Jiseok",
+    "dist": 24,
+    "text_x": 23.172096252441406,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "samga",
+    "name": "Samga",
+    "dist": 25,
+    "text_x": 24.80492401123047,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "gojin",
+    "name": "Gojin",
+    "dist": 20,
+    "text_x": 19.406435012817383,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "singal",
+    "name": "Singal",
+    "dist": 23,
+    "text_x": 22.242399215698242,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "guro",
+    "name": "Guro",
+    "dist": 19,
+    "text_x": 18.38298797607422,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "onsu",
+    "name": "Onsu",
+    "dist": 20,
+    "text_x": 19.476747512817383,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "seoul-station",
+    "name": "Seoul\n\t\t\t\tStation",
+    "dist": 17,
+    "text_x": 16.288029670715332,
+    "text_y": 5.299947738647461
+  },
+  {
+    "id": "uiwang",
+    "name": "Uiwang",
+    "dist": 28,
+    "text_x": 27.953392028808594,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "gunpo",
+    "name": "Gunpo",
+    "dist": 26,
+    "text_x": 24.9924259185791,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "anyang",
+    "name": "Anyang",
+    "dist": 29,
+    "text_x": 28.219018936157227,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "seoksu",
+    "name": "Seoksu",
+    "dist": 27,
+    "text_x": 26.640878677368164,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "guil",
+    "name": "Guil",
+    "dist": 16,
+    "text_x": 14.547013282775879,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sosa",
+    "name": "Sosa",
+    "dist": 18,
+    "text_x": 17.320478439331055,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "bugae",
+    "name": "Bugae",
+    "dist": 24,
+    "text_x": 23.33616065979004,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "dongsu",
+    "name": "Dongsu",
+    "dist": 29,
+    "text_x": 28.523710250854492,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "baegun",
+    "name": "Baegun",
+    "dist": 29,
+    "text_x": 28.156518936157227,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "galsan",
+    "name": "Galsan",
+    "dist": 25,
+    "text_x": 24.78148651123047,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "jakjeon",
+    "name": "Jakjeon",
+    "dist": 29,
+    "text_x": 28.42995834350586,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "imhak",
+    "name": "Imhak",
+    "dist": 24,
+    "text_x": 22.922094345092773,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "gyesan",
+    "name": "Gyesan",
+    "dist": 28,
+    "text_x": 27.328386306762695,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "dowon",
+    "name": "Dowon",
+    "dist": 27,
+    "text_x": 26.828380584716797,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "juan",
+    "name": "Juan",
+    "dist": 18,
+    "text_x": 17.632980346679688,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "dohwa",
+    "name": "Dohwa",
+    "dist": 27,
+    "text_x": 26.1330623626709,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "doksan",
+    "name": "Doksan",
+    "dist": 28,
+    "text_x": 27.75026512145996,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "ara",
+    "name": "Ara",
+    "dist": 14,
+    "text_x": 12.703246116638184,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "unseo",
+    "name": "Unseo",
+    "dist": 24,
+    "text_x": 23.734601974487305,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "incheon-intl-airport-cargo-terminal",
+    "name": "Incheon Int'l\n\t\t\t\tAirport Cargo Terminal",
+    "dist": 7,
+    "text_x": 4.5995330810546875,
+    "text_y": 5.299947738647461
+  },
+  {
+    "id": "incheon-intl-airport-terminal-1",
+    "name": "Incheon Int'l \n\t\t\t\tAirport Terminal 1",
+    "dist": 26,
+    "text_x": 25.142349243164062,
+    "text_y": 5.299947738647461
+  },
+  {
+    "id": "incheon-intl-airport-terminal-2",
+    "name": "Incheon Int'l \n\t\t\t\tAirport Terminal 2",
+    "dist": 26,
+    "text_x": 25.142349243164062,
+    "text_y": 5.299947738647461
+  },
+  {
+    "id": "gayang",
+    "name": "Gayang",
+    "dist": 28,
+    "text_x": 27.89870262145996,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "magok",
+    "name": "Magok",
+    "dist": 26,
+    "text_x": 25.0158634185791,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "nodeul",
+    "name": "Nodeul",
+    "dist": 28,
+    "text_x": 27.00806999206543,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "eonju",
+    "name": "Eonju",
+    "dist": 22,
+    "text_x": 21.38301658630371,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "balsan",
+    "name": "Balsan",
+    "dist": 25,
+    "text_x": 24.359607696533203,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "mullae",
+    "name": "Mullae",
+    "dist": 25,
+    "text_x": 24.75804901123047,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sillim",
+    "name": "Sillim",
+    "dist": 21,
+    "text_x": 19.92987823486328,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sadang",
+    "name": "Sadang",
+    "dist": 28,
+    "text_x": 27.304948806762695,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "seocho",
+    "name": "Seocho",
+    "dist": 28,
+    "text_x": 27.508075714111328,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sangdo",
+    "name": "Sangdo",
+    "dist": 28,
+    "text_x": 27.85964012145996,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "isu",
+    "name": "Isu",
+    "dist": 12,
+    "text_x": 10.836040496826172,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "express-bus-terminal",
+    "name": "Express\n\t\t\t\tBus Terminal",
+    "dist": 10,
+    "text_x": 8.44281005859375,
+    "text_y": 5.30000114440918
+  },
+  {
+    "id": "seoul-natl-univ",
+    "name": "Seoul \n\t\t\t\tNat'l Univ.",
+    "dist": 6,
+    "text_x": 3.0908470153808594,
+    "text_y": 5.299947738647461
+  },
+  {
+    "id": "daerim",
+    "name": "Daerim",
+    "dist": 28,
+    "text_x": 26.96900749206543,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "singil",
+    "name": "Singil",
+    "dist": 21,
+    "text_x": 20.03925323486328,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "ichon",
+    "name": "Ichon",
+    "dist": 22,
+    "text_x": 20.828323364257812,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "yaksu",
+    "name": "Yaksu",
+    "dist": 23,
+    "text_x": 22.04708480834961,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "oksu",
+    "name": "Oksu",
+    "dist": 20,
+    "text_x": 18.953306198120117,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sinsa",
+    "name": "Sinsa",
+    "dist": 20,
+    "text_x": 19.382997512817383,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "anguk",
+    "name": "Anguk",
+    "dist": 25,
+    "text_x": 23.883039474487305,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "hongje",
+    "name": "Hongje",
+    "dist": 28,
+    "text_x": 27.336198806762695,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "gusan",
+    "name": "Gusan",
+    "dist": 24,
+    "text_x": 23.265846252441406,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "saejeol",
+    "name": "Saejeol",
+    "dist": 27,
+    "text_x": 26.664316177368164,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "susaek",
+    "name": "Susaek",
+    "dist": 27,
+    "text_x": 26.078372955322266,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "gajwa",
+    "name": "Gajwa",
+    "dist": 23,
+    "text_x": 22.640840530395508,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "goksan",
+    "name": "Goksan",
+    "dist": 28,
+    "text_x": 27.601825714111328,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "ilsan",
+    "name": "Ilsan",
+    "dist": 18,
+    "text_x": 17.172039031982422,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "jichuk",
+    "name": "Jichuk",
+    "dist": 24,
+    "text_x": 23.781476974487305,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "juyeop",
+    "name": "Juyeop",
+    "dist": 28,
+    "text_x": 27.109634399414062,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "yadang",
+    "name": "Yadang",
+    "dist": 28,
+    "text_x": 27.77370262145996,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "paju",
+    "name": "Paju",
+    "dist": 17,
+    "text_x": 15.937651634216309,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "madu",
+    "name": "Madu",
+    "dist": 22,
+    "text_x": 21.078325271606445,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "daegok",
+    "name": "Daegok",
+    "dist": 29,
+    "text_x": 28.250268936157227,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "aeogae",
+    "name": "Aeogae",
+    "dist": 29,
+    "text_x": 28.039329528808594,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "daechi",
+    "name": "Daechi",
+    "dist": 26,
+    "text_x": 25.508056640625,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "hanti",
+    "name": "Hanti",
+    "dist": 21,
+    "text_x": 20.273630142211914,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "irwon",
+    "name": "Irwon",
+    "dist": 22,
+    "text_x": 21.711145401000977,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "suseo",
+    "name": "Suseo",
+    "dist": 23,
+    "text_x": 22.336151123046875,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "songpa",
+    "name": "Songpa",
+    "dist": 28,
+    "text_x": 27.85964012145996,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "banpo",
+    "name": "Banpo",
+    "dist": 25,
+    "text_x": 24.047103881835938,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sangsu",
+    "name": "Sangsu",
+    "dist": 27,
+    "text_x": 26.656503677368164,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "mapo",
+    "name": "Mapo",
+    "dist": 22,
+    "text_x": 21.117389678955078,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "gireum",
+    "name": "Gireum",
+    "dist": 28,
+    "text_x": 27.336198806762695,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "yongdu",
+    "name": "Yongdu",
+    "dist": 29,
+    "text_x": 28.851837158203125,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "bomun",
+    "name": "Bomun",
+    "dist": 27,
+    "text_x": 26.890880584716797,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "dolgoji",
+    "name": "Dolgoji",
+    "dist": 27,
+    "text_x": 26.1330623626709,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "wolgok",
+    "name": "Wolgok",
+    "dist": 29,
+    "text_x": 28.179956436157227,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "majang",
+    "name": "Majang",
+    "dist": 28,
+    "text_x": 27.07056999206543,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sindap",
+    "name": "Sindap",
+    "dist": 26,
+    "text_x": 25.453367233276367,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "guui",
+    "name": "Guui",
+    "dist": 18,
+    "text_x": 17.273601531982422,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "jayang",
+    "name": "Jayang",
+    "dist": 26,
+    "text_x": 25.922122955322266,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "anam",
+    "name": "Anam",
+    "dist": 22,
+    "text_x": 21.734582901000977,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "wolgye",
+    "name": "Wolgye",
+    "dist": 28,
+    "text_x": 27.906517028808594,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "hagye",
+    "name": "Hagye",
+    "dist": 24,
+    "text_x": 23.601787567138672,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "mia",
+    "name": "Mia",
+    "dist": 15,
+    "text_x": 13.453253746032715,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "suyu",
+    "name": "Suyu",
+    "dist": 19,
+    "text_x": 18.40642547607422,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "bosan",
+    "name": "Bosan",
+    "dist": 24,
+    "text_x": 22.87521743774414,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "jihaeng",
+    "name": "Jihaeng",
+    "dist": 29,
+    "text_x": 28.781524658203125,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "yangju",
+    "name": "Yangju",
+    "dist": 27,
+    "text_x": 26.047122955322266,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "yangsu",
+    "name": "Yangsu",
+    "dist": 28,
+    "text_x": 27.125259399414062,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sinwon",
+    "name": "Sinwon",
+    "dist": 28,
+    "text_x": 27.570575714111328,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "guksu",
+    "name": "Guksu",
+    "dist": 24,
+    "text_x": 23.265846252441406,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "asin",
+    "name": "Asin",
+    "dist": 17,
+    "text_x": 16.039215087890625,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "obin",
+    "name": "Obin",
+    "dist": 19,
+    "text_x": 17.922046661376953,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "dosim",
+    "name": "Dosim",
+    "dist": 24,
+    "text_x": 23.648662567138672,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "deokso",
+    "name": "Deokso",
+    "dist": 29,
+    "text_x": 27.984642028808594,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "guri",
+    "name": "Guri",
+    "dist": 17,
+    "text_x": 15.61733627319336,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "mangu",
+    "name": "Mangu",
+    "dist": 26,
+    "text_x": 25.547119140625,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sinnae",
+    "name": "Sinnae",
+    "dist": 26,
+    "text_x": 24.9689884185791,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "hoegi",
+    "name": "Hoegi",
+    "dist": 23,
+    "text_x": 21.90645980834961,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "jangji",
+    "name": "Jangji",
+    "dist": 23,
+    "text_x": 22.03145980834961,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sujin",
+    "name": "Sujin",
+    "dist": 19,
+    "text_x": 18.211111068725586,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "yatap",
+    "name": "Yatap",
+    "dist": 22,
+    "text_x": 21.547080993652344,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "imae",
+    "name": "Imae",
+    "dist": 19,
+    "text_x": 18.297048568725586,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sunae",
+    "name": "Sunae",
+    "dist": 24,
+    "text_x": 22.86740493774414,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "jeongja",
+    "name": "Jeongja",
+    "dist": 30,
+    "text_x": 29.375280380249023,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "ori",
+    "name": "Ori",
+    "dist": 13,
+    "text_x": 11.312607765197754,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "jukjeon",
+    "name": "Jukjeon",
+    "dist": 30,
+    "text_x": 29.031526565551758,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "bangi",
+    "name": "Bangi",
+    "dist": 22,
+    "text_x": 20.937700271606445,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "ogeum",
+    "name": "Ogeum",
+    "dist": 28,
+    "text_x": 27.195571899414062,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "gunja",
+    "name": "Gunja",
+    "dist": 22,
+    "text_x": 21.570518493652344,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "geoyeo",
+    "name": "Geoyeo",
+    "dist": 29,
+    "text_x": 28.633085250854492,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "jamsil",
+    "name": "Jamsil",
+    "dist": 24,
+    "text_x": 23.008031845092773,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "dogok",
+    "name": "Dogok",
+    "dist": 25,
+    "text_x": 24.304920196533203,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "moran",
+    "name": "Moran",
+    "dist": 25,
+    "text_x": 24.047103881835938,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "surisan",
+    "name": "Surisan",
+    "dist": 28,
+    "text_x": 27.258071899414062,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "banwol",
+    "name": "Banwol",
+    "dist": 28,
+    "text_x": 27.73464012145996,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sanbon",
+    "name": "Sanbon",
+    "dist": 29,
+    "text_x": 28.133081436157227,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "gojan",
+    "name": "Gojan",
+    "dist": 22,
+    "text_x": 21.609580993652344,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "choji",
+    "name": "Choji",
+    "dist": 20,
+    "text_x": 18.836116790771484,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "ansan",
+    "name": "Ansan",
+    "dist": 24,
+    "text_x": 23.070531845092773,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "oido",
+    "name": "Oido",
+    "dist": 19,
+    "text_x": 17.906421661376953,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "godeok",
+    "name": "Godeok",
+    "dist": 30,
+    "text_x": 29.000276565551758,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "gangil",
+    "name": "Gangil",
+    "dist": 24,
+    "text_x": 23.39866065979004,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "misa",
+    "name": "Misa",
+    "dist": 18,
+    "text_x": 17.187664031982422,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "amsa",
+    "name": "Amsa",
+    "dist": 21,
+    "text_x": 20.64863395690918,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "dasan",
+    "name": "Dasan",
+    "dist": 24,
+    "text_x": 22.89865493774414,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "nowon",
+    "name": "Nowon",
+    "dist": 28,
+    "text_x": 26.96900749206543,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "dong-o",
+    "name": "Dong-o",
+    "dist": 29,
+    "text_x": 28.515897750854492,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "hyoja",
+    "name": "Hyoja",
+    "dist": 22,
+    "text_x": 21.43770408630371,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "gonje",
+    "name": "Gonje",
+    "dist": 23,
+    "text_x": 21.859582901000977,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "jangam",
+    "name": "Jangam",
+    "dist": 29,
+    "text_x": 28.804962158203125,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "balgok",
+    "name": "Balgok",
+    "dist": 26,
+    "text_x": 25.218990325927734,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "madeul",
+    "name": "Madeul",
+    "dist": 28,
+    "text_x": 27.617450714111328,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "onam",
+    "name": "Onam",
+    "dist": 23,
+    "text_x": 22.445526123046875,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "jinjeop",
+    "name": "Jinjeop",
+    "dist": 27,
+    "text_x": 26.90650749206543,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "maseok",
+    "name": "Maseok",
+    "dist": 29,
+    "text_x": 28.742462158203125,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "galmae",
+    "name": "Galmae",
+    "dist": 28,
+    "text_x": 27.953392028808594,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "chunui",
+    "name": "Chunui",
+    "dist": 27,
+    "text_x": 26.35181427001953,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sangok",
+    "name": "Sangok",
+    "dist": 28,
+    "text_x": 27.258071899414062,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "darwol",
+    "name": "Darwol",
+    "dist": 27,
+    "text_x": 26.695566177368164,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "wolgot",
+    "name": "Wolgot",
+    "dist": 28,
+    "text_x": 27.02369499206543,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "yeonsu",
+    "name": "Yeonsu",
+    "dist": 28,
+    "text_x": 27.625263214111328,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "songdo",
+    "name": "Songdo",
+    "dist": 29,
+    "text_x": 28.42214584350586,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "pangyo",
+    "name": "Pangyo",
+    "dist": 28,
+    "text_x": 27.633075714111328,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sinpo",
+    "name": "Sinpo",
+    "dist": 22,
+    "text_x": 21.109577178955078,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sungui",
+    "name": "Sungui",
+    "dist": 26,
+    "text_x": 25.484617233276367,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "mansu",
+    "name": "Mansu",
+    "dist": 25,
+    "text_x": 24.73461151123047,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "unyeon",
+    "name": "Unyeon",
+    "dist": 30,
+    "text_x": 29.15652847290039,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "majeon",
+    "name": "Majeon",
+    "dist": 28,
+    "text_x": 27.570575714111328,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "juan-natl-industrial-park",
+    "name": "Juan Nat'l \n\t\t\t\tIndustrial Park",
+    "dist": 19,
+    "text_x": 18.03756332397461,
+    "text_y": 5.299947738647461
+  },
+  {
+    "id": "gajaeul",
+    "name": "Gajaeul",
+    "dist": 28,
+    "text_x": 27.539325714111328,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "chowol",
+    "name": "Chowol",
+    "dist": 29,
+    "text_x": 28.148706436157227,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "icheon",
+    "name": "Icheon",
+    "dist": 26,
+    "text_x": 25.328367233276367,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "bubal",
+    "name": "Bubal",
+    "dist": 22,
+    "text_x": 21.234577178955078,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "yeoju",
+    "name": "Yeoju",
+    "dist": 22,
+    "text_x": 21.117389678955078,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "gaori",
+    "name": "Gaori",
+    "dist": 21,
+    "text_x": 19.89862632751465,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "siu",
+    "name": "Siu",
+    "dist": 13,
+    "text_x": 11.343857765197754,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "seonbu",
+    "name": "Seonbu",
+    "dist": 29,
+    "text_x": 28.32839584350586,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "dalmi",
+    "name": "Dalmi",
+    "dist": 22,
+    "text_x": 21.40645408630371,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sosaeul",
+    "name": "Sosaeul",
+    "dist": 29,
+    "text_x": 28.625272750854492,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "wonsi",
+    "name": "Wonsi",
+    "dist": 24,
+    "text_x": 23.078344345092773,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "gochon",
+    "name": "Gochon",
+    "dist": 30,
+    "text_x": 28.992464065551758,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "sau",
+    "name": "Sau",
+    "dist": 15,
+    "text_x": 13.547003746032715,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "unyang",
+    "name": "Unyang",
+    "dist": 29,
+    "text_x": 28.656522750854492,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "janggi",
+    "name": "Janggi",
+    "dist": 25,
+    "text_x": 24.023666381835938,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "masan",
+    "name": "Masan",
+    "dist": 25,
+    "text_x": 24.21116828918457,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "gurae",
+    "name": "Gurae",
+    "dist": 23,
+    "text_x": 22.218961715698242,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "hagik",
+    "name": "Hagik",
+    "dist": 22,
+    "text_x": 21.109577178955078,
+    "text_y": -5.500052452087402
+  },
+  {
+    "id": "kintex",
+    "name": "Kintex",
+    "dist": 25,
+    "text_x": 23.968978881835938,
+    "text_y": -5.500052452087402
+  }
+]

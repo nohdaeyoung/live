@@ -1,0 +1,947 @@
+[
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "gtfs",
+    "url": "https://data.seoul.go.kr/search?q=gtfs",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "gtfs",
+    "url": "https://data.seoul.go.kr/api/search?q=gtfs",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "gtfs",
+    "url": "https://data.seoul.go.kr/openapi/search?q=gtfs",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "gtfs",
+    "url": "https://data.seoul.go.kr/dataset?q=gtfs",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "gtfs",
+    "url": "https://data.seoul.go.kr/catalog?q=gtfs",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "stops",
+    "url": "https://data.seoul.go.kr/search?q=stops",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "stops",
+    "url": "https://data.seoul.go.kr/api/search?q=stops",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "stops",
+    "url": "https://data.seoul.go.kr/openapi/search?q=stops",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "stops",
+    "url": "https://data.seoul.go.kr/dataset?q=stops",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "stops",
+    "url": "https://data.seoul.go.kr/catalog?q=stops",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "정차지",
+    "url": "https://data.seoul.go.kr/search?q=%EC%A0%95%EC%B0%A8%EC%A7%80",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "정차지",
+    "url": "https://data.seoul.go.kr/api/search?q=%EC%A0%95%EC%B0%A8%EC%A7%80",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "정차지",
+    "url": "https://data.seoul.go.kr/openapi/search?q=%EC%A0%95%EC%B0%A8%EC%A7%80",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "정차지",
+    "url": "https://data.seoul.go.kr/dataset?q=%EC%A0%95%EC%B0%A8%EC%A7%80",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "정차지",
+    "url": "https://data.seoul.go.kr/catalog?q=%EC%A0%95%EC%B0%A8%EC%A7%80",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "정류장",
+    "url": "https://data.seoul.go.kr/search?q=%EC%A0%95%EB%A5%98%EC%9E%A5",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "정류장",
+    "url": "https://data.seoul.go.kr/api/search?q=%EC%A0%95%EB%A5%98%EC%9E%A5",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "정류장",
+    "url": "https://data.seoul.go.kr/openapi/search?q=%EC%A0%95%EB%A5%98%EC%9E%A5",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "정류장",
+    "url": "https://data.seoul.go.kr/dataset?q=%EC%A0%95%EB%A5%98%EC%9E%A5",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "정류장",
+    "url": "https://data.seoul.go.kr/catalog?q=%EC%A0%95%EB%A5%98%EC%9E%A5",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "지하철",
+    "url": "https://data.seoul.go.kr/search?q=%EC%A7%80%ED%95%98%EC%B2%A0",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "지하철",
+    "url": "https://data.seoul.go.kr/api/search?q=%EC%A7%80%ED%95%98%EC%B2%A0",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "지하철",
+    "url": "https://data.seoul.go.kr/openapi/search?q=%EC%A7%80%ED%95%98%EC%B2%A0",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "지하철",
+    "url": "https://data.seoul.go.kr/dataset?q=%EC%A7%80%ED%95%98%EC%B2%A0",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "지하철",
+    "url": "https://data.seoul.go.kr/catalog?q=%EC%A7%80%ED%95%98%EC%B2%A0",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "역",
+    "url": "https://data.seoul.go.kr/search?q=%EC%97%AD",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "역",
+    "url": "https://data.seoul.go.kr/api/search?q=%EC%97%AD",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "역",
+    "url": "https://data.seoul.go.kr/openapi/search?q=%EC%97%AD",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "역",
+    "url": "https://data.seoul.go.kr/dataset?q=%EC%97%AD",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "역",
+    "url": "https://data.seoul.go.kr/catalog?q=%EC%97%AD",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "subway",
+    "url": "https://data.seoul.go.kr/search?q=subway",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "subway",
+    "url": "https://data.seoul.go.kr/api/search?q=subway",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "subway",
+    "url": "https://data.seoul.go.kr/openapi/search?q=subway",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "subway",
+    "url": "https://data.seoul.go.kr/dataset?q=subway",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "subway",
+    "url": "https://data.seoul.go.kr/catalog?q=subway",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "station",
+    "url": "https://data.seoul.go.kr/search?q=station",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "station",
+    "url": "https://data.seoul.go.kr/api/search?q=station",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "station",
+    "url": "https://data.seoul.go.kr/openapi/search?q=station",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "station",
+    "url": "https://data.seoul.go.kr/dataset?q=station",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "station",
+    "url": "https://data.seoul.go.kr/catalog?q=station",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "stops.txt",
+    "url": "https://data.seoul.go.kr/search?q=stops.txt",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "stops.txt",
+    "url": "https://data.seoul.go.kr/api/search?q=stops.txt",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "stops.txt",
+    "url": "https://data.seoul.go.kr/openapi/search?q=stops.txt",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "stops.txt",
+    "url": "https://data.seoul.go.kr/dataset?q=stops.txt",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "query": "stops.txt",
+    "url": "https://data.seoul.go.kr/catalog?q=stops.txt",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "gtfs",
+    "url": "https://data.busan.go.kr/search?q=gtfs",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "gtfs",
+    "url": "https://data.busan.go.kr/api/search?q=gtfs",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "gtfs",
+    "url": "https://data.busan.go.kr/openapi/search?q=gtfs",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "gtfs",
+    "url": "https://data.busan.go.kr/dataset?q=gtfs",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "gtfs",
+    "url": "https://data.busan.go.kr/catalog?q=gtfs",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "stops",
+    "url": "https://data.busan.go.kr/search?q=stops",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "stops",
+    "url": "https://data.busan.go.kr/api/search?q=stops",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "stops",
+    "url": "https://data.busan.go.kr/openapi/search?q=stops",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "stops",
+    "url": "https://data.busan.go.kr/dataset?q=stops",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "stops",
+    "url": "https://data.busan.go.kr/catalog?q=stops",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "정차지",
+    "url": "https://data.busan.go.kr/search?q=%EC%A0%95%EC%B0%A8%EC%A7%80",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "정차지",
+    "url": "https://data.busan.go.kr/api/search?q=%EC%A0%95%EC%B0%A8%EC%A7%80",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "정차지",
+    "url": "https://data.busan.go.kr/openapi/search?q=%EC%A0%95%EC%B0%A8%EC%A7%80",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "정차지",
+    "url": "https://data.busan.go.kr/dataset?q=%EC%A0%95%EC%B0%A8%EC%A7%80",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "정차지",
+    "url": "https://data.busan.go.kr/catalog?q=%EC%A0%95%EC%B0%A8%EC%A7%80",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "정류장",
+    "url": "https://data.busan.go.kr/search?q=%EC%A0%95%EB%A5%98%EC%9E%A5",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "정류장",
+    "url": "https://data.busan.go.kr/api/search?q=%EC%A0%95%EB%A5%98%EC%9E%A5",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "정류장",
+    "url": "https://data.busan.go.kr/openapi/search?q=%EC%A0%95%EB%A5%98%EC%9E%A5",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "정류장",
+    "url": "https://data.busan.go.kr/dataset?q=%EC%A0%95%EB%A5%98%EC%9E%A5",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "정류장",
+    "url": "https://data.busan.go.kr/catalog?q=%EC%A0%95%EB%A5%98%EC%9E%A5",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "지하철",
+    "url": "https://data.busan.go.kr/search?q=%EC%A7%80%ED%95%98%EC%B2%A0",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "지하철",
+    "url": "https://data.busan.go.kr/api/search?q=%EC%A7%80%ED%95%98%EC%B2%A0",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "지하철",
+    "url": "https://data.busan.go.kr/openapi/search?q=%EC%A7%80%ED%95%98%EC%B2%A0",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "지하철",
+    "url": "https://data.busan.go.kr/dataset?q=%EC%A7%80%ED%95%98%EC%B2%A0",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "지하철",
+    "url": "https://data.busan.go.kr/catalog?q=%EC%A7%80%ED%95%98%EC%B2%A0",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "역",
+    "url": "https://data.busan.go.kr/search?q=%EC%97%AD",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "역",
+    "url": "https://data.busan.go.kr/api/search?q=%EC%97%AD",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "역",
+    "url": "https://data.busan.go.kr/openapi/search?q=%EC%97%AD",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "역",
+    "url": "https://data.busan.go.kr/dataset?q=%EC%97%AD",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "역",
+    "url": "https://data.busan.go.kr/catalog?q=%EC%97%AD",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "subway",
+    "url": "https://data.busan.go.kr/search?q=subway",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "subway",
+    "url": "https://data.busan.go.kr/api/search?q=subway",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "subway",
+    "url": "https://data.busan.go.kr/openapi/search?q=subway",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "subway",
+    "url": "https://data.busan.go.kr/dataset?q=subway",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "subway",
+    "url": "https://data.busan.go.kr/catalog?q=subway",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "station",
+    "url": "https://data.busan.go.kr/search?q=station",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "station",
+    "url": "https://data.busan.go.kr/api/search?q=station",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "station",
+    "url": "https://data.busan.go.kr/openapi/search?q=station",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "station",
+    "url": "https://data.busan.go.kr/dataset?q=station",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "station",
+    "url": "https://data.busan.go.kr/catalog?q=station",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "stops.txt",
+    "url": "https://data.busan.go.kr/search?q=stops.txt",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "stops.txt",
+    "url": "https://data.busan.go.kr/api/search?q=stops.txt",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "stops.txt",
+    "url": "https://data.busan.go.kr/openapi/search?q=stops.txt",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "stops.txt",
+    "url": "https://data.busan.go.kr/dataset?q=stops.txt",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "query": "stops.txt",
+    "url": "https://data.busan.go.kr/catalog?q=stops.txt",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "gtfs",
+    "url": "https://www.ktdb.go.kr/search?q=gtfs",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "gtfs",
+    "url": "https://www.ktdb.go.kr/api/search?q=gtfs",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "gtfs",
+    "url": "https://www.ktdb.go.kr/openapi/search?q=gtfs",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "gtfs",
+    "url": "https://www.ktdb.go.kr/dataset?q=gtfs",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "gtfs",
+    "url": "https://www.ktdb.go.kr/catalog?q=gtfs",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "stops",
+    "url": "https://www.ktdb.go.kr/search?q=stops",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "stops",
+    "url": "https://www.ktdb.go.kr/api/search?q=stops",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "stops",
+    "url": "https://www.ktdb.go.kr/openapi/search?q=stops",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "stops",
+    "url": "https://www.ktdb.go.kr/dataset?q=stops",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "stops",
+    "url": "https://www.ktdb.go.kr/catalog?q=stops",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "정차지",
+    "url": "https://www.ktdb.go.kr/search?q=%EC%A0%95%EC%B0%A8%EC%A7%80",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "정차지",
+    "url": "https://www.ktdb.go.kr/api/search?q=%EC%A0%95%EC%B0%A8%EC%A7%80",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "정차지",
+    "url": "https://www.ktdb.go.kr/openapi/search?q=%EC%A0%95%EC%B0%A8%EC%A7%80",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "정차지",
+    "url": "https://www.ktdb.go.kr/dataset?q=%EC%A0%95%EC%B0%A8%EC%A7%80",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "정차지",
+    "url": "https://www.ktdb.go.kr/catalog?q=%EC%A0%95%EC%B0%A8%EC%A7%80",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "정류장",
+    "url": "https://www.ktdb.go.kr/search?q=%EC%A0%95%EB%A5%98%EC%9E%A5",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "정류장",
+    "url": "https://www.ktdb.go.kr/api/search?q=%EC%A0%95%EB%A5%98%EC%9E%A5",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "정류장",
+    "url": "https://www.ktdb.go.kr/openapi/search?q=%EC%A0%95%EB%A5%98%EC%9E%A5",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "정류장",
+    "url": "https://www.ktdb.go.kr/dataset?q=%EC%A0%95%EB%A5%98%EC%9E%A5",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "정류장",
+    "url": "https://www.ktdb.go.kr/catalog?q=%EC%A0%95%EB%A5%98%EC%9E%A5",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "지하철",
+    "url": "https://www.ktdb.go.kr/search?q=%EC%A7%80%ED%95%98%EC%B2%A0",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "지하철",
+    "url": "https://www.ktdb.go.kr/api/search?q=%EC%A7%80%ED%95%98%EC%B2%A0",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "지하철",
+    "url": "https://www.ktdb.go.kr/openapi/search?q=%EC%A7%80%ED%95%98%EC%B2%A0",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "지하철",
+    "url": "https://www.ktdb.go.kr/dataset?q=%EC%A7%80%ED%95%98%EC%B2%A0",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "지하철",
+    "url": "https://www.ktdb.go.kr/catalog?q=%EC%A7%80%ED%95%98%EC%B2%A0",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "역",
+    "url": "https://www.ktdb.go.kr/search?q=%EC%97%AD",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "역",
+    "url": "https://www.ktdb.go.kr/api/search?q=%EC%97%AD",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "역",
+    "url": "https://www.ktdb.go.kr/openapi/search?q=%EC%97%AD",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "역",
+    "url": "https://www.ktdb.go.kr/dataset?q=%EC%97%AD",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "역",
+    "url": "https://www.ktdb.go.kr/catalog?q=%EC%97%AD",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "subway",
+    "url": "https://www.ktdb.go.kr/search?q=subway",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "subway",
+    "url": "https://www.ktdb.go.kr/api/search?q=subway",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "subway",
+    "url": "https://www.ktdb.go.kr/openapi/search?q=subway",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "subway",
+    "url": "https://www.ktdb.go.kr/dataset?q=subway",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "subway",
+    "url": "https://www.ktdb.go.kr/catalog?q=subway",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "station",
+    "url": "https://www.ktdb.go.kr/search?q=station",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "station",
+    "url": "https://www.ktdb.go.kr/api/search?q=station",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "station",
+    "url": "https://www.ktdb.go.kr/openapi/search?q=station",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "station",
+    "url": "https://www.ktdb.go.kr/dataset?q=station",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "station",
+    "url": "https://www.ktdb.go.kr/catalog?q=station",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "stops.txt",
+    "url": "https://www.ktdb.go.kr/search?q=stops.txt",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "stops.txt",
+    "url": "https://www.ktdb.go.kr/api/search?q=stops.txt",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "stops.txt",
+    "url": "https://www.ktdb.go.kr/openapi/search?q=stops.txt",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "stops.txt",
+    "url": "https://www.ktdb.go.kr/dataset?q=stops.txt",
+    "status": 404,
+    "found": false
+  },
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "query": "stops.txt",
+    "url": "https://www.ktdb.go.kr/catalog?q=stops.txt",
+    "status": 404,
+    "found": false
+  }
+]

@@ -30,18 +30,26 @@ interface FloatingHeart {
 export function ReactionBar() {
   const [hearts, setHearts] = useState<FloatingHeart[]>([]);
   const [showCheer, setShowCheer] = useState(false);
+  const [viewerCount, setViewerCount] = useState(0);
+  const [isClient, setIsClient] = useState(false);
   const lastProcessed = useRef<string>("");
   const cheerTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const sessionId = useRef<string>("");
   const lastTrigger = useRef<number>(0);
   const sessionCount = useRef<number>(0);
-  const [viewerCount, setViewerCount] = useState(0);
 
   const MAX_PER_SESSION = 50;
   const THROTTLE_MS = 500;
 
-  // 클라이언트에서만 session ID 생성 (하이드레이션 안전)
+  // 클라이언트 마운트 확인
   useEffect(() => {
+    setIsClient(true);
+  }, []);
+
+  // 클라이언트에서만 session ID 생성
+  useEffect(() => {
+    if (!isClient || typeof sessionStorage === "undefined") return;
+    
     const stored = sessionStorage.getItem("reaction-session");
     if (stored) {
       sessionId.current = stored;
@@ -50,11 +58,11 @@ export function ReactionBar() {
       sessionStorage.setItem("reaction-session", id);
       sessionId.current = id;
     }
-  }, []);
+  }, [isClient]);
 
-  // Presence: 실시간 접속자 수 (홈/라이브 공통)
+  // Presence: 실시간 접속자 수
   useEffect(() => {
-    if (!rtdb) return;
+    if (!isClient || !rtdb || typeof window === "undefined") return;
 
     const viewerId = Math.random().toString(36).slice(2, 10);
     const viewerRef = ref(rtdb, `viewers/${viewerId}`);
@@ -78,10 +86,12 @@ export function ReactionBar() {
       unsub();
       window.removeEventListener("beforeunload", cleanup);
     };
-  }, []);
+  }, [isClient]);
 
-  // 실시간 리액션 파티클 구독 (최근 1분)
+  // 실시간 리액션 파티클 구독
   useEffect(() => {
+    if (!isClient || !db) return;
+    
     const oneMinuteAgo = new Date(Date.now() - 60 * 1000).toISOString();
     const q = query(
       collection(db, "reactions"),
@@ -111,7 +121,7 @@ export function ReactionBar() {
     });
 
     return () => unsub();
-  }, []);
+  }, [isClient]);
 
   const spawnHearts = useCallback(() => {
     const id = Date.now() + Math.random();
@@ -131,13 +141,13 @@ export function ReactionBar() {
   }, []);
 
   const triggerReaction = useCallback(async () => {
+    if (!isClient) return;
+    
     const now = Date.now();
-    // 쓰로틀: 0.5초에 1번만
     if (now - lastTrigger.current < THROTTLE_MS) {
       spawnHearts();
       return;
     }
-    // 세션당 50회 제한
     if (sessionCount.current >= MAX_PER_SESSION) {
       spawnHearts();
       return;
@@ -157,34 +167,22 @@ export function ReactionBar() {
     } catch (e) {
       console.error("Reaction save failed:", e);
     }
-  }, [spawnHearts]);
+  }, [isClient, spawnHearts]);
+
+  // SSR 중에는 아무것도 렌더링하지 않음
+  if (!isClient) return null;
 
   return (
     <>
-      {/* 배경 하트 올라가는 레이어 */}
       <div className="fixed inset-0 pointer-events-none z-40 overflow-hidden">
         <AnimatePresence>
           {hearts.map((h) => (
             <motion.div
               key={h.id}
-              initial={{
-                opacity: 0.8,
-                x: `${h.x}vw`,
-                y: "100vh",
-                scale: 0.5,
-              }}
-              animate={{
-                opacity: [0.8, 0.9, 0.6, 0],
-                x: `${h.x + h.drift / 10}vw`,
-                y: "-10vh",
-                scale: [0.5, 1.2, 1, 0.8],
-              }}
+              initial={{ opacity: 0.8, x: `${h.x}vw`, y: "100vh", scale: 0.5 }}
+              animate={{ opacity: [0.8, 0.9, 0.6, 0], x: `${h.x + h.drift / 10}vw`, y: "-10vh", scale: [0.5, 1.2, 1, 0.8] }}
               exit={{ opacity: 0 }}
-              transition={{
-                duration: h.duration,
-                delay: h.delay,
-                ease: "easeOut",
-              }}
+              transition={{ duration: h.duration, delay: h.delay, ease: "easeOut" }}
               className="absolute text-reaction-heart"
               style={{ fontSize: h.size }}
             >
@@ -194,7 +192,6 @@ export function ReactionBar() {
         </AnimatePresence>
       </div>
 
-      {/* 좌측 하단 하트 버튼 */}
       <div className="fixed bottom-6 left-6 z-50 flex items-center gap-2">
         <div className="relative">
           {viewerCount >= 3 && (
@@ -207,14 +204,10 @@ export function ReactionBar() {
             className="flex items-center gap-1.5 px-3 py-2.5 rounded-full glass shadow-xl hover:shadow-2xl active:scale-90 transition-all group"
             aria-label="응원하기"
           >
-            <Heart
-              className="transition-colors text-reaction-heart fill-reaction-heart animate-heartbeat"
-              size={22}
-            />
+            <Heart className="transition-colors text-reaction-heart fill-reaction-heart animate-heartbeat" size={22} />
             <span className="text-xs font-bold text-text-muted">응원하기</span>
           </button>
         </div>
-        {/* 응원 토스트 */}
         <AnimatePresence>
           {showCheer && (
             <motion.div

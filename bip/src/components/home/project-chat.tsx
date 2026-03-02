@@ -97,7 +97,7 @@ export function ProjectChat({ roomId = "general" }: { roomId?: string }) {
         <div className="space-y-2">
           {messages.map((m)=> (
             <div key={m.id} className="flex flex-col">
-              <div className="text-[12px] text-text-muted">{m.author}{m.aiGenerated? ' · AI' : ''}</div>
+              <div className="text-[12px] text-text-muted">{m.author}</div>
               <div className="text-sm bg-gray-100 inline-block px-3 py-1 rounded-md max-w-[85%]">{m.text}</div>
             </div>
           ))}

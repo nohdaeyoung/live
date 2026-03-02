@@ -57,6 +57,7 @@ export function useLiveChat(initialLimit = PAGE_SIZE) {
 
   // 백그라운드→포그라운드 복귀 시 재구독
   useEffect(() => {
+    if (typeof document === "undefined") return;
     const handleVisibility = () => {
       if (document.visibilityState === "visible") {
         // 구독 재시작 (subKey 변경 → onSnapshot useEffect 재실행)

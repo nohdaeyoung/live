@@ -1,5 +1,13 @@
 {
+  "name": "photo-gallery",
+  "private": true,
+  "scripts": {
+    "dev": "NEXT_TURBO=false next dev",
+    "build": "next build",
+    "start": "next start"
+  },
   "dependencies": {
+    "adm-zip": "^0.5.16",
     "chokidar": "^5.0.0",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
@@ -7,10 +15,19 @@
     "firebase": "^12.9.0",
     "firebase-admin": "^13.6.1",
     "framer-motion": "^12.34.0",
+    "jsdom": "^28.1.0",
     "lucide-react": "^0.564.0",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.37.5",
     "react-markdown": "^10.1.0",
     "react-router-dom": "^7.13.0",
     "react-syntax-highlighter": "^16.1.0",
     "tailwind-merge": "^3.4.1"
+  },
+  "devDependencies": {
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "typescript": "5.9.3"
   }
 }

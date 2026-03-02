@@ -1,0 +1,39 @@
+[
+  {
+    "portal": "https://www.ktdb.go.kr",
+    "status": 200,
+    "matches": []
+  },
+  {
+    "portal": "https://data.busan.go.kr",
+    "status": 200,
+    "matches": []
+  },
+  {
+    "portal": "https://data.seoul.go.kr",
+    "status": 200,
+    "matches": []
+  },
+  {
+    "portal": "https://old.gtfs.org/resources/data/",
+    "status": 200,
+    "matches": [
+      "../../schedule/examples/routes-stops-trips/",
+      "../../schedule/examples/continuous-stops/",
+      "about:blank#3rd-party-gtfs-url-directories",
+      "about:blank#sample-gtfs-and-gtfs-realtime-datasets-used-for-software-testing",
+      "../gtfs/",
+      "../gtfs-realtime/",
+      "http://www.gtfs-data-exchange.com/agencies",
+      "https://openmobilitydata.org/search?q=gtfsrt",
+      "https://github.com/mfdz/gtfs-hub",
+      "https://github.com/public-transport/sample-gtfs-feed",
+      "https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/",
+      "https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/resources",
+      "https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/java/edu/usf/cutr/gtfsrtvalidator/lib/test/rules",
+      "https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test/resources/gtfs",
+      "https://github.com/opentripplanner/OpenTripPlanner/blob/dev-2.x/src/test/java/org/opentripplanner/GtfsTest.java",
+      "https://share.mobilitydata.org/gtfs-org-feedback-form?usp=pp_url&entry.942719219=/resources/data/"
+    ]
+  }
+]

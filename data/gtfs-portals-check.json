@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://data.seoul.go.kr",
+    "status": 404
+  },
+  {
+    "url": "https://www.ktdb.go.kr",
+    "status": 200
+  },
+  {
+    "url": "https://data.busan.go.kr",
+    "status": 200
+  },
+  {
+    "url": "https://old.gtfs.org/resources/data/",
+    "status": 200
+  },
+  {
+    "url": "https://datahub.io/core/gtfs",
+    "status": 404
+  }
+]

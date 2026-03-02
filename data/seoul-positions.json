@@ -1,0 +1,7027 @@
+[
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "PA"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "PD"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "PG1"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "PGXA"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "PI1"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "PI2"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "PK1"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "PK2"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "st7"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "PK4"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "PP1"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "PS"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "P1"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "P2"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "P3"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "P4"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "P5"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "P6"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "P7"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "P8"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "P9"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "PSL"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "PU"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "PUI"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "st22"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "PY"
+  },
+  {
+    "type": "circle",
+    "cx": 0,
+    "cy": 0,
+    "raw": {
+      "cx": 0,
+      "cy": 0
+    },
+    "class": "st1"
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#G1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#UI",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#SL",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#U",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#D",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#Y",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#A",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#I2",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#I1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#K4",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#K2",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#P1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#K3",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#K1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S9",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S8",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S7",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S6",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S5",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S4",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S3",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S2",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#U",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#D",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#D",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#Y",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#Y",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#A",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#A",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#I2",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#I2",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#I1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#I1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#K4",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#K4",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#K3",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#K3",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#K3",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#K2",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#K2",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#P1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#P1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#K1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#K1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S9",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S8",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S8",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S8",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S7",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S7",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S6",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S6",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S5",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S5",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S5",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S4",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S4",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S3",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S3",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S2",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S2",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S9",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#UI",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#UI",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#S",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#G1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#G1",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#SL",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#GTX-A_2_",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#GTX-A_2_",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#GTX-A_2_",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#GTX-A_2_",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#GTX-A_2_",
+    "class": null
+  },
+  {
+    "type": "use",
+    "x": null,
+    "y": null,
+    "refId": "#환승역",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "250628 Not to scale",
+    "class": "T st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ganseok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gaehwasan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gubanpo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinnonhyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seoul Nat'l Univ. of Education",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hoehyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Myeong-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Beotigogae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Singeumho",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gangnam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seonjeongneung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dunchon Oryun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Euljiro 3(sam)-ga",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jongno 5(o)-ga",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Euljiro 4(sa)-ga",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongdaemun History & Culture Park",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongdaemun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinseol-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seoul Forest",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Mongchontoseong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeongdeungpo-gu Office",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Boramae Medical Center",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Boramae Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seoul Regional Office of Military Manpower",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jangseungbaegi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sindaebangsamgeori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Samseong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeongdeungpo Market",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sangwangsimni",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sapyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Cheonggu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinyongsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Eungbong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yongsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ewha Womans Univ.",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinchon (Underground)",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hanyang Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ttukseom",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Namyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ahyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Heungseon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seongnam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gwanghwamun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seodaemun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bulgwang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "City Hall",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hwajeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jeongbalsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ganseok",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gaehwasan",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gubanpo",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinnonhyeon",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seoul Nat'l Univ. of Education",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hoehyeon",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Myeong-dong",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Beotigogae",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Singeumho",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gangnam",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seonjeongneung",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dunchon Oryun",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Euljiro 3(sam)-ga",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jongno 5(o)-ga",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Euljiro 4(sa)-ga",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongdaemun History & Culture Park",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongdaemun",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinseol-dong",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seoul Forest",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Mongchontoseong",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeongdeungpo-gu Office",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Boramae Medical Center",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Boramae Park",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seoul Regional Office of Military Manpower",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jangseungbaegi",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sindaebangsamgeori",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Samseong",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeongdeungpo Market",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sangwangsimni",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sapyeong",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Cheonggu",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinyongsan",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Eungbong",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yongsan",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ewha Womans Univ.",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinchon (Underground)",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hanyang Univ.",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ttukseom",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Namyeong",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ahyeon",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Heungseon",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seongnam",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gwanghwamun",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seodaemun",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bulgwang",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "City Hall",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hwajeong",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jeongbalsan",
+    "class": "st53 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ganseok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gaehwasan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gubanpo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinnonhyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seoul Nat'l Univ. of Education",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hoehyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Myeong-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Beotigogae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Singeumho",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gangnam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seonjeongneung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dunchon Oryun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Euljiro 3(sam)-ga",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jongno 5(o)-ga",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Euljiro 4(sa)-ga",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongdaemun History & Culture Park",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongdaemun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinseol-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seoul Forest",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Mongchontoseong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeongdeungpo-gu Office",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Boramae Medical Center",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Boramae Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seoul Regional Office of Military Manpower",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jangseungbaegi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sindaebangsamgeori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Samseong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeongdeungpo Market",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sangwangsimni",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sapyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Cheonggu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinyongsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Eungbong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yongsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ewha Womans Univ.",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinchon (Underground)",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hanyang Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ttukseom",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Namyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ahyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Heungseon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seongnam",
+    "class": "T st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gwanghwamun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seodaemun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bulgwang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "City Hall",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hwajeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jeongbalsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Transfer",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gimpo Goldline",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ui-Sinseol Line",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sillim Line",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Uijeongbu LRT (U Line)",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Shinbundang Line (DX Line)",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Great Train eXpress Line A (GTX-A)",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yongin Everline",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Airport Railroad (AREX)",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Incheon Line 2",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Incheon Line 1",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seohae Line",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gyeonggang Line",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Suin-Bundang Line",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gyeongchun Line",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gyeongui-Jungang Line",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Line 9",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Line 8",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Line 7",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Line 6",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Line 5",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Line 4",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Line 3",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Line 2",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Line 1",
+    "class": "st49 st54"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seoul Metropolitan Subway Map",
+    "class": "T st49 st55"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gyeonggi Gwangju",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Byeongjeom",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seryu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hwaseo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sungkyunkwan Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sema",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seodongtan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongtan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Osan College",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Osan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jinwi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Songtan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seojeong-ri",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "PyeongtaekJije",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Pyeongtaek",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seonghwan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jiksan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dujeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Cheonan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bongmyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ssangyong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Asan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Baebang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Tangjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Onyangoncheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinchang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Suwon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gosaek",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Omokcheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Eocheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yamok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sari",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Maegyo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Suwon City Hall",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Maetan-gwonseon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Mangpo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeongtong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Cheongmyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sanggal",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Kangnam Univ.",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jiseok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Eojeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Giheung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongbaek",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Chodang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Samga",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "City Hall·Yongin Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Myongji Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gimnyangjang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bopyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jeondae·Everland",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gojin",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yongin Jungang Market",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dunjeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Singal",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Guseong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Geumjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Geumcheon-gu Office",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Guro",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sindorim",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Onsu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gasan Digital Complex",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seoul Station",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeonsinnae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Chungjeongno",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Uiwang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gunpo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Myeonghak",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Anyang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gwanak",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seoksu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Guil",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Cheolsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gwangmyeongsageori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gaebong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Oryu-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Cheonwang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeokgok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sosa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bucheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jung-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Songnae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bugae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongsu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ganseogogeori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bupyeongsamgeori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Baegun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Incheon City Hall",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bupyeong Market",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Galsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jakjeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Imhak",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gyesan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bakchon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gyulhyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gyeongin Nat'l Univ. of Education",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Curture & Arts Center",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Incheon Bus Terminal",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Munhak Sports Complex",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seonhak",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinyeonsu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongchun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongmak",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Campus Town",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Technopark",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "BIT Zone",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Incheon Nat'l Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Central Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Int'l Business District",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Songdo Moonlight Festival Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dowon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongincheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Incheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Juan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dohwa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jemulpo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Doksan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gwangmyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Woninjae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bupyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bupyeong-gu Office",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gyeyang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ara",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Singeomdanjungang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Geomdan Lake Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Geomam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Cheongna Int'l City",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeongjong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Unseo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Incheon Int'l Airport Cargo Terminal",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Incheon Int'l Airport Terminal 1",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Incheon Int'l Airport Terminal 2",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Banghwa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Airport Market",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinbanghwa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yangchon Hyanggyo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gayang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jeungmi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "National Assembly",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Saetgang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Heukseok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Magongnaru",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Songjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gaehwa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Magok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Deungchon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeomchang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinmokdong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seonyudo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Nodeul",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinbanpo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Eonju",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Balsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ujangsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hwagok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Kkachisan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Mok-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Omokgyo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yangpyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dangsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hapjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinjeongnegeori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yangcheon-gu Office",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dorimcheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Mullae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Namguro",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Guro Digital Complex",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sindaebang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sillim",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bongcheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Nakseongdae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gwanaksan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seowon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seoul Nat'l Univ. Venture Town",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Danggok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sadang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongjak",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Namseong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Naebang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seocho",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Nambu Bus Terminal",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bangbae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sangdo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Soongsil Univ.",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Isu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Express Bus Terminal",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seoul Nat'l Univ.",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Boramae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinpung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeongdeungpo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Daebang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Daerim",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Singil",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sookmyung Women's Univ.",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Chungmuro",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sindang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hangangjin",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Itaewon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Noksapyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hannam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seobinggo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Geumho",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Haengdang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ichon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yaksu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Samgakji",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Noryangjin",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeouido",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Oksu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Wangsimni",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gongdeok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Apgujeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jamwon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinsa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinchon (Gyeongui Line)",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hongik Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Anguk",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongnimmun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gyeongbokgung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Mukajae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hongje",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Nokbeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeokchon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dokbawi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gusan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Eungam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Saejeol",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jeungsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Digital Media City",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Susaek",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gajwa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sogang Univ.",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Korea Aerospace Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Haengsin",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gangmae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Neunggok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Goksan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Baengma",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Pungsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ilsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Mapo-gu Office",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "World Cup Stadium",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Mangwon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gupabal",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jichuk",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Samsong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Wonheung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Daehwa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Juyeop",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Tanhyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Unjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yadang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Geumneung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Geumchon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Wollong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Paju",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Munsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Uncheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dorasan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Imjingang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Madu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Baekseok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Daegok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Wondang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Aeogae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yangjae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeoksam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Maebong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hak-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Samseongjungang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bongeunsa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Nonhyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gangnam-gu Office",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Apgujeongrodeo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Cheongdam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sports Complex",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jamsilsaenae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gaepo-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Guryong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Daemosan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Daechi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hanti",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seolleung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hangnyeoul",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Irwon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Suseo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Garak Market",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jamsillaru",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Songpa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Samjeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hanseong Baekje",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "VHS Medical Center",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seokchon Gobun",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Songpanaru",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seokchon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Banpo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Daecheong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sangsu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gwangheungchang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Daeheung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeouinaru",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Mapo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hyochang Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jonggak",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongguk Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Euljiro 1(il)-ga",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jongno 3(sam)-ga",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongmyo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hyehwa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hansung Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sungshin Women's Univ.",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gireum",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Miasageori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yongdu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Changsin",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bomun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dolgoji",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sangwolgok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Wolgok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Korea Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jegi-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yongdap",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Majang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sindap",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dapsimni",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Janghanpyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Achasan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gwangnaru",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gangbyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Guui",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Children's Grand Park",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jayang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Konkuk Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seongsu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Anam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hankuk Univ. of Foreign Studies",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinimun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jungnang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Junghwa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Meokgol",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hwarangdae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bonghwasan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gongneung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Kwangwoon Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Wolgye",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hagye",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Junggye",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Nokcheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Mia",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Suyu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ssangmun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Soyosan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongducheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bosan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeoncheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jeongok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Cheongsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongducheonjungang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jihaeng",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Deokjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Deokgye",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yangju",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Nogyang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ganeung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Uijeongbu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hoeryong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yongmun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jipyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yangsu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinwon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Guksu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Asin",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Obin",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yangpyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Wondeok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ungilsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Paldang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dosim",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Deokso",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yangjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Donong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Guri",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yangwon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Mangu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sangbong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Myeonmok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sagajeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinnae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yongmasan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Junggok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Cheongnyangni",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hoegi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Munjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jangji",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sanseong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Namwirye",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Namhansanseong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dandaeogeori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinheung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sujin",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gachon Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Taepyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yatap",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Imae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sunae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seohyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jeongja",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Migeum",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bojeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jukjeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dongcheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Suji-gu Office",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seongbok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sanghyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gwanggyo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gwanggyo Jungang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dunchon-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Olympic Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bangi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ogeum",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gangdong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Cheonho",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gunja",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gaerong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Geoyeo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Macheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jamsil",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dogok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Moran",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bokjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Namtaeryeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seonbawi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seoul Racecource Park",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seoul Grand Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Government Complex Gwacheon",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Indeogwon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Pyeongchon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Beomgye",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gwacheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Surisan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Daeyami",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Banwol",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sanbon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sangnoksu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hanyang Univ. at Ansan",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jungang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gojan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Choji",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Ansan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Singil oncheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jeongwang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Oido",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gil-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gubeundari",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Myeongil",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Godeok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sangil-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gangil",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Misa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hanam Pungsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hanam Geomdansan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hanam City Hall",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gimpo Int'l Airport",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Amsa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Amsa History Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jangja Lake Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Donggureung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dasan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gangdong-gu Office",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Nowon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Taereung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seokgye",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Chang-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Mangwolsa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Beomgol",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "LRT Uijeongbu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Mangwolsa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Uijeongbu Jung-ang",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dong-o",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sae-mal",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gyeonggi Provincial Government Northern Office",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hyoja",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gonje",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Eoryong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Songsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Tapseok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dobongsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jangam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Balgok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Suraksan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Madeul",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dobong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Banghak",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Buramsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Byeollaebyeolgaram",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Onam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jinjeop",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sanggye",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "National Police Hospital",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dangjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Chuncheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gapyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gulbongsan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Baegyang-ri",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gangchon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gimyujeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Namchuncheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sangcheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "PyeongnaeHopyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Maseok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Cheonmasan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Daeseong-ri",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Cheongpyeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Geumgok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Toegyewon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Galmae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Byeollae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sareung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Kkachiul",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bucheon Stadium",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Chunui",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Shinjung-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bucheon City Hall",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sang-dong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Samsan Gymnasium",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gulpocheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sangok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Darwol",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Wolgot",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Soraepogu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Incheon Nonhyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hogupo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Namdong Induspark",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeonsu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Songdo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Pangyo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Cheonggyesan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yangjae Citizen's Forest",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Inha Univ.",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinpo",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sungui",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Namdong-gu Office",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Incheon Grand Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seokcheon Sageori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Moraenae Market",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Mansu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Unyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Geomdan Oryu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Geomdan Sageori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Majeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Wanjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dokjeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Geombawi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Asiad Stadium",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seo-gu Office",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gajeong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gajeong Central Market",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seongnam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Western Women's Community Center",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Incheon Gajwa",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Juan Nat'l Industrial Park",
+    "class": null
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Citizen Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seokbawi Market",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gajaeul",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Wanggil",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Samdong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Chowol",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gonjiam",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sindundoyechon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Icheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bubal",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sejongdaewangneung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yeoju",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Jeongneung",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "April 19th National Cemetery",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bukhansan Ui",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Solbat Park",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gaori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hwagye",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Samyang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Samyangsageori",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Solsaem",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Bukhansan Bogungmun",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Siu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Seonbu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Dalmi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Siheung Neunggok",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Siheung City Hall",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sinhyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Siheung Daeya",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sincheon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sosaeul",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Wonsi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gochon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Pungmu",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Sau",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Geolpo Bukbyeon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Unyang",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Janggi",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Masan",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Gurae",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Yangchon",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Wonjong",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Hagik",
+    "class": "st56 st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Kintex",
+    "class": "st49 st50"
+  },
+  {
+    "type": "text",
+    "x": 0,
+    "y": 0,
+    "text": "Unjeongjungang",
+    "class": "st49 st50"
+  }
+]
